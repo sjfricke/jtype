@@ -1,0 +1,2816 @@
+{
+    "name": "onomappu_party",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "飲み会って怖いですよね",
+            "kana": "のみかいってこわいですよね",
+            "translation": "Parties are scary right?",
+            "furigana": [
+                0,
+                1,
+                2,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2.mp3"
+        },
+        {
+            "kanji": "飲み会の時に途中で気まずくなったり",
+            "kana": "のみかいのときにとちゅうできまずくなったり",
+            "translation": "A party can suddenly become awkward",
+            "furigana": [
+                0,
+                1,
+                2,
+                2,
+                5,
+                2,
+                8,
+                4,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "3.mp3"
+        },
+        {
+            "kanji": "どうやってコミュニケーションしたらいいかわからないっていう経験ありませんか",
+            "kana": "どうやってコミュニケーションしたらいいかわからないっていうけいけんありませんか",
+            "translation": "and don't know how to start a conversation with somebody. Have you experienced this?",
+            "furigana": [
+                29,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "5.mp3"
+        },
+        {
+            "kanji": "その時の気持ちはもうポテトチップスの角にあるあの粉みたいな",
+            "kana": "そのときのきもちはもうポテトチップスのかくにあるあのこなみたいな",
+            "translation": "In such situations don't you just feel like the powder in the bottom corner of a potato chips bag?",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                19,
+                2,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "6.mp3"
+        },
+        {
+            "kanji": "もう自分はこのパーティーのカスだって感じる人もいるんじゃないかなと思います",
+            "kana": "もうじぶんはこのパーティーのカスだってかんじるひともいるんじゃないかなとおもいます",
+            "translation": "I'm sure some of you may sometimes feel like the kasu\" - the leftovers or junk of the party",
+            "furigana": [
+                2,
+                3,
+                19,
+                2,
+                23,
+                2,
+                36,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "7.mp3"
+        },
+        {
+            "kanji": "ただでさえ飲み会は怖いと思うんですけど",
+            "kana": "ただでさえのみかいはこわいとおもうんですけど",
+            "translation": "In addition to parties already being scary",
+            "furigana": [
+                5,
+                1,
+                7,
+                2,
+                10,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "8.mp3"
+        },
+        {
+            "kanji": "もし皆さんが日本で飲み会をするとしたらどうですか",
+            "kana": "もしみなさんがにほんでのみかいをするとしたらどうですか",
+            "translation": "What would you do if you came to a Japanese party?",
+            "furigana": [
+                2,
+                2,
+                7,
+                3,
+                11,
+                1,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "9.mp3"
+        },
+        {
+            "kanji": "その時日本語話すの怖いし",
+            "kana": "そのときにほんごはなすのこわいし",
+            "translation": "Speaking Japanese is scary",
+            "furigana": [
+                2,
+                2,
+                4,
+                4,
+                8,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "10.mp3"
+        },
+        {
+            "kanji": "しかも日本では多分皆さんの国と飲み会のやり方が違うんですよ",
+            "kana": "しかもにほんではたぶんみなさんのくにとのみかいのやりかたがちがうんですよ",
+            "translation": "and how we do things might also be different from where you're from",
+            "furigana": [
+                3,
+                3,
+                8,
+                3,
+                11,
+                2,
+                16,
+                2,
+                19,
+                1,
+                21,
+                2,
+                26,
+                2,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "11.mp3"
+        },
+        {
+            "kanji": "ですので今日は皆さんを救う方法を僕が教えたいと思います",
+            "kana": "ですのできょうはみなさんをすくうほうほうをぼくがおしえたいとおもいます",
+            "translation": "But I'm here to save you with today's video",
+            "furigana": [
+                4,
+                3,
+                8,
+                2,
+                13,
+                2,
+                16,
+                4,
+                21,
+                2,
+                24,
+                2,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "12.mp3"
+        },
+        {
+            "kanji": "それでは今日それを教える時に重要なオノマトペを紹介したいと思います",
+            "kana": "それではきょうそれをおしえるときにじゅうようなオノマトペをしょうかいしたいとおもいます",
+            "translation": "And today I'll need an onomatopoeia to explain everything",
+            "furigana": [
+                4,
+                3,
+                10,
+                2,
+                14,
+                2,
+                17,
+                5,
+                29,
+                5,
+                38,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "14.mp3"
+        },
+        {
+            "kanji": "ではどうぞ",
+            "kana": "ではどうぞ",
+            "translation": "Let's see",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "15.mp3"
+        },
+        {
+            "kanji": "ノリノリはテンションが高くて気分が上がっている状態を表します",
+            "kana": "ノリノリはテンションがたかくてきぶんがあがっているじょうたいをあらわします",
+            "translation": "Nori nori describes a state of high spirit",
+            "furigana": [
+                11,
+                2,
+                15,
+                3,
+                19,
+                1,
+                25,
+                5,
+                31,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "16.mp3"
+        },
+        {
+            "kanji": "例えば音楽を聴いていてこういう人見たことないですか",
+            "kana": "たとえばおんがくをきいていてこういうひとみたことないですか",
+            "translation": "For example have you ever seen a person listening to music like this?",
+            "furigana": [
+                0,
+                2,
+                4,
+                4,
+                9,
+                1,
+                18,
+                2,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "17.mp3"
+        },
+        {
+            "kanji": "そういう人がいたらあの人めっちゃノリノリだねっていう言い方ができます",
+            "kana": "そういうひとがいたらあのひとめっちゃノリノリだねっていういいかたができます",
+            "translation": "When there's a person like that around you might say \"Oh he's nori nori\" (he's into it, he's enjoying himself)",
+            "furigana": [
+                4,
+                2,
+                12,
+                2,
+                28,
+                1,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "18.mp3"
+        },
+        {
+            "kanji": "このノリノリのノリは例えば車を乗るとかのあの乗るから来ています",
+            "kana": "このノリノリのノリはたとえばくるまをのるとかのあののるからきています",
+            "translation": "The \"nori\" in nori nori comes from the word \"noru\"  as in to get on/ride a car",
+            "furigana": [
+                10,
+                2,
+                14,
+                3,
+                18,
+                1,
+                25,
+                1,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "19.mp3"
+        },
+        {
+            "kanji": "車に乗る電車に乗るバイクに乗る自転車に乗る飛行機に乗る",
+            "kana": "くるまにのるでんしゃにのるバイクにのるじてんしゃにのるひこうきにのる",
+            "translation": "to get in a car, to get on a train, to ride a motorcycle, to ride a bike, get on a plane",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                6,
+                4,
+                11,
+                1,
+                17,
+                1,
+                19,
+                5,
+                25,
+                1,
+                27,
+                4,
+                32,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                3,
+                1,
+                3,
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "さっきみたいにこういうふうに音楽聴いている人がいたら",
+            "kana": "さっきみたいにこういうふうにおんがくきいているひとがいたら",
+            "translation": "Like I said before if there's a person listening to music like this",
+            "furigana": [
+                14,
+                4,
+                18,
+                1,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "その音楽に何か「乗っている」感じだっていうことを表したいので",
+            "kana": "そのおんがくになにか「のっている」かんじだっていうことをあらわしたいので",
+            "translation": "it's like they are riding on the music",
+            "furigana": [
+                2,
+                4,
+                7,
+                2,
+                11,
+                1,
+                17,
+                2,
+                28,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "25.mp3"
+        },
+        {
+            "kanji": "その時にあの人めっちゃノリノリだねとか",
+            "kana": "そのときにあのひとめっちゃノリノリだねとか",
+            "translation": "and so you can call it \"being very nori nori\"",
+            "furigana": [
+                2,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "あの人めっちゃ音楽にノっているという言い方ができます",
+            "kana": "あのひとめっちゃおんがくにノっているといういいかたができます",
+            "translation": "or \"they're so into this music (they're riding on it)\"",
+            "furigana": [
+                2,
+                2,
+                8,
+                4,
+                21,
+                1,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "27.mp3"
+        },
+        {
+            "kanji": "ほかにもこのノリノリは例えば友達とどこかへ旅行に行く計画を作っている時に",
+            "kana": "ほかにもこのノリノリはたとえばともだちとどこかへりょこうにいくけいかくをつくっているときに",
+            "translation": "This nori nori can also be used when you're making plans to go on a trip with friends",
+            "furigana": [
+                11,
+                2,
+                15,
+                4,
+                24,
+                4,
+                29,
+                1,
+                31,
+                4,
+                36,
+                2,
+                42,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "友達がその場所にすごい行きたいから",
+            "kana": "ともだちがそのばしょにすごいいきたいから",
+            "translation": "and your friends really want to go to this place and go like",
+            "furigana": [
+                0,
+                4,
+                7,
+                3,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "じゃあこの日はここに行こうこの日はここに行こうとか",
+            "kana": "じゃあこのひはここにいこうこのひはここにいこうとか",
+            "translation": "Let's go here on this day! and Let's go there on that day!",
+            "furigana": [
+                5,
+                1,
+                10,
+                1,
+                15,
+                1,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "30.mp3"
+        },
+        {
+            "kanji": "すごい積極的にプランを作っている時にすごいノリノリじゃん",
+            "kana": "すごいせっきょくてきにプランをつくっているときにすごいノリノリじゃん",
+            "translation": "(you can say) \"You're being so nori nori\" When they're really proactive with making plans",
+            "furigana": [
+                3,
+                5,
+                8,
+                2,
+                15,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "これも早く行きたいっていう気分に乗っている",
+            "kana": "これもはやくいきたいっていうきぶんにのっている",
+            "translation": "it's like getting in the mood (in jp kibun ni noru - get on the mood) of \"I want to go alreadyyy\"",
+            "furigana": [
+                3,
+                2,
+                6,
+                1,
+                14,
+                3,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "33.mp3"
+        },
+        {
+            "kanji": "だからノリノリという言葉が使えます",
+            "kana": "だからノリノリということばがつかえます",
+            "translation": "That's why you can use nori nori there",
+            "furigana": [
+                10,
+                3,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "さっきの音楽の時もプランを作る時も",
+            "kana": "さっきのおんがくのときもプランをつくるときも",
+            "translation": "Same with the music and the planning",
+            "furigana": [
+                4,
+                4,
+                9,
+                2,
+                16,
+                2,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "何かもっともっとみたいな気持ちがあるじゃないですか",
+            "kana": "なにかもっともっとみたいなきもちがあるじゃないですか",
+            "translation": "there's this feeling of wanting more and more right",
+            "furigana": [
+                0,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "この時にノリノリという言葉が使えます",
+            "kana": "このときにノリノリということばがつかえます",
+            "translation": "that's when you can use the word nori nori",
+            "furigana": [
+                2,
+                2,
+                12,
+                3,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "37.mp3"
+        },
+        {
+            "kanji": "そこで僕は日本の飲み会のイメージのままイギリスの飲み会に行ったら",
+            "kana": "そこでぼくはにほんののみかいのイメージのままイギリスののみかいにいったら",
+            "translation": "I went expecting it to be like a Japanese party",
+            "furigana": [
+                3,
+                2,
+                6,
+                3,
+                10,
+                1,
+                12,
+                2,
+                27,
+                1,
+                29,
+                2,
+                32,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "マジでビックリしました",
+            "kana": "マジでビックリしました",
+            "translation": "and I was so surprised",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "40.mp3"
+        },
+        {
+            "kanji": "みんな音楽つけてなんか音楽にノリノリでダンスをノリノリで踊っていました",
+            "kana": "みんなおんがくつけてなんかおんがくにノリノリでダンスをノリノリでおどっていました",
+            "translation": "Everyone was listening to music and getting nori nori and dancing to the music",
+            "furigana": [
+                3,
+                4,
+                13,
+                4,
+                32,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "41.mp3"
+        },
+        {
+            "kanji": "なんかどうやって他の人に話しかけたらいいかもわかりませんでした",
+            "kana": "なんかどうやってほかのひとにはなしかけたらいいかもわかりませんでした",
+            "translation": "and I had no idea how to talk to anybody",
+            "furigana": [
+                8,
+                2,
+                11,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "43.mp3"
+        },
+        {
+            "kanji": "頑張って僕もみんなと一緒にノリノリになろうとするんですけど",
+            "kana": "がんばってぼくもみんなといっしょにノリノリになろうとするんですけど",
+            "translation": "I was trying my best to get into the mood like everybody else",
+            "furigana": [
+                0,
+                3,
+                5,
+                2,
+                12,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "ノリノリはその人の状態とかそういうことを表すんですけど",
+            "kana": "ノリノリはそのひとのじょうたいとかそういうことをあらわすんですけど",
+            "translation": "Nori nori describes a state someone is in",
+            "furigana": [
+                7,
+                2,
+                10,
+                5,
+                24,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "46.mp3"
+        },
+        {
+            "kanji": "ノリっと一回だけ言った場合は",
+            "kana": "ノリっといっかいだけいったばあいは",
+            "translation": "If you just say nori once",
+            "furigana": [
+                4,
+                2,
+                6,
+                2,
+                10,
+                1,
+                13,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "48.mp3"
+        },
+        {
+            "kanji": "その時の流れの様子を表します",
+            "kana": "そのときのながれのようすをあらわします",
+            "translation": "you describe the flow of the situation",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                9,
+                3,
+                13,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "49.mp3"
+        },
+        {
+            "kanji": "例えばノリがいい人はノリノリになりやすい人で遊ぼうよと言った時に",
+            "kana": "たとえばノリがいいひとはノリノリになりやすいひとであそぼうよといったときに",
+            "translation": "For example a person who has good nori means he can get in the mood easily so when you ask him to hang out",
+            "furigana": [
+                0,
+                2,
+                9,
+                2,
+                22,
+                2,
+                25,
+                2,
+                31,
+                1,
+                34,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "すぐいいよとなんか、その話に乗ってくる",
+            "kana": "すぐいいよとなんか、そのはなしにのってくる",
+            "translation": "he'll go with the flow right away",
+            "furigana": [
+                12,
+                3,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "その話に参加してくるみたいな意味があります",
+            "kana": "そのはなしにさんかしてくるみたいないみがあります",
+            "translation": "meaning he'll quickly join in the conversation",
+            "furigana": [
+                2,
+                3,
+                6,
+                3,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "逆にノリが悪い人というのはパーティしようよと言った時に",
+            "kana": "ぎゃくにノリがわるいひとというのはパーティしようよといったときに",
+            "translation": "On the other hand if a person has bad nori and you ask them to have a party",
+            "furigana": [
+                0,
+                3,
+                7,
+                2,
+                10,
+                2,
+                26,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "いつも私はいいやと言ってその流れにノって来ない人参加しない人のことを言います",
+            "kana": "いつもわたしはいいやといってそのながれにノってこないひとさんかしないひとのことをいいます",
+            "translation": "they'll always be like \"naah I'm fine\" and they won't join you",
+            "furigana": [
+                3,
+                3,
+                11,
+                1,
+                16,
+                2,
+                23,
+                1,
+                26,
+                2,
+                28,
+                3,
+                34,
+                2,
+                40,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "ですので僕はイギリスでその流れそのノリが全然わからなくて",
+            "kana": "ですのでぼくはイギリスでそのながれそのノリがぜんぜんわからなくて",
+            "translation": "SO when I was in England I didn't understand the nori in that situation",
+            "furigana": [
+                4,
+                2,
+                14,
+                2,
+                22,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "ちょっと大変な思いをしました",
+            "kana": "ちょっとたいへんなおもいをしました",
+            "translation": "so it's a bad memory for me",
+            "furigana": [
+                4,
+                4,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "だから皆さんは絶対その国の飲み会のノリを知っておく必要があると思います",
+            "kana": "だからみなさんはぜったいそのくにののみかいのノリをしっておくひつようがあるとおもいます",
+            "translation": "You guys should also familiarize yourself with the nori/ feel of parties in other countries",
+            "furigana": [
+                3,
+                2,
+                8,
+                4,
+                14,
+                2,
+                17,
+                1,
+                19,
+                2,
+                25,
+                1,
+                30,
+                4,
+                38,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "57.mp3"
+        },
+        {
+            "kanji": "まず日本では例えばバーとかだったら他の国とも同じかなって思うんですけど",
+            "kana": "まずにほんではたとえばバーとかだったらほかのくにともおなじかなっておもうんですけど",
+            "translation": "In Japan, if it's at a bar I think it's similar to other countries",
+            "furigana": [
+                2,
+                3,
+                7,
+                2,
+                19,
+                2,
+                22,
+                2,
+                26,
+                2,
+                33,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "結構友達の家で飲み会をすることがあります",
+            "kana": "けっこうともだちのいえでのみかいをすることがあります",
+            "translation": "but we often do a house-party at a friend's house",
+            "furigana": [
+                0,
+                4,
+                4,
+                4,
+                9,
+                2,
+                12,
+                1,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "そしてその時のメインは会話です友達と話すことがもうメインになります",
+            "kana": "そしてそのときのメインはかいわですともだちとはなすことがもうメインになります",
+            "translation": "And when we do that the main thing is talking with friends",
+            "furigana": [
+                5,
+                2,
+                12,
+                3,
+                17,
+                4,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "友達とおしゃべりをしたりあとはテレビゲームとか飲み会のゲームをして遊びます",
+            "kana": "ともだちとおしゃべりをしたりあとはテレビゲームとかのみかいのゲームをしてあそびます",
+            "translation": "We chat together, play video games or have drinking games",
+            "furigana": [
+                0,
+                4,
+                25,
+                1,
+                27,
+                2,
+                36,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "めっちゃ面白かったのは僕が日本で留学生と飲み会をしたときに",
+            "kana": "めっちゃおもしろかったのはぼくがにほんでりゅうがくせいとのみかいをしたときに",
+            "translation": "One time was very funny. I was at a party with exchange students in Japan",
+            "furigana": [
+                4,
+                4,
+                13,
+                2,
+                16,
+                3,
+                20,
+                7,
+                28,
+                1,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                3,
+                1,
+                1
+            ],
+            "sound": "63.mp3"
+        },
+        {
+            "kanji": "留学生の一人がすごい音楽とかダンスとかするようなそういう飲み会をイメージしてたみたいで",
+            "kana": "りゅうがくせいのいちにんがすごいおんがくとかダンスとかするようなそういうのみかいをイメージしてたみたいで",
+            "translation": "And one of them especially thought a party is basically where you listen to music and dance",
+            "furigana": [
+                0,
+                7,
+                8,
+                2,
+                10,
+                2,
+                16,
+                4,
+                36,
+                1,
+                38,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "ちょっとセクシーな感じのドレスで友達の家に来て飲み会をしたので",
+            "kana": "ちょっとセクシーなかんじのドレスでともだちのいえにきてのみかいをしたので",
+            "translation": "and she wore kind of a sexy dress to a friend's house",
+            "furigana": [
+                9,
+                2,
+                17,
+                4,
+                22,
+                2,
+                25,
+                1,
+                27,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "それがすごい面白かったです",
+            "kana": "それがすごいおもしろかったです",
+            "translation": "and it was really funny",
+            "furigana": [
+                6,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "66.mp3"
+        },
+        {
+            "kanji": "みんなは普通のこういう格好なのに",
+            "kana": "みんなはふつうのこういうかっこうなのに",
+            "translation": "Everyone was just wearing normal clothes",
+            "furigana": [
+                4,
+                3,
+                12,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "その人だけオシャレなドレスみたいな服を着てたので",
+            "kana": "そのひとだけオシャレなドレスみたいなふくをきてたので",
+            "translation": "and only this person was wearing a dress",
+            "furigana": [
+                2,
+                2,
+                18,
+                2,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "68.mp3"
+        },
+        {
+            "kanji": "少し気まずかったって言っていました",
+            "kana": "すこしきまずかったっていっていました",
+            "translation": "so she said she felt really awkward",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "69.mp3"
+        },
+        {
+            "kanji": "ですので日本の飲み会では普通のこういう服を着てってください",
+            "kana": "ですのでにほんののみかいではふつうのこういうふくをきてってください",
+            "translation": "So if you ever come to party in Japan just wear normal clothes like this",
+            "furigana": [
+                4,
+                3,
+                8,
+                1,
+                10,
+                2,
+                14,
+                3,
+                22,
+                2,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "そして良いか悪いかわかんないですけど",
+            "kana": "そしていいかわるいかわかんないですけど",
+            "translation": "And I'm not sure if it's good or bad",
+            "furigana": [
+                3,
+                1,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "71.mp3"
+        },
+        {
+            "kanji": "僕たちは飲み会のときたくさん話すので",
+            "kana": "ぼくたちはのみかいのときたくさんはなすので",
+            "translation": "but we talk a lot during parties",
+            "furigana": [
+                0,
+                2,
+                5,
+                1,
+                7,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "72.mp3"
+        },
+        {
+            "kanji": "少し日本語が怖い人は飲み会も怖いと思うんですよ",
+            "kana": "すこしにほんごがこわいひとはのみかいもこわいとおもうんですよ",
+            "translation": "so people who are afraid to speak Japanese might also be afraid of parties",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                2,
+                11,
+                2,
+                14,
+                1,
+                16,
+                2,
+                19,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "僕の出番がきました",
+            "kana": "ぼくのでばんがきました",
+            "translation": "where I come in",
+            "furigana": [
+                0,
+                2,
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "これからみなさんにどうやったらいいかを教えたいと思います",
+            "kana": "これからみなさんにどうやったらいいかをおしえたいとおもいます",
+            "translation": "I'm here to give you advice on what to do in that situation",
+            "furigana": [
+                19,
+                2,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "まず少し日本語が話せる人は",
+            "kana": "まずすこしにほんごがはなせるひとは",
+            "translation": "For those who can speak a little bit of Japanese",
+            "furigana": [
+                2,
+                2,
+                5,
+                4,
+                10,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "77.mp3"
+        },
+        {
+            "kanji": "日本では有名な山手線ゲームっていう飲み会のゲームがあります",
+            "kana": "にほんではゆうめいなやまてせんゲームっていうのみかいのゲームがあります",
+            "translation": "In Japan there's a famous Yamanote line drinking game",
+            "furigana": [
+                0,
+                3,
+                5,
+                4,
+                10,
+                3,
+                13,
+                2,
+                22,
+                1,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "78.mp3"
+        },
+        {
+            "kanji": "まあこれは簡単にいうと一つテーマがあって例えば「色」",
+            "kana": "まあこれはかんたんにいうとひとつテーマがあってたとえば「いろ」",
+            "translation": "To put it simply there's one topic like \"color\"",
+            "furigana": [
+                5,
+                4,
+                13,
+                2,
+                23,
+                2,
+                28,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "そしてみんな順番に一つずつ色を言っていくんですよ",
+            "kana": "そしてみんなじゅんばんにひとつずついろをいっていくんですよ",
+            "translation": "And everyone takes turns saying one color",
+            "furigana": [
+                6,
+                5,
+                12,
+                2,
+                17,
+                2,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "80.mp3"
+        },
+        {
+            "kanji": "で同じ色を言ったら負け",
+            "kana": "でおなじいろをいったらまけ",
+            "translation": "and if you repeat a color you lose",
+            "furigana": [
+                1,
+                2,
+                4,
+                2,
+                7,
+                1,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "それで負けたらその人はお酒を飲むっていうゲームがあります",
+            "kana": "それでまけたらそのひとはおさけをのむっていうゲームがあります",
+            "translation": "and if you lose you have to drink, these are the rules of the game",
+            "furigana": [
+                3,
+                1,
+                9,
+                2,
+                13,
+                2,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "82.mp3"
+        },
+        {
+            "kanji": "もともと東京の山手線っていう有名な路線があって",
+            "kana": "もともととうきょうのやまてせんっていうゆうめいなろせんがあって",
+            "translation": "Originally it was about naming stations of a famous train line in Tokyo called Yamanote",
+            "furigana": [
+                4,
+                5,
+                10,
+                3,
+                13,
+                2,
+                19,
+                4,
+                24,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "83.mp3"
+        },
+        {
+            "kanji": "それがこういうふうにぐるぐるぐるぐる電車が回るので",
+            "kana": "それがこういうふうにぐるぐるぐるぐるでんしゃがまわるので",
+            "translation": "which goes in a circle like this",
+            "furigana": [
+                18,
+                4,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "84.mp3"
+        },
+        {
+            "kanji": "まあそういう感じでぐるぐるみんなで一つずつ答えを言っていきます",
+            "kana": "まあそういうかんじでぐるぐるみんなでひとつずつこたえをいっていきます",
+            "translation": "And everyone would say once station at a time",
+            "furigana": [
+                6,
+                2,
+                18,
+                2,
+                23,
+                2,
+                27,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "85.mp3"
+        },
+        {
+            "kanji": "でもわかりますよみんな自信ないですよね",
+            "kana": "でもわかりますよみんなじしんないですよね",
+            "translation": "But I get it not all of you are confident enough",
+            "furigana": [
+                11,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "僕も自信ないです僕も日本語自信ないです",
+            "kana": "ぼくもじしんないですぼくもにほんごじしんないです",
+            "translation": "I'm also not very confident, I'm not confident with my Japanese",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                10,
+                2,
+                13,
+                4,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                3,
+                2
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "ですのでそういう人はトランプを持って行くことをオススメします",
+            "kana": "ですのでそういうひとはトランプをもっていくことをオススメします",
+            "translation": "So for those of you I recommend bringing cards with you",
+            "furigana": [
+                8,
+                2,
+                16,
+                1,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "日本で飲み会をするときはみんな座って",
+            "kana": "にほんでのみかいをするときはみんなすわって",
+            "translation": "When you have a party in Japan you all sit down",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                6,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "89.mp3"
+        },
+        {
+            "kanji": "そしてテーブルがあるのでこういうトランプとかがしやすいんですよ",
+            "kana": "そしてテーブルがあるのでこういうトランプとかがしやすいんですよ",
+            "translation": "and there's a table so it's easy to play cards",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "90.mp3"
+        },
+        {
+            "kanji": "ですのでこれをもってって今から紹介するゲームをやってみるのをオススメします",
+            "kana": "ですのでこれをもってっていまからしょうかいするゲームをやってみるのをオススメします",
+            "translation": "So I recommend bringing cards and playing the game I'm going to show you now",
+            "furigana": [
+                12,
+                2,
+                16,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "91.mp3"
+        },
+        {
+            "kanji": "もう一枚のジョーカーは他の場所に置いておきます",
+            "kana": "もういちまいのジョーカーはたのばしょにおいておきます",
+            "translation": "and put the other one somewhere to the side",
+            "furigana": [
+                2,
+                2,
+                4,
+                2,
+                13,
+                1,
+                15,
+                3,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "93.mp3"
+        },
+        {
+            "kanji": "そして自分のカードを見たときに",
+            "kana": "そしてじぶんのカードをみたときに",
+            "translation": "And when you look at your cards",
+            "furigana": [
+                3,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "95.mp3"
+        },
+        {
+            "kanji": "こういうペアがあった時に数字のペアがあった時にそれを捨てます",
+            "kana": "こういうペアがあったときにすうじのペアがあったときにそれをすてます",
+            "translation": "if you have any pairs you can throw them away",
+            "furigana": [
+                10,
+                2,
+                13,
+                3,
+                23,
+                2,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "96.mp3"
+        },
+        {
+            "kanji": "そうするとカードが少なくなりますよね",
+            "kana": "そうするとカードがすくなくなりますよね",
+            "translation": "this way you’ll have less cards",
+            "furigana": [
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "97.mp3"
+        },
+        {
+            "kanji": "そしたらゲームスタートです",
+            "kana": "そしたらゲームスタートです",
+            "translation": "After that the game starts",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "98.mp3"
+        },
+        {
+            "kanji": "そういうふうにするとみんなどんどんカードが少なくなっていって",
+            "kana": "そういうふうにするとみんなどんどんカードがすくなくなっていって",
+            "translation": "That's how everyone comes to have less and less cards",
+            "furigana": [
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "100.mp3"
+        },
+        {
+            "kanji": "これは言葉を全然使わなくてもいいし",
+            "kana": "これはことばをぜんぜんつかわなくてもいいし",
+            "translation": "This is alright even without using any words",
+            "furigana": [
+                3,
+                3,
+                7,
+                4,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "102.mp3"
+        },
+        {
+            "kanji": "日本人なら全員絶対みんな知っているので簡単に遊ぶことができます",
+            "kana": "にほんじんならぜんいんぜったいみんなしっているのでかんたんにあそぶことができます",
+            "translation": "All the Japanese probably know it so everybody can play",
+            "furigana": [
+                0,
+                5,
+                7,
+                4,
+                11,
+                4,
+                18,
+                1,
+                25,
+                4,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "103.mp3"
+        },
+        {
+            "kanji": "やっぱり最初に心と心の距離近くなった方が日本語も話しやすいと思うんですよ",
+            "kana": "やっぱりさいしょにこころとこころのきょりちかくなったほうがにほんごもはなしやすいとおもうんですよ",
+            "translation": "Really if you first connect with people and become closer speaking Japanese becomes easier too",
+            "furigana": [
+                4,
+                4,
+                9,
+                3,
+                13,
+                3,
+                17,
+                3,
+                20,
+                2,
+                26,
+                2,
+                29,
+                4,
+                34,
+                2,
+                41,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "104.mp3"
+        },
+        {
+            "kanji": "ですのでこのババ抜きって呼ばれるゲームなんですけど",
+            "kana": "ですのでこのババぬきってよばれるゲームなんですけど",
+            "translation": "So this Babanuki game",
+            "furigana": [
+                8,
+                1,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "105.mp3"
+        },
+        {
+            "kanji": "それをすることをおすすめします",
+            "kana": "それをすることをおすすめします",
+            "translation": "I recommend doing it",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "106.mp3"
+        },
+        {
+            "kanji": "このババ抜きの名前なんですけど",
+            "kana": "このババぬきのなまえなんですけど",
+            "translation": "The name Babanuki",
+            "furigana": [
+                4,
+                1,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "107.mp3"
+        },
+        {
+            "kanji": "すごい失礼な言い方があります",
+            "kana": "すごいしつれいないいかたがあります",
+            "translation": "Well that's really rude though",
+            "furigana": [
+                3,
+                4,
+                8,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "111.mp3"
+        },
+        {
+            "kanji": "こういうふうに日本の飲み会のノリがわかったら",
+            "kana": "こういうふうににほんののみかいのノリがわかったら",
+            "translation": "So after you understand the nori of a Japanese party",
+            "furigana": [
+                7,
+                3,
+                11,
+                1,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "113.mp3"
+        },
+        {
+            "kanji": "機会がある人はたくさん飲み会に参加してみてください",
+            "kana": "きかいがあるひとはたくさんのみかいにさんかしてみてください",
+            "translation": "if you get a chance go to as many as you can",
+            "furigana": [
+                0,
+                3,
+                6,
+                2,
+                13,
+                1,
+                15,
+                2,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "114.mp3"
+        },
+        {
+            "kanji": "そしてノリのいい人になってみてください",
+            "kana": "そしてノリのいいひとになってみてください",
+            "translation": "and try becoming a person with good nori",
+            "furigana": [
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "115.mp3"
+        },
+        {
+            "kanji": "実際留学生の人はノリがいい人が多いです",
+            "kana": "じっさいりゅうがくせいのひとはノリがいいひとがおおいです",
+            "translation": "Actually among the exchange students there's plenty of people with good nori",
+            "furigana": [
+                0,
+                4,
+                4,
+                7,
+                12,
+                2,
+                20,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                1,
+                1,
+                1
+            ],
+            "sound": "116.mp3"
+        },
+        {
+            "kanji": "やっぱり何かしようぜって言った時にその人たちもいいよみたいな感じで",
+            "kana": "やっぱりなにかしようぜっていったときにそのひとたちもいいよみたいなかんじで",
+            "translation": "If anyone said let's do something, everyone was like \"sure let's go\"",
+            "furigana": [
+                4,
+                2,
+                13,
+                1,
+                16,
+                2,
+                21,
+                2,
+                33,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "117.mp3"
+        },
+        {
+            "kanji": "すぐに参加してきてくれます",
+            "kana": "すぐにさんかしてきてくれます",
+            "translation": "and they'd join in right away",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "118.mp3"
+        },
+        {
+            "kanji": "そしたらみんな最初はカラオケ行く予定なかったんですけど",
+            "kana": "そしたらみんなさいしょはカラオケいくよていなかったんですけど",
+            "translation": "And nobody planned to go to karaoke beforehand",
+            "furigana": [
+                7,
+                4,
+                16,
+                1,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "121.mp3"
+        },
+        {
+            "kanji": "その飲み会のノリでカラオケに行きました",
+            "kana": "そののみかいのノリでカラオケにいきました",
+            "translation": "But we just went with the flow of the party and went to the karaoke",
+            "furigana": [
+                2,
+                1,
+                4,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "122.mp3"
+        },
+        {
+            "kanji": "もちろんカラオケではみんなノリノリで歌を歌って",
+            "kana": "もちろんカラオケではみんなノリノリでうたをうたって",
+            "translation": "And of course in karaoke everybody was enjoying themselves while singing the songs",
+            "furigana": [
+                18,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "123.mp3"
+        },
+        {
+            "kanji": "日本語の歌とかとは英語の歌とかをみんなで一緒に歌って",
+            "kana": "にほんごのうたとかとはえいごのうたとかをみんなでいっしょにうたって",
+            "translation": "we sang both Japanese and English songs",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                11,
+                3,
+                15,
+                2,
+                24,
+                4,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "124.mp3"
+        },
+        {
+            "kanji": "すごい楽しかったです",
+            "kana": "すごいたのしかったです",
+            "translation": "it was so fun",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "125.mp3"
+        },
+        {
+            "kanji": "今日この動画でノリとかノリノリの説明をしたんですけど",
+            "kana": "きょうこのどうがでノリとかノリノリのせつめいをしたんですけど",
+            "translation": "I explained nori and nori nori in this video",
+            "furigana": [
+                0,
+                3,
+                5,
+                3,
+                18,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "126.mp3"
+        },
+        {
+            "kanji": "おばあちゃんとかおじいちゃんの世代はあまり使わないかもしれないですね",
+            "kana": "おばあちゃんとかおじいちゃんのせだいはあまりつかわないかもしれないですね",
+            "translation": "but I don't think the generation of my grandparents would use it",
+            "furigana": [
+                15,
+                3,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "127.mp3"
+        },
+        {
+            "kanji": "確かに海外からいろんな音楽が来てそういうノれる曲がたくさん来たので",
+            "kana": "たしかにかいがいからいろんなおんがくがきてそういうノれるきょくがたくさんきたので",
+            "translation": "I think there’s been a lot of overseas music recently that has this nori feel to it",
+            "furigana": [
+                0,
+                2,
+                4,
+                4,
+                14,
+                4,
+                19,
+                1,
+                28,
+                3,
+                36,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "128.mp3"
+        },
+        {
+            "kanji": "もしかするとこれからの未来",
+            "kana": "もしかするとこれからのみらい",
+            "translation": "So perhaps in the future",
+            "furigana": [
+                11,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "129.mp3"
+        },
+        {
+            "kanji": "音楽に乗るとかだけじゃなくて",
+            "kana": "おんがくにのるとかだけじゃなくて",
+            "translation": "there will be more to enjoy than just the music",
+            "furigana": [
+                0,
+                4,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "130.mp3"
+        },
+        {
+            "kanji": "もっと他の事にもノるっていう言葉が使われるかもしれないですね",
+            "kana": "もっとほかのことにもノるっていうことばがつかわれるかもしれないですね",
+            "translation": "there will be more and more stuff you can enjoy/ noru",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                16,
+                3,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "131.mp3"
+        },
+        {
+            "kanji": "話を戻して皆さんの国では飲み会の時にどういうノリがありますか",
+            "kana": "はなしをもどしてみなさんのくにではのみかいのときにどういうノリがありますか",
+            "translation": "Getting back on topic, what are the parties like in your country? What kinds of nori?",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                8,
+                2,
+                13,
+                2,
+                17,
+                1,
+                19,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "132.mp3"
+        },
+        {
+            "kanji": "飲み会のそういう雰囲気とかそういう流れとかどういう感じなのかぜひコメントで教えてください",
+            "kana": "のみかいのそういうふんいきとかそういうながれとかどういうかんじなのかぜひコメントでおしえてください",
+            "translation": "Let me know in the comments what a party is like in your country!",
+            "furigana": [
+                0,
+                1,
+                2,
+                2,
+                9,
+                4,
+                19,
+                2,
+                28,
+                2,
+                41,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                3,
+                1,
+                1,
+                1
+            ],
+            "sound": "133.mp3"
+        },
+        {
+            "kanji": "ぜひ説明欄にリンクがあるのでよろしくお願いします",
+            "kana": "ぜひせつめいらんにリンクがあるのでよろしくおねがいします",
+            "translation": "There are links in the description below so be sure to follow me for more content!",
+            "furigana": [
+                2,
+                4,
+                6,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "137.mp3"
+        },
+        {
+            "kanji": "ではありがとうございました",
+            "kana": "ではありがとうございました",
+            "translation": "Thank you so much for watching",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "138.mp3"
+        },
+        {
+            "kanji": "前に撮った平安時代の動画を覚えている",
+            "kana": "まえにとったへいあんじだいのどうがをおぼえている",
+            "translation": "Remember the video I made about the Heian period?",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                6,
+                4,
+                10,
+                3,
+                14,
+                3,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "139.mp3"
+        },
+        {
+            "kanji": "平安時代は男の人が和歌を書いてそして女の人にあげて",
+            "kana": "へいあんじだいはおとこのひとがわかをかいてそしておんなのひとにあげて",
+            "translation": "In Heian period the guy had to write a poem for the girl",
+            "furigana": [
+                0,
+                4,
+                4,
+                3,
+                8,
+                3,
+                12,
+                2,
+                15,
+                2,
+                18,
+                1,
+                24,
+                3,
+                28,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "140.mp3"
+        },
+        {
+            "kanji": "その時コメントでみんなも和歌を書いてみてって書いたから",
+            "kana": "そのときコメントでみんなもわかをかいてみてってかいたから",
+            "translation": "I told you guys to write some of your own waka poems in the comment section",
+            "furigana": [
+                2,
+                2,
+                13,
+                2,
+                16,
+                1,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "142.mp3"
+        },
+        {
+            "kanji": "今日はちょっとだけそれを紹介するね",
+            "kana": "きょうはちょっとだけそれをしょうかいするね",
+            "translation": "I'd like to read out some of them today",
+            "furigana": [
+                0,
+                3,
+                13,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "143.mp3"
+        },
+        {
+            "kanji": "日本ではよくデートに行くと",
+            "kana": "にほんではよくデートにいくと",
+            "translation": "In Japan it's often that when you go on a date",
+            "furigana": [
+                0,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "146.mp3"
+        },
+        {
+            "kanji": "その人のご飯とかをお金払ったりする文化があるんですけど",
+            "kana": "そのひとのごはんとかをおかねはらったりするぶんかがあるんですけど",
+            "translation": "it's often the case that you pay for the other person's meal",
+            "furigana": [
+                2,
+                2,
+                6,
+                2,
+                12,
+                2,
+                14,
+                2,
+                21,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "147.mp3"
+        },
+        {
+            "kanji": "まあそのことを言ってるのかもしかすると",
+            "kana": "まあそのことをいってるのかもしかすると",
+            "translation": "and it seems this person's pointing at that",
+            "furigana": [
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "148.mp3"
+        },
+        {
+            "kanji": "払うっていう言葉はちょっと難しい言葉で代償を払うっていう言葉があるから",
+            "kana": "はらうっていうことばはちょっとむずかしいことばでだいしょうをはらうっていうことばがあるから",
+            "translation": "Instead of harau (to pay) you could use a more difficult phrase daishou o harau (to pay the price)",
+            "furigana": [
+                0,
+                2,
+                7,
+                3,
+                15,
+                3,
+                20,
+                3,
+                24,
+                5,
+                30,
+                2,
+                37,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                1,
+                2
+            ],
+            "sound": "149.mp3"
+        },
+        {
+            "kanji": "そういうふうに何かリスクを払うみたいな意味があるんだけど",
+            "kana": "そういうふうになにかリスクをはらうみたいないみがあるんだけど",
+            "translation": "And it would fit well with the risky feeling described in the poem",
+            "furigana": [
+                7,
+                2,
+                14,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "150.mp3"
+        },
+        {
+            "kanji": "そういうことを言ってるのかな",
+            "kana": "そういうことをいってるのかな",
+            "translation": "Is that what this is saying?",
+            "furigana": [
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "151.mp3"
+        },
+        {
+            "kanji": "男の人が払うのは嫌だっていう女性もいると思うんですけど",
+            "kana": "おとこのひとがはらうのはいやだっていうじょせいもいるとおもうんですけど",
+            "translation": "I think there are girls who don't like it when the guy pays",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                2,
+                12,
+                2,
+                19,
+                4,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "152.mp3"
+        },
+        {
+            "kanji": "でも確かにこの文化はまだちょっとあるので言いたいことがちょっと分かって",
+            "kana": "でもたしかにこのぶんかはまだちょっとあるのでいいたいことがちょっとわかって",
+            "translation": "but it is still as part of the culture so I understand what they're trying to say",
+            "furigana": [
+                2,
+                2,
+                8,
+                3,
+                22,
+                1,
+                33,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "153.mp3"
+        },
+        {
+            "kanji": "クスって笑っちゃった",
+            "kana": "クスってわらっちゃった",
+            "translation": "It made me giggle",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "154.mp3"
+        },
+        {
+            "kanji": "これはね頭がいい",
+            "kana": "これはねあたまがいい",
+            "translation": "And this is, smart",
+            "furigana": [
+                4,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "156.mp3"
+        },
+        {
+            "kanji": "それを和歌に入れてちょっと新しい現代風な和歌っていうことで",
+            "kana": "それをわかにいれてちょっとあたらしいげんだいふうなわかっていうことで",
+            "translation": "putting that into waka makes the waka have a modern feel to it",
+            "furigana": [
+                3,
+                2,
+                6,
+                1,
+                13,
+                3,
+                18,
+                4,
+                22,
+                2,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                2
+            ],
+            "sound": "158.mp3"
+        },
+        {
+            "kanji": "すごい頭がいいと思った",
+            "kana": "すごいあたまがいいとおもった",
+            "translation": "I thought this was smart",
+            "furigana": [
+                3,
+                3,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "159.mp3"
+        },
+        {
+            "kanji": "これを日本語で一目惚れっていうふうに言うんだけど",
+            "kana": "これをにほんごでひとめぼれっていうふうにいうんだけど",
+            "translation": "In Japanese this love at first sight is called \"hitomebore\"",
+            "furigana": [
+                3,
+                4,
+                8,
+                3,
+                11,
+                1,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                2,
+                1,
+                1
+            ],
+            "sound": "162.mp3"
+        },
+        {
+            "kanji": "すごい和歌だと思う",
+            "kana": "すごいわかだとおもう",
+            "translation": "I think it's a great waka3",
+            "furigana": [
+                3,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "164.mp3"
+        },
+        {
+            "kanji": "他にもたくさんいろいろ和歌書いてくれて",
+            "kana": "たにもたくさんいろいろわかかいてくれて",
+            "translation": "There are so many more that you guys wrote",
+            "furigana": [
+                0,
+                1,
+                11,
+                2,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "165.mp3"
+        },
+        {
+            "kanji": "俺はこんなの書けないって思う和歌がたくさんあって",
+            "kana": "おれはこんなのかけないっておもうわかがたくさんあって",
+            "translation": "There were plenty of waka I don't think I could come up with",
+            "furigana": [
+                0,
+                2,
+                7,
+                1,
+                13,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "167.mp3"
+        },
+        {
+            "kanji": "すごい読んでて楽しかったありがとう",
+            "kana": "すごいよんでてたのしかったありがとう",
+            "translation": "And I had so much fun reading through all of them",
+            "furigana": [
+                3,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "168.mp3"
+        },
+        {
+            "kanji": "ちょっと全員の紹介できなくてごめんね",
+            "kana": "ちょっとぜんいんのしょうかいできなくてごめんね",
+            "translation": "Sorry for not being able to read out all of them",
+            "furigana": [
+                4,
+                4,
+                9,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "169.mp3"
+        }
+    ]
+}

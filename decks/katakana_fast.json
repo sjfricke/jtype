@@ -1,0 +1,2686 @@
+{
+    "name": "katakana_fast",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "ウィスコンシン",
+            "kana": "ウィスコンシン",
+            "translation": "Wisconsin",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "wisconsin.mp3"
+        },
+        {
+            "kanji": "カリフォルニア",
+            "kana": "カリフォルニア",
+            "translation": "California",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "California.mp3"
+        },
+        {
+            "kanji": "ミシガン",
+            "kana": "ミシガン",
+            "translation": "Michigan",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Michigan.mp3"
+        },
+        {
+            "kanji": "シカゴ",
+            "kana": "シカゴ",
+            "translation": "Chicago",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Chicago.mp3"
+        },
+        {
+            "kanji": "サンノゼ",
+            "kana": "サンノゼ",
+            "translation": "San Jose",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "San Jose.mp3"
+        },
+        {
+            "kanji": "サンフランシスコ",
+            "kana": "サンフランシスコ",
+            "translation": "San Francisco",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "San Francisco.mp3"
+        },
+        {
+            "kanji": "サンディエゴ",
+            "kana": "サンディエゴ",
+            "translation": "San Diego",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "San Diego.mp3"
+        },
+        {
+            "kanji": "カナダ",
+            "kana": "カナダ",
+            "translation": "Canada",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Canada.mp3"
+        },
+        {
+            "kanji": "コンピューター",
+            "kana": "コンピューター",
+            "translation": "Computer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "computer.mp3"
+        },
+        {
+            "kanji": "プログラミング",
+            "kana": "プログラミング",
+            "translation": "Programming",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "programming.mp3"
+        },
+        {
+            "kanji": "プログラマー",
+            "kana": "プログラマー",
+            "translation": "Programmer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "programmer.mp3"
+        },
+        {
+            "kanji": "キーボード",
+            "kana": "キーボード",
+            "translation": "keyboard",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "keyboard.mp3"
+        },
+        {
+            "kanji": "ソフトウェア",
+            "kana": "ソフトウェア",
+            "translation": "software",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "software.mp3"
+        },
+        {
+            "kanji": "データベース",
+            "kana": "データベース",
+            "translation": "database",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "database.mp3"
+        },
+        {
+            "kanji": "ファイル",
+            "kana": "ファイル",
+            "translation": "file",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "file.mp3"
+        },
+        {
+            "kanji": "サイト",
+            "kana": "サイト",
+            "translation": "site",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "site.mp3"
+        },
+        {
+            "kanji": "デバッグ",
+            "kana": "デバッグ",
+            "translation": "debug",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "debug.mp3"
+        },
+        {
+            "kanji": "コンパイル",
+            "kana": "コンパイル",
+            "translation": "compile",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "compiler.mp3"
+        },
+        {
+            "kanji": "ダウンロード",
+            "kana": "ダウンロード",
+            "translation": "download",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "download.mp3"
+        },
+        {
+            "kanji": "クリック",
+            "kana": "クリック",
+            "translation": "click",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "click.mp3"
+        },
+        {
+            "kanji": "アイコン",
+            "kana": "アイコン",
+            "translation": "icon",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "icon.mp3"
+        },
+        {
+            "kanji": "ネットワーク",
+            "kana": "ネットワーク",
+            "translation": "network",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "network.mp3"
+        },
+        {
+            "kanji": "ハードウエア",
+            "kana": "ハードウエア",
+            "translation": "hardware",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hardware.mp3"
+        },
+        {
+            "kanji": "アドレス",
+            "kana": "アドレス",
+            "translation": "address (email)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "address.mp3"
+        },
+        {
+            "kanji": "アプリ",
+            "kana": "アプリ",
+            "translation": "app",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "app.mp3"
+        },
+        {
+            "kanji": "インストール",
+            "kana": "インストール",
+            "translation": "install",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "install.mp3"
+        },
+        {
+            "kanji": "カーソル",
+            "kana": "カーソル",
+            "translation": "cursor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cursor.mp3"
+        },
+        {
+            "kanji": "フォント",
+            "kana": "フォント",
+            "translation": "font",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "font.mp3"
+        },
+        {
+            "kanji": "オペレーティングシステム",
+            "kana": "オペレーティングシステム",
+            "translation": "operating system",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "operating system.mp3"
+        },
+        {
+            "kanji": "コンテンツ",
+            "kana": "コンテンツ",
+            "translation": "content",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "content.mp3"
+        },
+        {
+            "kanji": "サーバ",
+            "kana": "サーバ",
+            "translation": "server",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "server.mp3"
+        },
+        {
+            "kanji": "ヘッドホン",
+            "kana": "ヘッドホン",
+            "translation": "headphones",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "headphones.mp3"
+        },
+        {
+            "kanji": "イヤホン",
+            "kana": "イヤホン",
+            "translation": "earphones",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "earphones.mp3"
+        },
+        {
+            "kanji": "フリーズ",
+            "kana": "フリーズ",
+            "translation": "freeze/hang",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "freeze.mp3"
+        },
+        {
+            "kanji": "マウス",
+            "kana": "マウス",
+            "translation": "mouse",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "mouse.mp3"
+        },
+        {
+            "kanji": "メモリー",
+            "kana": "メモリー",
+            "translation": "memory",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "memory.mp3"
+        },
+        {
+            "kanji": "レビュー",
+            "kana": "レビュー",
+            "translation": "review",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "review.mp3"
+        },
+        {
+            "kanji": "イメージ",
+            "kana": "イメージ",
+            "translation": "image",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "image.mp3"
+        },
+        {
+            "kanji": "ログイン",
+            "kana": "ログイン",
+            "translation": "login",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "login.mp3"
+        },
+        {
+            "kanji": "ログアウト",
+            "kana": "ログアウト",
+            "translation": "logout",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "logout.mp3"
+        },
+        {
+            "kanji": "ブラウザー",
+            "kana": "ブラウザー",
+            "translation": "browser",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "browser.mp3"
+        },
+        {
+            "kanji": "バルカン",
+            "kana": "バルカン",
+            "translation": "Vulkan",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "vulkan.mp3"
+        },
+        {
+            "kanji": "グラフィックスカード",
+            "kana": "グラフィックスカード",
+            "translation": "graphics card",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "graphics card.mp3"
+        },
+        {
+            "kanji": "クロノス",
+            "kana": "クロノス",
+            "translation": "Khronos",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Khronos.mp3"
+        },
+        {
+            "kanji": "レイトレース",
+            "kana": "レイトレース",
+            "translation": "Ray tracing",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "ray tracing.mp3"
+        },
+        {
+            "kanji": "トピック",
+            "kana": "トピック",
+            "translation": "topic",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "topic.mp3"
+        },
+        {
+            "kanji": "バーチャル",
+            "kana": "バーチャル",
+            "translation": "virtual",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "virtual.mp3"
+        },
+        {
+            "kanji": "インタビュー",
+            "kana": "インタビュー",
+            "translation": "interview",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "interview.mp3"
+        },
+        {
+            "kanji": "カジュアル",
+            "kana": "カジュアル",
+            "translation": "casual",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "casual.mp3"
+        },
+        {
+            "kanji": "フォーマル",
+            "kana": "フォーマル",
+            "translation": "formal",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "formal.mp3"
+        },
+        {
+            "kanji": "グループ",
+            "kana": "グループ",
+            "translation": "group",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "group.mp3"
+        },
+        {
+            "kanji": "エコシステム",
+            "kana": "エコシステム",
+            "translation": "ecosystem",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "ecosystem.mp3"
+        },
+        {
+            "kanji": "マルチプラットフォーム",
+            "kana": "マルチプラットフォーム",
+            "translation": "Multi-platform",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "multiplatform.mp3"
+        },
+        {
+            "kanji": "アクセラレーション",
+            "kana": "アクセラレーション",
+            "translation": "Acceleration",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "acceleration.mp3"
+        },
+        {
+            "kanji": "モバイル",
+            "kana": "モバイル",
+            "translation": "mobile",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "mobile.mp3"
+        },
+        {
+            "kanji": "シーンジオメトリ",
+            "kana": "シーンジオメトリ",
+            "translation": "Scene geometry",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "scene geometry.mp3"
+        },
+        {
+            "kanji": "シーンのトラバーサル",
+            "kana": "シーンのトラバーサル",
+            "translation": "Scene traversal",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "scene traversal.mp3"
+        },
+        {
+            "kanji": "シェーダー",
+            "kana": "シェーダー",
+            "translation": "Shader",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "shader.mp3"
+        },
+        {
+            "kanji": "サードパーティ",
+            "kana": "サードパーティ",
+            "translation": "third party",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "third party.mp3"
+        },
+        {
+            "kanji": "フレームワーク",
+            "kana": "フレームワーク",
+            "translation": "Framework",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "framework.mp3"
+        },
+        {
+            "kanji": "スケートボード",
+            "kana": "スケートボード",
+            "translation": "skateboard",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "skateboard.mp3"
+        },
+        {
+            "kanji": "フォーク",
+            "kana": "フォーク",
+            "translation": "fork",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "fork.mp3"
+        },
+        {
+            "kanji": "ミリ",
+            "kana": "ミリ",
+            "translation": "mm",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "mm.mp3"
+        },
+        {
+            "kanji": "クレジットカード",
+            "kana": "クレジットカード",
+            "translation": "credit card",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "credit card.mp3"
+        },
+        {
+            "kanji": "レベル",
+            "kana": "レベル",
+            "translation": "level",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "level.mp3"
+        },
+        {
+            "kanji": "ファイアフォックス",
+            "kana": "ファイアフォックス",
+            "translation": "Firefox",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Firefox.mp3"
+        },
+        {
+            "kanji": "クローム",
+            "kana": "クローム",
+            "translation": "Chrome",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Chrome.mp3"
+        },
+        {
+            "kanji": "マイクロソフト",
+            "kana": "マイクロソフト",
+            "translation": "Microsoft",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Microsoft.mp3"
+        },
+        {
+            "kanji": "ウィンドース",
+            "kana": "ウィンドース",
+            "translation": "Windows",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Windows.mp3"
+        },
+        {
+            "kanji": "アップル",
+            "kana": "アップル",
+            "translation": "Apple",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Apple.mp3"
+        },
+        {
+            "kanji": "サムスン",
+            "kana": "サムスン",
+            "translation": "Samsung",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Samsung.mp3"
+        },
+        {
+            "kanji": "リナックス",
+            "kana": "リナックス",
+            "translation": "Linux",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Linux.mp3"
+        },
+        {
+            "kanji": "フェイスブック",
+            "kana": "フェイスブック",
+            "translation": "Facebook",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Facebook.mp3"
+        },
+        {
+            "kanji": "ツイッター",
+            "kana": "ツイッター",
+            "translation": "Twitter",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Twitter.mp3"
+        },
+        {
+            "kanji": "ユーチューブ",
+            "kana": "ユーチューブ",
+            "translation": "YouTube",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "YouTube.mp3"
+        },
+        {
+            "kanji": "フットボール",
+            "kana": "フットボール",
+            "translation": "football",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "football.mp3"
+        },
+        {
+            "kanji": "サッカー",
+            "kana": "サッカー",
+            "translation": "soccer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "soccer.mp3"
+        },
+        {
+            "kanji": "バスケットボール",
+            "kana": "バスケットボール",
+            "translation": "basketball",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "basketball.mp3"
+        },
+        {
+            "kanji": "ホッケー",
+            "kana": "ホッケー",
+            "translation": "hockey",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hockey.mp3"
+        },
+        {
+            "kanji": "レスリング",
+            "kana": "レスリング",
+            "translation": "wrestling",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "wrestling.mp3"
+        },
+        {
+            "kanji": "ツールバー",
+            "kana": "ツールバー",
+            "translation": "toolbar",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "toolbar.mp3"
+        },
+        {
+            "kanji": "スクリプト",
+            "kana": "スクリプト",
+            "translation": "script",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "script.mp3"
+        },
+        {
+            "kanji": "グラフィックアーティスト",
+            "kana": "グラフィックアーティスト",
+            "translation": "graphic artist",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "graphic artist.mp3"
+        },
+        {
+            "kanji": "プラグイン",
+            "kana": "プラグイン",
+            "translation": "plug-in",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "plugin.mp3"
+        },
+        {
+            "kanji": "ボランティア",
+            "kana": "ボランティア",
+            "translation": "volunteers",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "volunteers.mp3"
+        },
+        {
+            "kanji": "チームメンバー",
+            "kana": "チームメンバー",
+            "translation": "team members",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "team members.mp3"
+        },
+        {
+            "kanji": "ライブラリ",
+            "kana": "ライブラリ",
+            "translation": "libraries",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "library.mp3"
+        },
+        {
+            "kanji": "コミット",
+            "kana": "コミット",
+            "translation": "commit",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "commit.mp3"
+        },
+        {
+            "kanji": "デバッグビルド",
+            "kana": "デバッグビルド",
+            "translation": "debug build",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "debug build.mp3"
+        },
+        {
+            "kanji": "リリースビルド",
+            "kana": "リリースビルド",
+            "translation": "release build",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "release build.mp3"
+        },
+        {
+            "kanji": "クロスプラットフォーム",
+            "kana": "クロスプラットフォーム",
+            "translation": "cross-platform",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cross platform.mp3"
+        },
+        {
+            "kanji": "ライセンス",
+            "kana": "ライセンス",
+            "translation": "license",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "license.mp3"
+        },
+        {
+            "kanji": "メッセージ",
+            "kana": "メッセージ",
+            "translation": "message",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "message.mp3"
+        },
+        {
+            "kanji": "パラメーター",
+            "kana": "パラメーター",
+            "translation": "parameter",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "parameter.mp3"
+        },
+        {
+            "kanji": "キャンセル",
+            "kana": "キャンセル",
+            "translation": "cancel",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cancel.mp3"
+        },
+        {
+            "kanji": "スクロール",
+            "kana": "スクロール",
+            "translation": "scroll",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "scroll.mp3"
+        },
+        {
+            "kanji": "バージョン",
+            "kana": "バージョン",
+            "translation": "version",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "version.mp3"
+        },
+        {
+            "kanji": "ターミナル",
+            "kana": "ターミナル",
+            "translation": "terminal",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "terminal.mp3"
+        },
+        {
+            "kanji": "エスカレーター",
+            "kana": "エスカレーター",
+            "translation": "escalator",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "escalator.mp3"
+        },
+        {
+            "kanji": "エレベーター",
+            "kana": "エレベーター",
+            "translation": "elevator",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "elevator.mp3"
+        },
+        {
+            "kanji": "オンライン",
+            "kana": "オンライン",
+            "translation": "online",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "online.mp3"
+        },
+        {
+            "kanji": "オフライン",
+            "kana": "オフライン",
+            "translation": "offline",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "offline.mp3"
+        },
+        {
+            "kanji": "エンジニア",
+            "kana": "エンジニア",
+            "translation": "engineer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "engineer.mp3"
+        },
+        {
+            "kanji": "バスケ",
+            "kana": "バスケ",
+            "translation": "basketball (short)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "basketball_short.mp3"
+        },
+        {
+            "kanji": "クレカ",
+            "kana": "クレカ",
+            "translation": "credit (short)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "credit card short.mp3"
+        },
+        {
+            "kanji": "スケボ",
+            "kana": "スケボ",
+            "translation": "skateboard (short)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "skateboard_short.mp3"
+        },
+        {
+            "kanji": "スケジュール",
+            "kana": "スケジュール",
+            "translation": "schedule",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "schedule.mp3"
+        },
+        {
+            "kanji": "スターバックス",
+            "kana": "スターバックス",
+            "translation": "Starbucks",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Starbucks.mp3"
+        },
+        {
+            "kanji": "ディカフェ",
+            "kana": "ディカフェ",
+            "translation": "decaffeination",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "decaffeination.mp3"
+        },
+        {
+            "kanji": "ドリップコーヒー",
+            "kana": "ドリップコーヒー",
+            "translation": "drip coffee",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "drip coffee.mp3"
+        },
+        {
+            "kanji": "カフェミスト",
+            "kana": "カフェミスト",
+            "translation": "caffe misto",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "caffe misto.mp3"
+        },
+        {
+            "kanji": "ソイラテ",
+            "kana": "ソイラテ",
+            "translation": "soy latte",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "soy latte.mp3"
+        },
+        {
+            "kanji": "キャラメル",
+            "kana": "キャラメル",
+            "translation": "caramel",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "caramel.mp3"
+        },
+        {
+            "kanji": "アメリカーノ",
+            "kana": "アメリカーノ",
+            "translation": "americano",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "americano.mp3"
+        },
+        {
+            "kanji": "カプチーノ",
+            "kana": "カプチーノ",
+            "translation": "cappuccino",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cappuccino.mp3"
+        },
+        {
+            "kanji": "コールドブリュー",
+            "kana": "コールドブリュー",
+            "translation": "cold brew",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cold brew.mp3"
+        },
+        {
+            "kanji": "エスプレッソ",
+            "kana": "エスプレッソ",
+            "translation": "espressso",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "espressso.mp3"
+        },
+        {
+            "kanji": "シナモン",
+            "kana": "シナモン",
+            "translation": "cinnamon",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cinnamon.mp3"
+        },
+        {
+            "kanji": "ハッシュタグ",
+            "kana": "ハッシュタグ",
+            "translation": "hashtag",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hashtag.mp3"
+        },
+        {
+            "kanji": "アットマーク",
+            "kana": "アットマーク",
+            "translation": "at sign",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "at sign.mp3"
+        },
+        {
+            "kanji": "スラッシュ",
+            "kana": "スラッシュ",
+            "translation": "slash",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "slash.mp3"
+        },
+        {
+            "kanji": "ワクチン",
+            "kana": "ワクチン",
+            "translation": "vaccine",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "vaccine.mp3"
+        },
+        {
+            "kanji": "テレビゲーム",
+            "kana": "テレビゲーム",
+            "translation": "video game",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "video game.mp3"
+        },
+        {
+            "kanji": "キャラクター",
+            "kana": "キャラクター",
+            "translation": "character",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "character.mp3"
+        },
+        {
+            "kanji": "ランチ",
+            "kana": "ランチ",
+            "translation": "lunch",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "lunch.mp3"
+        },
+        {
+            "kanji": "ディナー",
+            "kana": "ディナー",
+            "translation": "dinner",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "dinner.mp3"
+        },
+        {
+            "kanji": "ニンテンドースイッチ",
+            "kana": "ニンテンドースイッチ",
+            "translation": "nintendo switch",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "nintendo switch.mp3"
+        },
+        {
+            "kanji": "スタジアム",
+            "kana": "スタジアム",
+            "translation": "stadium",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "stadium.mp3"
+        },
+        {
+            "kanji": "ヘルプページ",
+            "kana": "ヘルプページ",
+            "translation": "help page",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "help page.mp3"
+        },
+        {
+            "kanji": "デリバリー",
+            "kana": "デリバリー",
+            "translation": "delivery",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "delivery.mp3"
+        },
+        {
+            "kanji": "テイクアウト",
+            "kana": "テイクアウト",
+            "translation": "take-out",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "take-out.mp3"
+        },
+        {
+            "kanji": "イベント",
+            "kana": "イベント",
+            "translation": "event",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "event.mp3"
+        },
+        {
+            "kanji": "サポート",
+            "kana": "サポート",
+            "translation": "support",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "support.mp3"
+        },
+        {
+            "kanji": "ワイヤード",
+            "kana": "ワイヤード",
+            "translation": "wired",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "wired.mp3"
+        },
+        {
+            "kanji": "ワイヤレス",
+            "kana": "ワイヤレス",
+            "translation": "wireless",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "wireless.mp3"
+        },
+        {
+            "kanji": "モニター",
+            "kana": "モニター",
+            "translation": "monitor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "monitor.mp3"
+        },
+        {
+            "kanji": "ハイエンド",
+            "kana": "ハイエンド",
+            "translation": "high end",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "high end.mp3"
+        },
+        {
+            "kanji": "アクセサリー",
+            "kana": "アクセサリー",
+            "translation": "accessories",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "accessories.mp3"
+        },
+        {
+            "kanji": "プロフェッショナル",
+            "kana": "プロフェッショナル",
+            "translation": "professional",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "professional.mp3"
+        },
+        {
+            "kanji": "スタジオ",
+            "kana": "スタジオ",
+            "translation": "studio",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "studio.mp3"
+        },
+        {
+            "kanji": "レコーディング",
+            "kana": "レコーディング",
+            "translation": "recording",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "recording.mp3"
+        },
+        {
+            "kanji": "ミキシング",
+            "kana": "ミキシング",
+            "translation": "mixing",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "mixing.mp3"
+        },
+        {
+            "kanji": "ストレージ",
+            "kana": "ストレージ",
+            "translation": "storage",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "storage.mp3"
+        },
+        {
+            "kanji": "ロサンゼルス",
+            "kana": "ロサンゼルス",
+            "translation": "Los Angeles",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Los Angeles.mp3"
+        },
+        {
+            "kanji": "セブンイレブン",
+            "kana": "セブンイレブン",
+            "translation": "Seven Eleven",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Seven Eleven.mp3"
+        },
+        {
+            "kanji": "セイコーマート",
+            "kana": "セイコーマート",
+            "translation": "Seiko Mart",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Seiko Mart.mp3"
+        },
+        {
+            "kanji": "デイリーヤマザキ",
+            "kana": "デイリーヤマザキ",
+            "translation": "Daily Yamazaki",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Daily Yamazaki.mp3"
+        },
+        {
+            "kanji": "ファミリーマート",
+            "kana": "ファミリーマート",
+            "translation": "Family mart",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Family mart.mp3"
+        },
+        {
+            "kanji": "ナチュラルローソン",
+            "kana": "ナチュラルローソン",
+            "translation": "Natural Lawson",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Natural Lawson.mp3"
+        },
+        {
+            "kanji": "ウエルシア",
+            "kana": "ウエルシア",
+            "translation": "Welcia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Welcia.mp3"
+        },
+        {
+            "kanji": "コクミンドラッグ",
+            "kana": "コクミンドラッグ",
+            "translation": "Kokumin drug",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Kokumin drug.mp3"
+        },
+        {
+            "kanji": "ココカラファイン",
+            "kana": "ココカラファイン",
+            "translation": "Cocokara fine",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Cocokara fine.mp3"
+        },
+        {
+            "kanji": "ビックカメラ",
+            "kana": "ビックカメラ",
+            "translation": "Bic camera",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Bic camera.mp3"
+        },
+        {
+            "kanji": "ソフマップ",
+            "kana": "ソフマップ",
+            "translation": "Sofmap",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Sofmap.mp3"
+        },
+        {
+            "kanji": "ダイコクドラッグ",
+            "kana": "ダイコクドラッグ",
+            "translation": "Daikoku drug",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Daikoku drug.mp3"
+        },
+        {
+            "kanji": "ツルハドラッグ",
+            "kana": "ツルハドラッグ",
+            "translation": "Tsuruha Drug",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Tsuruha Drug.mp3"
+        },
+        {
+            "kanji": "マツモトキヨシ",
+            "kana": "マツモトキヨシ",
+            "translation": "Matsumoto Kiyoshi",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Matsumoto Kiyoshi.mp3"
+        },
+        {
+            "kanji": "ドンキホーテ",
+            "kana": "ドンキホーテ",
+            "translation": "Don Quijote",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Don Quijote.mp3"
+        },
+        {
+            "kanji": "クリエイトエスディー",
+            "kana": "クリエイトエスディー",
+            "translation": "Create SD",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Create SD.mp3"
+        },
+        {
+            "kanji": "ガソリンスタンド",
+            "kana": "ガソリンスタンド",
+            "translation": "gas station",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gas station.mp3"
+        },
+        {
+            "kanji": "ヘーゼルナッツ",
+            "kana": "ヘーゼルナッツ",
+            "translation": "hazelnut",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hazelnut.mp3"
+        },
+        {
+            "kanji": "ブラックコーヒー",
+            "kana": "ブラックコーヒー",
+            "translation": "black coffee",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "black coffee.mp3"
+        },
+        {
+            "kanji": "ピーナッツバター",
+            "kana": "ピーナッツバター",
+            "translation": "peanut butter",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "peanut butter.mp3"
+        },
+        {
+            "kanji": "ベーコンレタストマト",
+            "kana": "ベーコンレタストマト",
+            "translation": "BLT",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "blt.mp3"
+        },
+        {
+            "kanji": "アボカド",
+            "kana": "アボカド",
+            "translation": "avocado",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "avocado.mp3"
+        },
+        {
+            "kanji": "クラムチャウダー",
+            "kana": "クラムチャウダー",
+            "translation": "clam chowder",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "clam chowder.mp3"
+        },
+        {
+            "kanji": "ブラジル",
+            "kana": "ブラジル",
+            "translation": "Brazil",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Brazil.mp3"
+        },
+        {
+            "kanji": "ユーモア",
+            "kana": "ユーモア",
+            "translation": "humor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "humor.mp3"
+        },
+        {
+            "kanji": "チャミスル",
+            "kana": "チャミスル",
+            "translation": "soju (liquor)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "soju.mp3"
+        },
+        {
+            "kanji": "サービス",
+            "kana": "サービス",
+            "translation": "service",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "service.mp3"
+        },
+        {
+            "kanji": "ドラッグストア",
+            "kana": "ドラッグストア",
+            "translation": "drug store",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "drug store.mp3"
+        },
+        {
+            "kanji": "ディスカウントストア",
+            "kana": "ディスカウントストア",
+            "translation": "discount store",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "discount store.mp3"
+        },
+        {
+            "kanji": "ファッション",
+            "kana": "ファッション",
+            "translation": "fashion",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "fashion.mp3"
+        },
+        {
+            "kanji": "デフォルト",
+            "kana": "デフォルト",
+            "translation": "default",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "default.mp3"
+        },
+        {
+            "kanji": "キャッシュ",
+            "kana": "キャッシュ",
+            "translation": "cache",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cache.mp3"
+        },
+        {
+            "kanji": "ヌル",
+            "kana": "ヌル",
+            "translation": "null",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "null.mp3"
+        },
+        {
+            "kanji": "エラー",
+            "kana": "エラー",
+            "translation": "error",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "error.mp3"
+        },
+        {
+            "kanji": "ジャバスクリプト",
+            "kana": "ジャバスクリプト",
+            "translation": "JavaScript",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "JavaScript.mp3"
+        },
+        {
+            "kanji": "ディスプレイ",
+            "kana": "ディスプレイ",
+            "translation": "display",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "display.mp3"
+        },
+        {
+            "kanji": "クアルコム",
+            "kana": "クアルコム",
+            "translation": "Qualcomm",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Qualcomm.mp3"
+        },
+        {
+            "kanji": "インテル",
+            "kana": "インテル",
+            "translation": "Intel",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Intel.mp3"
+        },
+        {
+            "kanji": "エヌビディア",
+            "kana": "エヌビディア",
+            "translation": "Nvidia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Nvidia.mp3"
+        },
+        {
+            "kanji": "エーエムーディー",
+            "kana": "エーエムーディー",
+            "translation": "AMD",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "AMD.mp3"
+        },
+        {
+            "kanji": "アンドロイド",
+            "kana": "アンドロイド",
+            "translation": "Android",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Android.mp3"
+        },
+        {
+            "kanji": "セミコロン",
+            "kana": "セミコロン",
+            "translation": "semicolon",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "semicolon.mp3"
+        },
+        {
+            "kanji": "アルゴリズム",
+            "kana": "アルゴリズム",
+            "translation": "algorithm",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "algorithm.mp3"
+        },
+        {
+            "kanji": "エディター",
+            "kana": "エディター",
+            "translation": "editor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "editor.mp3"
+        },
+        {
+            "kanji": "エンターキー",
+            "kana": "エンターキー",
+            "translation": "enter key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "enter key.mp3"
+        },
+        {
+            "kanji": "エスケープキー",
+            "kana": "エスケープキー",
+            "translation": "escape key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "escape key.mp3"
+        },
+        {
+            "kanji": "バックスペースキー",
+            "kana": "バックスペースキー",
+            "translation": "backspace key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "backspace key.mp3"
+        },
+        {
+            "kanji": "タブキー",
+            "kana": "タブキー",
+            "translation": "tab key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "tab key.mp3"
+        },
+        {
+            "kanji": "コントロールキー",
+            "kana": "コントロールキー",
+            "translation": "control key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "control key.mp3"
+        },
+        {
+            "kanji": "デリートキー",
+            "kana": "デリートキー",
+            "translation": "delete key",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "delete key.mp3"
+        },
+        {
+            "kanji": "アインズアンドトルペ",
+            "kana": "アインズアンドトルペ",
+            "translation": "Ains & Torpe",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Ains and Torpe.mp3"
+        },
+        {
+            "kanji": "リュック",
+            "kana": "リュック",
+            "translation": "backpack",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "backpack.mp3"
+        },
+        {
+            "kanji": "コインロッカー",
+            "kana": "コインロッカー",
+            "translation": "coin locker",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "coin locker.mp3"
+        },
+        {
+            "kanji": "ステーキアンドハンバーグ",
+            "kana": "ステーキアンドハンバーグ",
+            "translation": "Steak & hamburger",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "steak and hamburger.mp3"
+        },
+        {
+            "kanji": "ドライブスルー",
+            "kana": "ドライブスルー",
+            "translation": "drive through",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "drive through.mp3"
+        },
+        {
+            "kanji": "スマッシュブラザーズ",
+            "kana": "スマッシュブラザーズ",
+            "translation": "Smash Brothers",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Smash Brothers.mp3"
+        },
+        {
+            "kanji": "スマブラ",
+            "kana": "スマブラ",
+            "translation": "Smash Brothers (short)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Smash Brothers short.mp3"
+        },
+        {
+            "kanji": "ユニクロ",
+            "kana": "ユニクロ",
+            "translation": "Uniqlo",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Uniqlo.mp3"
+        },
+        {
+            "kanji": "ビバレッジ",
+            "kana": "ビバレッジ",
+            "translation": "beverage",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "beverage.mp3"
+        },
+        {
+            "kanji": "ダーツ",
+            "kana": "ダーツ",
+            "translation": "darts",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "darts.mp3"
+        },
+        {
+            "kanji": "ビリヤード",
+            "kana": "ビリヤード",
+            "translation": "billiards",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "billiards.mp3"
+        },
+        {
+            "kanji": "アクセント",
+            "kana": "アクセント",
+            "translation": "accent",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "accent.mp3"
+        },
+        {
+            "kanji": "インタプリタ",
+            "kana": "インタプリタ",
+            "translation": "interpreter",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "interpreter.mp3"
+        },
+        {
+            "kanji": "モジュール",
+            "kana": "モジュール",
+            "translation": "module",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "module.mp3"
+        },
+        {
+            "kanji": "パッケージ",
+            "kana": "パッケージ",
+            "translation": "package",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "package.mp3"
+        },
+        {
+            "kanji": "コミュニティ",
+            "kana": "コミュニティ",
+            "translation": "community",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "community.mp3"
+        },
+        {
+            "kanji": "ニューラルネットワーク",
+            "kana": "ニューラルネットワーク",
+            "translation": "neural network",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "neural network.mp3"
+        },
+        {
+            "kanji": "プロンプト",
+            "kana": "プロンプト",
+            "translation": "prompt",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "prompt.mp3"
+        },
+        {
+            "kanji": "アンダースコア",
+            "kana": "アンダースコア",
+            "translation": "underscore",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "underscore.mp3"
+        },
+        {
+            "kanji": "イコール",
+            "kana": "イコール",
+            "translation": "equal",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "equal.mp3"
+        },
+        {
+            "kanji": "シンセサイザー",
+            "kana": "シンセサイザー",
+            "translation": "synthesizer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "synthesizer.mp3"
+        },
+        {
+            "kanji": "オブジェクト",
+            "kana": "オブジェクト",
+            "translation": "object",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "object.mp3"
+        },
+        {
+            "kanji": "メソッド",
+            "kana": "メソッド",
+            "translation": "method",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "method.mp3"
+        },
+        {
+            "kanji": "ティッシュ",
+            "kana": "ティッシュ",
+            "translation": "tissue",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "tissue.mp3"
+        },
+        {
+            "kanji": "フレーバー",
+            "kana": "フレーバー",
+            "translation": "flavor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "flavor.mp3"
+        },
+        {
+            "kanji": "メキシコ",
+            "kana": "メキシコ",
+            "translation": "Mexico",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Mexico.mp3"
+        },
+        {
+            "kanji": "ルーティーン",
+            "kana": "ルーティーン",
+            "translation": "routine",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "routine.mp3"
+        },
+        {
+            "kanji": "ネガティブ",
+            "kana": "ネガティブ",
+            "translation": "negative",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "negative.mp3"
+        },
+        {
+            "kanji": "ポジティブ",
+            "kana": "ポジティブ",
+            "translation": "positive",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "positive.mp3"
+        },
+        {
+            "kanji": "ミルクレープ",
+            "kana": "ミルクレープ",
+            "translation": "mille crêpes",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "mille crêpes.mp3"
+        },
+        {
+            "kanji": "ルーター",
+            "kana": "ルーター",
+            "translation": "router",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "router.mp3"
+        },
+        {
+            "kanji": "タイ",
+            "kana": "タイ",
+            "translation": "Thai",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Thai.mp3"
+        },
+        {
+            "kanji": "オーストラリア",
+            "kana": "オーストラリア",
+            "translation": "Australian",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Australian.mp3"
+        },
+        {
+            "kanji": "フィリピン",
+            "kana": "フィリピン",
+            "translation": "Filipino",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Filipino.mp3"
+        },
+        {
+            "kanji": "ベトナム",
+            "kana": "ベトナム",
+            "translation": "Vietnamese",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Vietnamese.mp3"
+        },
+        {
+            "kanji": "ドミノピザ",
+            "kana": "ドミノピザ",
+            "translation": "\"Domino's pizza\"",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Domino pizza.mp3"
+        },
+        {
+            "kanji": "ロンドン",
+            "kana": "ロンドン",
+            "translation": "London",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "London.mp3"
+        },
+        {
+            "kanji": "キャビンアテンダント",
+            "kana": "キャビンアテンダント",
+            "translation": "flight attendant",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "flight attendant.mp3"
+        },
+        {
+            "kanji": "ロシア",
+            "kana": "ロシア",
+            "translation": "Russia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Russia.mp3"
+        },
+        {
+            "kanji": "ウォータークーラー",
+            "kana": "ウォータークーラー",
+            "translation": "water fountain",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "water fountain.mp3"
+        },
+        {
+            "kanji": "チャリティー",
+            "kana": "チャリティー",
+            "translation": "charity",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "charity.mp3"
+        },
+        {
+            "kanji": "リサイクルショップ",
+            "kana": "リサイクルショップ",
+            "translation": "recycle shop",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "recycle shop.mp3"
+        },
+        {
+            "kanji": "コーナー",
+            "kana": "コーナー",
+            "translation": "section of store",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "section of store.mp3"
+        },
+        {
+            "kanji": "ソファー",
+            "kana": "ソファー",
+            "translation": "sofa",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "sofa.mp3"
+        },
+        {
+            "kanji": "クローゼット",
+            "kana": "クローゼット",
+            "translation": "closet",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "closet.mp3"
+        },
+        {
+            "kanji": "アナログ",
+            "kana": "アナログ",
+            "translation": "analog",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "analog.mp3"
+        },
+        {
+            "kanji": "デジタル",
+            "kana": "デジタル",
+            "translation": "digital",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "digital.mp3"
+        },
+        {
+            "kanji": "ピーエスフォー",
+            "kana": "ピーエスフォー",
+            "translation": "PS4",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "PS4.mp3"
+        },
+        {
+            "kanji": "メトリック",
+            "kana": "メトリック",
+            "translation": "metric",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "metric.mp3"
+        },
+        {
+            "kanji": "インペリアル",
+            "kana": "インペリアル",
+            "translation": "imperial",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "imperial.mp3"
+        },
+        {
+            "kanji": "ダイソー",
+            "kana": "ダイソー",
+            "translation": "Daiso",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Daiso.mp3"
+        },
+        {
+            "kanji": "リタイヤ",
+            "kana": "リタイヤ",
+            "translation": "retire",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "retire.mp3"
+        },
+        {
+            "kanji": "セルフサービス",
+            "kana": "セルフサービス",
+            "translation": "self service",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "self service.mp3"
+        },
+        {
+            "kanji": "デメリット",
+            "kana": "デメリット",
+            "translation": "drawback",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "drawback.mp3"
+        },
+        {
+            "kanji": "オノマトペ",
+            "kana": "オノマトペ",
+            "translation": "onomatopoeia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "onomatopoeia.mp3"
+        },
+        {
+            "kanji": "シンガポール",
+            "kana": "シンガポール",
+            "translation": "Singapore",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Singapore.mp3"
+        },
+        {
+            "kanji": "マレーシア",
+            "kana": "マレーシア",
+            "translation": "Malaysia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Malaysia.mp3"
+        },
+        {
+            "kanji": "プレイステーション",
+            "kana": "プレイステーション",
+            "translation": "PlayStation",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "PlayStation.mp3"
+        },
+        {
+            "kanji": "シーズン",
+            "kana": "シーズン",
+            "translation": "season",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "season.mp3"
+        },
+        {
+            "kanji": "ドキュメンタリー",
+            "kana": "ドキュメンタリー",
+            "translation": "documentary",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "documentary.mp3"
+        },
+        {
+            "kanji": "ハンマー",
+            "kana": "ハンマー",
+            "translation": "hammer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hammer.mp3"
+        },
+        {
+            "kanji": "イルミネーション",
+            "kana": "イルミネーション",
+            "translation": "illumination (lights)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "illumination.mp3"
+        },
+        {
+            "kanji": "チケット",
+            "kana": "チケット",
+            "translation": "ticket",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "ticket.mp3"
+        },
+        {
+            "kanji": "コンセント",
+            "kana": "コンセント",
+            "translation": "electrical outlet",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "electrical outlet.mp3"
+        },
+        {
+            "kanji": "ウェイティングリスト",
+            "kana": "ウェイティングリスト",
+            "translation": "waiting list",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "waiting list.mp3"
+        },
+        {
+            "kanji": "ショートカット",
+            "kana": "ショートカット",
+            "translation": "shortcut",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "shortcut.mp3"
+        },
+        {
+            "kanji": "フィードバック",
+            "kana": "フィードバック",
+            "translation": "feedback",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "feedback.mp3"
+        },
+        {
+            "kanji": "シアトル",
+            "kana": "シアトル",
+            "translation": "Seattle",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Seattle.mp3"
+        },
+        {
+            "kanji": "ガレージ",
+            "kana": "ガレージ",
+            "translation": "garage",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "garage.mp3"
+        },
+        {
+            "kanji": "アンインストール",
+            "kana": "アンインストール",
+            "translation": "uninstall",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "uninstall.mp3"
+        },
+        {
+            "kanji": "ピンボール",
+            "kana": "ピンボール",
+            "translation": "pinball",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "pinball.mp3"
+        },
+        {
+            "kanji": "スターウォーズ",
+            "kana": "スターウォーズ",
+            "translation": "Star Wars",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Star Wars.mp3"
+        },
+        {
+            "kanji": "ギャンブル",
+            "kana": "ギャンブル",
+            "translation": "gambling",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gambling.mp3"
+        },
+        {
+            "kanji": "カジノ",
+            "kana": "カジノ",
+            "translation": "casino",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "casino.mp3"
+        },
+        {
+            "kanji": "プラマイゼロ",
+            "kana": "プラマイゼロ",
+            "translation": "even (+- zero)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "even_amount.mp3"
+        },
+        {
+            "kanji": "ゲームセンター",
+            "kana": "ゲームセンター",
+            "translation": "game center",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "game center.mp3"
+        },
+        {
+            "kanji": "カモフラージュ",
+            "kana": "カモフラージュ",
+            "translation": "camouflage",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "camouflage.mp3"
+        },
+        {
+            "kanji": "ブレーキ",
+            "kana": "ブレーキ",
+            "translation": "break",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "break.mp3"
+        },
+        {
+            "kanji": "ウィール",
+            "kana": "ウィール",
+            "translation": "wheel",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "wheel.mp3"
+        },
+        {
+            "kanji": "エルボーパッド",
+            "kana": "エルボーパッド",
+            "translation": "elbow pad",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "elbow pad.mp3"
+        },
+        {
+            "kanji": "アドレナリン",
+            "kana": "アドレナリン",
+            "translation": "adrenaline",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "adrenaline.mp3"
+        },
+        {
+            "kanji": "チェーン",
+            "kana": "チェーン",
+            "translation": "chain",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "chain.mp3"
+        },
+        {
+            "kanji": "ジェットコースター",
+            "kana": "ジェットコースター",
+            "translation": "roller coaster",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "roller coaster.mp3"
+        },
+        {
+            "kanji": "カルチャーショック",
+            "kana": "カルチャーショック",
+            "translation": "culture shock",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "culture shock.mp3"
+        },
+        {
+            "kanji": "ウーロン",
+            "kana": "ウーロン",
+            "translation": "Oolong",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Oolong.mp3"
+        },
+        {
+            "kanji": "イエーガーボム",
+            "kana": "イエーガーボム",
+            "translation": "Jaeger Bomb",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Jaeger Bomb.mp3"
+        },
+        {
+            "kanji": "ジャックダニエル",
+            "kana": "ジャックダニエル",
+            "translation": "\"Jack Daniel's\"",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Jack Daniels.mp3"
+        },
+        {
+            "kanji": "ジェムソン",
+            "kana": "ジェムソン",
+            "translation": "Jameson",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Jameson.mp3"
+        },
+        {
+            "kanji": "ニューヨーク",
+            "kana": "ニューヨーク",
+            "translation": "New York",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "New York.mp3"
+        },
+        {
+            "kanji": "セキュリティ",
+            "kana": "セキュリティ",
+            "translation": "security",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "security.mp3"
+        },
+        {
+            "kanji": "エクセル",
+            "kana": "エクセル",
+            "translation": "excel",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "excel.mp3"
+        },
+        {
+            "kanji": "インフルエンザ",
+            "kana": "インフルエンザ",
+            "translation": "influenza",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "influenza.mp3"
+        },
+        {
+            "kanji": "ストレッチ",
+            "kana": "ストレッチ",
+            "translation": "stretch",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "stretch.mp3"
+        },
+        {
+            "kanji": "ヨーグルト",
+            "kana": "ヨーグルト",
+            "translation": "yogurt",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "yogurt.mp3"
+        },
+        {
+            "kanji": "グラノーラ",
+            "kana": "グラノーラ",
+            "translation": "granola",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "granola.mp3"
+        },
+        {
+            "kanji": "マルチメディア",
+            "kana": "マルチメディア",
+            "translation": "multimedia",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "multimedia.mp3"
+        },
+        {
+            "kanji": "ボリューム",
+            "kana": "ボリューム",
+            "translation": "volume",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "volume.mp3"
+        },
+        {
+            "kanji": "グロテスク",
+            "kana": "グロテスク",
+            "translation": "gross",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gross.mp3"
+        },
+        {
+            "kanji": "グロい",
+            "kana": "グロい",
+            "translation": "gross (slang)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gross slang.mp3"
+        },
+        {
+            "kanji": "ホームセンター",
+            "kana": "ホームセンター",
+            "translation": "hardware store",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "hardware store.mp3"
+        },
+        {
+            "kanji": "ペンキ",
+            "kana": "ペンキ",
+            "translation": "paint",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "paint.mp3"
+        },
+        {
+            "kanji": "アメフト",
+            "kana": "アメフト",
+            "translation": "american football",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "american football.mp3"
+        },
+        {
+            "kanji": "バンドエイド",
+            "kana": "バンドエイド",
+            "translation": "bandaid",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "bandaid.mp3"
+        },
+        {
+            "kanji": "ウイルス",
+            "kana": "ウイルス",
+            "translation": "virus",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "virus.mp3"
+        },
+        {
+            "kanji": "ウィンドブレーカー",
+            "kana": "ウィンドブレーカー",
+            "translation": "windbreaker",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "windbreaker.mp3"
+        },
+        {
+            "kanji": "アスファルト",
+            "kana": "アスファルト",
+            "translation": "asphalt",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "asphalt.mp3"
+        },
+        {
+            "kanji": "トラブル",
+            "kana": "トラブル",
+            "translation": "trouble",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "trouble.mp3"
+        },
+        {
+            "kanji": "サウナ",
+            "kana": "サウナ",
+            "translation": "sauna",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "sauna.mp3"
+        },
+        {
+            "kanji": "ダウンジャケット",
+            "kana": "ダウンジャケット",
+            "translation": "zippered winter jacket",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "zippered winter jacket.mp3"
+        },
+        {
+            "kanji": "チャック",
+            "kana": "チャック",
+            "translation": "zipper",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "zipper.mp3"
+        },
+        {
+            "kanji": "コレステロール",
+            "kana": "コレステロール",
+            "translation": "cholesterol",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cholesterol.mp3"
+        },
+        {
+            "kanji": "レントゲン",
+            "kana": "レントゲン",
+            "translation": "x-ray",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "xray.mp3"
+        },
+        {
+            "kanji": "ギブス",
+            "kana": "ギブス",
+            "translation": "cast",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "cast.mp3"
+        },
+        {
+            "kanji": "アスパラガス",
+            "kana": "アスパラガス",
+            "translation": "asparagus",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "asparagus.mp3"
+        },
+        {
+            "kanji": "ジャンル",
+            "kana": "ジャンル",
+            "translation": "genre",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "genre.mp3"
+        },
+        {
+            "kanji": "アルバム",
+            "kana": "アルバム",
+            "translation": "album",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "album.mp3"
+        },
+        {
+            "kanji": "メインボーカル",
+            "kana": "メインボーカル",
+            "translation": "main singer",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "main singer.mp3"
+        },
+        {
+            "kanji": "イトーヨーカドー",
+            "kana": "イトーヨーカドー",
+            "translation": "Ito Yokado",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Ito Yokado.mp3"
+        },
+        {
+            "kanji": "ウスターソース",
+            "kana": "ウスターソース",
+            "translation": "Worcester sauce",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Worcester sauce.mp3"
+        },
+        {
+            "kanji": "マフラー",
+            "kana": "マフラー",
+            "translation": "scarf",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "scarf.mp3"
+        },
+        {
+            "kanji": "ホッチキス",
+            "kana": "ホッチキス",
+            "translation": "stapler",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "stapler.mp3"
+        },
+        {
+            "kanji": "オーブントースト",
+            "kana": "オーブントースト",
+            "translation": "microwave oven",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "microwave oven.mp3"
+        },
+        {
+            "kanji": "ポーチドエッグ",
+            "kana": "ポーチドエッグ",
+            "translation": "poached egg",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "poached egg.mp3"
+        },
+        {
+            "kanji": "オリーブオイル",
+            "kana": "オリーブオイル",
+            "translation": "olive oil",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "olive oil.mp3"
+        },
+        {
+            "kanji": "エアビー",
+            "kana": "エアビー",
+            "translation": "airbnb",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "airbnb.mp3"
+        },
+        {
+            "kanji": "ルームランナー",
+            "kana": "ルームランナー",
+            "translation": "treadmill",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "treadmill.mp3"
+        },
+        {
+            "kanji": "ベビーシッター",
+            "kana": "ベビーシッター",
+            "translation": "babysitter",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "babysitter.mp3"
+        },
+        {
+            "kanji": "ユニフォーム",
+            "kana": "ユニフォーム",
+            "translation": "uniform",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "uniform.mp3"
+        },
+        {
+            "kanji": "ママチャリ",
+            "kana": "ママチャリ",
+            "translation": "ladies bicycle",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "ladies bicycle.mp3"
+        },
+        {
+            "kanji": "ペパーミント",
+            "kana": "ペパーミント",
+            "translation": "peppermint",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "peppermint.mp3"
+        },
+        {
+            "kanji": "ジンジャーブレッド",
+            "kana": "ジンジャーブレッド",
+            "translation": "gingerbread",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gingerbread.mp3"
+        },
+        {
+            "kanji": "クリーミー",
+            "kana": "クリーミー",
+            "translation": "creamy",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "creamy.mp3"
+        },
+        {
+            "kanji": "シャインマスカット",
+            "kana": "シャインマスカット",
+            "translation": "fancy green grapes",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "fancy green grapes.mp3"
+        },
+        {
+            "kanji": "アイスキャンデー",
+            "kana": "アイスキャンデー",
+            "translation": "Ice pop",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Ice pop.mp3"
+        },
+        {
+            "kanji": "ゼラチン",
+            "kana": "ゼラチン",
+            "translation": "gelatine",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "gelatine.mp3"
+        },
+        {
+            "kanji": "ピンポン",
+            "kana": "ピンポン",
+            "translation": "ding dong",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "ding dong.mp3"
+        },
+        {
+            "kanji": "バリカン",
+            "kana": "バリカン",
+            "translation": "barber razor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "barber razor.mp3"
+        },
+        {
+            "kanji": "エピソード",
+            "kana": "エピソード",
+            "translation": "episode",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "episode.mp3"
+        },
+        {
+            "kanji": "ネットフリックス",
+            "kana": "ネットフリックス",
+            "translation": "Netflix",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Netflix.mp3"
+        },
+        {
+            "kanji": "スポンサー",
+            "kana": "スポンサー",
+            "translation": "sponsor",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "sponsor.mp3"
+        },
+        {
+            "kanji": "プラスドライバー",
+            "kana": "プラスドライバー",
+            "translation": "Phillips screwdriver",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "Phillips screwdriver.mp3"
+        },
+        {
+            "kanji": "マイナスドライバー",
+            "kana": "マイナスドライバー",
+            "translation": "flathead screwdriver",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "flathead screwdriver.mp3"
+        }
+    ]
+}

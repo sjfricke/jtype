@@ -1,0 +1,17 @@
+{
+    "name" : <string>,
+    "version" : <int>,
+    "cards" : [
+        {
+            "kanji" : <string>,
+            "kana" : <string>,
+            "translation" : <string>,
+            "furigana" : [start_0, len_0, start_1, len_1, etc],
+            "kanjiLength" : [kanjiBlock_0, kanjiBlock_1, etc],
+            "sound" : | <string>,
+        },
+        {
+            ...
+        }
+    ]
+}

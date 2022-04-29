@@ -1,0 +1,57 @@
+{
+    "name" : "demo",
+    "version" : 1,
+    "cards" : [
+        {
+            "kanji" : "得意",
+            "kana" : "とくい",
+            "translation" : "good starting point",
+            "furigana" : [0, 3],
+            "kanjiLength" : [2]
+        },
+        {
+            "kanji" : "大学でスポーツが盛んです",
+            "kana" : "だいがくでスポーツがさかんです",
+            "translation" : "sports are popular at universities",
+            "furigana" : [0, 4, 10, 2],
+            "kanjiLength" : [2, 1]
+        },
+        {
+            "kanji" : "どうやって",
+            "kana" : "どうやって",
+            "translation" : "how, what way",
+            "furigana" : [],
+            "kanjiLength" : []
+        },
+        {
+            "kanji" : "クローム",
+            "kana" : "クローム",
+            "translation" : "chrome",
+            "furigana" : [],
+            "kanjiLength" : [],
+            "sound" : "Chrome.mp3"
+        },
+        {
+            "kanji" : "一泊10000円",
+            "kana" : "いっぱくいちまんえん",
+            "translation" : "¥10,000 per night",
+            "furigana" : [0, 4, 4, 4, 8, 2],
+            "kanjiLength" : [2, 5, 1]
+        },
+        {
+            "kanji" : "1.5",
+            "kana" : "いってんご",
+            "translation" : "1.5",
+            "furigana" : [0, 2, 2, 2, 4, 1],
+            "kanjiLength" : [1, 1, 1]
+        },
+        {
+            "kanji" : "フォーク",
+            "kana" : "フォーク",
+            "translation" : "fork",
+            "furigana" : [],
+            "kanjiLength" : [],
+            "sound" : "fork.mp3"
+        }
+    ]
+}

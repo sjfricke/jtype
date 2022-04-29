@@ -1,0 +1,1398 @@
+{
+    "name": "onomappu_superstition",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "世界のどこでもその国だけの迷信とかってあると思うんですよ",
+            "kana": "せかいのどこでもそのくにだけのめいしんとかってあるとおもうんですよ",
+            "translation": "I think every country has its own superstitions",
+            "furigana": [
+                0,
+                3,
+                10,
+                2,
+                15,
+                4,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "2.mp3"
+        },
+        {
+            "kanji": "ですので今日は日本だけの変な迷信をオノマトペと一緒に教えたいと思います",
+            "kana": "ですのできょうはにほんだけのへんなめいしんをオノマトペといっしょにおしえたいとおもいます",
+            "translation": "So today I'd like to tell you about one strange Japanese superstition together with an onomatopoeia",
+            "furigana": [
+                4,
+                3,
+                8,
+                3,
+                14,
+                2,
+                17,
+                4,
+                28,
+                4,
+                33,
+                2,
+                39,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "4.mp3"
+        },
+        {
+            "kanji": "では今日のオノマトペをどうぞ",
+            "kana": "ではきょうのオノマトペをどうぞ",
+            "translation": "Here we go",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "5.mp3"
+        },
+        {
+            "kanji": "ピカピカは光が一瞬強く光る様子を表しています",
+            "kana": "ピカピカはひかりがいっしゅんつよくひかるようすをあらわしています",
+            "translation": "PIKA PIKA is a word describing a twinkling light",
+            "furigana": [
+                5,
+                3,
+                9,
+                5,
+                14,
+                2,
+                17,
+                2,
+                20,
+                3,
+                24,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "6.mp3"
+        },
+        {
+            "kanji": "雷を見た時によく小さい子は",
+            "kana": "かみなりをみたときによくちいさいこは",
+            "translation": "When there's a lightning young children often go",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                7,
+                2,
+                12,
+                2,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "7.mp3"
+        },
+        {
+            "kanji": "それが雷の一瞬だけ強く光る感じと似ています",
+            "kana": "それがかみなりのいっしゅんだけつよくひかるかんじとにています",
+            "translation": "And it matches the lightning that shines strongly only for a split second",
+            "furigana": [
+                3,
+                4,
+                8,
+                5,
+                15,
+                2,
+                18,
+                2,
+                21,
+                2,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "11.mp3"
+        },
+        {
+            "kanji": "ネズミの鳴き声です",
+            "kana": "ネズミのなきごえです",
+            "translation": "comes from the cry of a mouse",
+            "furigana": [
+                4,
+                1,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "15.mp3"
+        },
+        {
+            "kanji": "光るネズミ",
+            "kana": "ひかるネズミ",
+            "translation": "Shining mouse",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "お母さん光るネズミのぬいぐるみ欲しい",
+            "kana": "おかあさんひかるネズミのぬいぐるみほしい",
+            "translation": "No one would say \"Mum, I want the shining mouse plushie\"",
+            "furigana": [
+                1,
+                2,
+                5,
+                2,
+                17,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "実は今日紹介したい日本の迷信もこの雷に関係する迷信です",
+            "kana": "じつはきょうしょうかいしたいにほんのめいしんもこのかみなりにかんけいするめいしんです",
+            "translation": "The superstition I want to talk about today also has to do with lightning",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                6,
+                5,
+                14,
+                3,
+                18,
+                4,
+                25,
+                4,
+                30,
+                4,
+                36,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "その迷信はもし雷を見たり雷の音を聞いたら",
+            "kana": "そのめいしんはもしかみなりをみたりかみなりのおとをきいたら",
+            "translation": "The superstitions says that if you see and hear a lightning",
+            "furigana": [
+                2,
+                4,
+                9,
+                4,
+                14,
+                1,
+                17,
+                4,
+                22,
+                2,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "25.mp3"
+        },
+        {
+            "kanji": "おへそを隠せということです",
+            "kana": "おへそをかくせということです",
+            "translation": "you should hide your bellybutton",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "おへそはここにあるやつのことで雷を見たらこのおへそを隠さないといけません",
+            "kana": "おへそはここにあるやつのことでかみなりをみたらこのおへそをかくさないといけません",
+            "translation": "This is where the bellybutton is and you have to cover it when you see a lightning",
+            "furigana": [
+                15,
+                4,
+                20,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "27.mp3"
+        },
+        {
+            "kanji": "本当に隠す人はほとんどいないんですけど",
+            "kana": "ほんとうにかくすひとはほとんどいないんですけど",
+            "translation": "There aren't really many people who do that though",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "雷の神様は人間のおへそがすごい好きで人間のおへそを見るとそれを取っちゃうらしいです",
+            "kana": "かみなりのかみさまはにんげんのおへそがすごいすきでにんげんのおへそをみるとそれをとっちゃうらしいです",
+            "translation": "They say the God of Lightning really likes people's bellybuttons so if he sees one he'll steal it",
+            "furigana": [
+                0,
+                4,
+                5,
+                4,
+                10,
+                4,
+                22,
+                1,
+                25,
+                4,
+                34,
+                1,
+                40,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "ですので僕たちは雷を見たら取られないようにおへそを隠します",
+            "kana": "ですのでぼくたちはかみなりをみたらとられないようにおへそをかくします",
+            "translation": "So we cover our bellybuttons so they don't get stolen when seeing the lightning",
+            "furigana": [
+                4,
+                2,
+                9,
+                4,
+                14,
+                1,
+                17,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "30.mp3"
+        },
+        {
+            "kanji": "ちょっと面白くないですか",
+            "kana": "ちょっとおもしろくないですか",
+            "translation": "Isn't it kinda funny?",
+            "furigana": [
+                4,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "僕も何でこんな迷信があるのと思って調べました",
+            "kana": "ぼくもなんでこんなめいしんがあるのとおもってしらべました",
+            "translation": "I was wondering why a superstition like this exists so I researched a little",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                9,
+                4,
+                18,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "32.mp3"
+        },
+        {
+            "kanji": "たくさん理由が考えられているんですけど",
+            "kana": "たくさんりゆうがかんがえられているんですけど",
+            "translation": "You can think of many reasons",
+            "furigana": [
+                4,
+                3,
+                8,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "33.mp3"
+        },
+        {
+            "kanji": "一つ目は雷が鳴っているときはよく冷たい風が吹くらしいです",
+            "kana": "ひとつめはかみなりがなっているときはよくつめたいかぜがふくらしいです",
+            "translation": "The first one is that during a thunderstorm there's often a strong cold wind",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                5,
+                4,
+                10,
+                1,
+                20,
+                2,
+                24,
+                2,
+                27,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "ですのでその冷たい風でお腹が痛くならないように",
+            "kana": "ですのでそのつめたいかぜでおなかがいたくならないように",
+            "translation": "So you do it to prevent your tummy from hurting from the cold wind",
+            "furigana": [
+                6,
+                2,
+                10,
+                2,
+                14,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "お腹が痛くなると次の日学校に行けなかったりするので",
+            "kana": "おなかがいたくなるとつぎのひがっこうにいけなかったりするので",
+            "translation": "If your stomach hurts you wouldn't be able to go to school the next day",
+            "furigana": [
+                1,
+                2,
+                4,
+                2,
+                10,
+                2,
+                13,
+                1,
+                14,
+                4,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "お腹が冷たくならないように手で押さえてあったかくするためにこの迷信が考えられたと言われています",
+            "kana": "おなかがつめたくならないようにてでおさえてあったかくするためにこのめいしんがかんがえられたといわれています",
+            "translation": "So it's said that this superstition originated from preventing your stomach from the cold by warming it up with your hands",
+            "furigana": [
+                1,
+                2,
+                4,
+                2,
+                15,
+                1,
+                17,
+                1,
+                33,
+                4,
+                38,
+                3,
+                46,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "37.mp3"
+        },
+        {
+            "kanji": "こういうの屈むと言います",
+            "kana": "こういうのかがむといいます",
+            "translation": "This is called bending forward (kagamu)",
+            "furigana": [
+                5,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "よくテロリストが飛行機の中でみんなそこを動くなその場所で屈めというふうに言います",
+            "kana": "よくテロリストがひこうきのなかでみんなそこをうごくなそのばしょでかがめというふうにいいます",
+            "translation": "Usually a terrorist hijacking a plane would say \"No one move, bend down where you are\"",
+            "furigana": [
+                8,
+                4,
+                13,
+                2,
+                22,
+                2,
+                28,
+                3,
+                32,
+                2,
+                41,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "40.mp3"
+        },
+        {
+            "kanji": "まあそういう状況を映画とかで見た時は多分みんなこういうふうにすると思います",
+            "kana": "まあそういうじょうきょうをえいがとかでみたときはたぶんみんなこういうふうにするとおもいます",
+            "translation": "Well, if you watch a scene like that in a movie everybody will probably do this",
+            "furigana": [
+                6,
+                6,
+                13,
+                3,
+                19,
+                1,
+                21,
+                2,
+                24,
+                3,
+                40,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "41.mp3"
+        },
+        {
+            "kanji": "これが屈むです",
+            "kana": "これがかがむです",
+            "translation": "This is \"kagamu\"",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "ですのでおへそを隠す時こういうふうに前に屈むと雷はよく高いところに落ちるので",
+            "kana": "ですのでおへそをかくすときこういうふうにまえにかがむとかみなりはよくたかいところにおちるので",
+            "translation": "So because the lightning usually strikes at the highest place, if you cover your bellybutton and bend forward like this",
+            "furigana": [
+                8,
+                2,
+                11,
+                2,
+                20,
+                2,
+                23,
+                2,
+                27,
+                4,
+                34,
+                2,
+                41,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "43.mp3"
+        },
+        {
+            "kanji": "なるべく高くないようにするために考えられたと言われています",
+            "kana": "なるべくたかくないようにするためにかんがえられたといわれています",
+            "translation": "you're trying to get as low as possible and that's why the superstition was made up",
+            "furigana": [
+                4,
+                2,
+                17,
+                3,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "まぁでもほとんど変わらないですよね",
+            "kana": "まぁでもほとんどかわらないですよね",
+            "translation": "Well it doesn't change that much anyway",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "ではピカピカはいつ使うのかというととても綺麗で光っているものに使います",
+            "kana": "ではピカピカはいつつかうのかというととてもきれいでひかっているものにつかいます",
+            "translation": "So you use pika pika when you want to describe something pretty and glistening",
+            "furigana": [
+                9,
+                2,
+                21,
+                3,
+                25,
+                2,
+                34,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "47.mp3"
+        },
+        {
+            "kanji": "例えばお皿を洗った時に最初汚いですけど洗った後ってすごくきれいじゃないですか",
+            "kana": "たとえばおさらをあらったときにさいしょきたないですけどあらったあとってすごくきれいじゃないですか",
+            "translation": "For example when you wash a plate at first it's dirty, but after washing it becomes clean right",
+            "furigana": [
+                0,
+                2,
+                5,
+                2,
+                8,
+                2,
+                12,
+                2,
+                15,
+                4,
+                19,
+                3,
+                27,
+                2,
+                31,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "48.mp3"
+        },
+        {
+            "kanji": "でその時は光が反射して光っているように見えますよね",
+            "kana": "でそのときはひかりがはんしゃしてひかっているようにみえますよね",
+            "translation": "And then it reflects the light so it looks like it's shining",
+            "furigana": [
+                3,
+                2,
+                6,
+                3,
+                10,
+                4,
+                16,
+                2,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "49.mp3"
+        },
+        {
+            "kanji": "ここからお皿がピカピカという言い方ができるようになりました",
+            "kana": "ここからおさらがピカピカといういいかたができるようになりました",
+            "translation": "That's why we can say the plate is pika pika",
+            "furigana": [
+                5,
+                2,
+                15,
+                1,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "お皿がすごくきれいだと光は何回も反射をするので",
+            "kana": "おさらがすごくきれいだとひかりはなんかいもはんしゃをするので",
+            "translation": "If a plate is very clean it reflects light multiple times",
+            "furigana": [
+                1,
+                2,
+                12,
+                3,
+                16,
+                2,
+                18,
+                2,
+                21,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "お皿はピカピカと言います他にも例えば窓があって",
+            "kana": "おさらはピカピカといいますほかにもたとえばまどがあって",
+            "translation": "so you say the plate is pika pikaYou can also have a window",
+            "furigana": [
+                1,
+                2,
+                9,
+                1,
+                13,
+                2,
+                17,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "こうやってするときこれを日本語で磨くと言います",
+            "kana": "こうやってするときこれをにほんごでみがくといいます",
+            "translation": "if you do this, it's called \"migaku\" (polishing) in Japanese",
+            "furigana": [
+                12,
+                4,
+                17,
+                2,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "何回も何回もこういうふうに擦ってきれいにすることを磨くと言います",
+            "kana": "なんかいもなんかいもこういうふうにこすってきれいにすることをみがくといいます",
+            "translation": "If you rub it over and over again and make it clean, it's called polishing",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                5,
+                2,
+                7,
+                2,
+                17,
+                2,
+                30,
+                2,
+                34,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "ですので窓を磨いた後は窓がピカピカになります",
+            "kana": "ですのでまどをみがいたあとはまどがピカピカになります",
+            "translation": "And after polishing a window becomes pika pika",
+            "furigana": [
+                4,
+                2,
+                7,
+                2,
+                11,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "シンデレラの映画でシンデレラが悪いお姉さんにすごくいじめられて",
+            "kana": "シンデレラのえいがでシンデレラがわるいおねえさんにすごくいじめられて",
+            "translation": "In the movie Cinderella she gets terribly bullied by her sisters",
+            "furigana": [
+                6,
+                3,
+                16,
+                2,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "窓がピカピカになるまでずっと磨いているシーンがありましたよね",
+            "kana": "まどがピカピカになるまでずっとみがいているシーンがありましたよね",
+            "translation": "There is also a scene where she keeps on polishing windows until they glisten pika pika",
+            "furigana": [
+                0,
+                2,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "57.mp3"
+        },
+        {
+            "kanji": "あの時あの嫌な悪いお姉さんはピカピカになるまで部屋の外出さないよと言っていた気がします",
+            "kana": "あのときあのいやなわるいおねえさんはピカピカになるまでへやのそとださないよといっていたきがします",
+            "translation": "I think the bad sister told her she can't leave the room until the windows are pika pika",
+            "furigana": [
+                2,
+                2,
+                6,
+                2,
+                9,
+                2,
+                13,
+                2,
+                27,
+                2,
+                30,
+                2,
+                32,
+                1,
+                38,
+                1,
+                43,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "ちょっと違うかも",
+            "kana": "ちょっとちがうかも",
+            "translation": "Maybe it went a bit different",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "窓をピカピカに磨くを窓をピカピカにすると短くすることもできます",
+            "kana": "まどをピカピカにみがくをまどをピカピカにするとみじかくすることもできます",
+            "translation": "You shorten the phrase \"to polish the window pika pika\" to just \"to make the window pika pika\"",
+            "furigana": [
+                0,
+                2,
+                8,
+                2,
+                12,
+                2,
+                23,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "あとは靴をピカピカにするまあもちろん靴をピカピカに磨くも正解です",
+            "kana": "あとはくつをピカピカにするまあもちろんくつをピカピカにみがくもせいかいです",
+            "translation": "Or \"to make shoes pika pika\". But of course \"to polish shoes pika pika\" is also correct",
+            "furigana": [
+                3,
+                2,
+                19,
+                2,
+                27,
+                2,
+                31,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "61.mp3"
+        },
+        {
+            "kanji": "あと昔つるつるという表現を勉強しましたよね",
+            "kana": "あとむかしつるつるというひょうげんをべんきょうしましたよね",
+            "translation": "We also learnt the expression \"tsuru tsuru\" before",
+            "furigana": [
+                2,
+                3,
+                12,
+                5,
+                18,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "あのつるつるの動画を作っている時すごいピカピカの話したかったんですけど",
+            "kana": "あのつるつるのどうがをつくっているときすごいピカピカのはなしたかったんですけど",
+            "translation": "When I was making that video I was really tempted to talk about pika pika",
+            "furigana": [
+                7,
+                3,
+                11,
+                2,
+                17,
+                2,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "63.mp3"
+        },
+        {
+            "kanji": "ちょっと動画長くなっちゃうかなっていうのと動画最初の方だったので説明できませんでした",
+            "kana": "ちょっとどうがながくなっちゃうかなっていうのとどうがさいしょのほうだったのでせつめいできませんでした",
+            "translation": "The video would've gotten too long and also it was one of my first videos so I wasn't as good at explaining it",
+            "furigana": [
+                4,
+                3,
+                7,
+                2,
+                23,
+                3,
+                26,
+                4,
+                31,
+                2,
+                38,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2,
+                1,
+                2
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "つるつるは表面がとても滑らかな様子を表していましたよね",
+            "kana": "つるつるはひょうめんがとてもなめらかなようすをあらわしていましたよね",
+            "translation": "Tsuru tsuru described a very smooth surface right",
+            "furigana": [
+                5,
+                5,
+                14,
+                2,
+                19,
+                3,
+                23,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "ですので例えばよく社長の部屋とかにある机は僕のイメージですけどすごいつるつるの",
+            "kana": "ですのでたとえばよくしゃちょうのへやとかにあるつくえはぼくのイメージですけどすごいつるつるの",
+            "translation": "So for example a desk at a CEO's office, I have an image of it being very tsuru tsuru",
+            "furigana": [
+                4,
+                2,
+                10,
+                5,
+                16,
+                2,
+                23,
+                3,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "66.mp3"
+        },
+        {
+            "kanji": "すごくピカピカの机が置いてあると思います",
+            "kana": "すごくピカピカのつくえがおいてあるとおもいます",
+            "translation": "A pika pika desk",
+            "furigana": [
+                8,
+                3,
+                12,
+                1,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "であの机はすごいつるつるで",
+            "kana": "であのつくえはすごいつるつるで",
+            "translation": "And that desk is very tsuru tsuru so",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "68.mp3"
+        },
+        {
+            "kanji": "つるつるだとやっぱり光をよく反射しやすいのでピカピカの机という言い方もできます",
+            "kana": "つるつるだとやっぱりひかりをよくはんしゃしやすいのでピカピカのつくえといういいかたもできます",
+            "translation": "if it's very smooth it reflects light well so you can also say it's a pika pika desk",
+            "furigana": [
+                10,
+                3,
+                16,
+                4,
+                31,
+                3,
+                37,
+                1,
+                39,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "69.mp3"
+        },
+        {
+            "kanji": "他のにもつるつるは頭にも使えるという話をしましたよね",
+            "kana": "ほかのにもつるつるはあたまにもつかえるというはなしをしましたよね",
+            "translation": "And you can use tsuru tsuru to describe someone's head",
+            "furigana": [
+                0,
+                2,
+                10,
+                3,
+                15,
+                2,
+                22,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "ですのでまぁ頭がつるつるの人によく小さい子どもは",
+            "kana": "ですのでまぁあたまがつるつるのひとによくちいさいこどもは",
+            "translation": "If there's someone with a bald head little children sometimes say stuff like",
+            "furigana": [
+                6,
+                3,
+                15,
+                2,
+                20,
+                2,
+                24,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "71.mp3"
+        },
+        {
+            "kanji": "あの人の頭ピカピカしてるとかそういうことをたまに言っちゃいますよね",
+            "kana": "あのひとのあたまピカピカしてるとかそういうことをたまにいっちゃいますよね",
+            "translation": "That man's head is pika pika",
+            "furigana": [
+                2,
+                2,
+                5,
+                3,
+                27,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "74.mp3"
+        },
+        {
+            "kanji": "ピカピカは綺麗なものに使えますけど頭がピカピカと言われたら多分うれしくないので",
+            "kana": "ピカピカはきれいなものにつかえますけどあたまがピカピカといわれたらたぶんうれしくないので",
+            "translation": "Pika pika is used to describe pretty things but if you heard your head was pika pika you probably wouldn't be happy",
+            "furigana": [
+                5,
+                3,
+                12,
+                2,
+                19,
+                3,
+                28,
+                1,
+                33,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "まあそれは皆さん使わないようにしましょう",
+            "kana": "まあそれはみなさんつかわないようにしましょう",
+            "translation": "So let's try and not use this one",
+            "furigana": [
+                5,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "絶対に怒られますね",
+            "kana": "ぜったいにおこられますね",
+            "translation": "He'd definitely get mad at that one",
+            "furigana": [
+                0,
+                4,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "80.mp3"
+        },
+        {
+            "kanji": "でも俺のじいちゃんも頭がつるつるでしかも光をよく反射するので",
+            "kana": "でもおれのじいちゃんもあたまがつるつるでしかもひかりをよくはんしゃするので",
+            "translation": "But my grandpa is also bald and his head reflects light well",
+            "furigana": [
+                2,
+                2,
+                11,
+                3,
+                23,
+                3,
+                29,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "頭がピカピカなんですよ",
+            "kana": "あたまがピカピカなんですよ",
+            "translation": "so his head is pika pika",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "82.mp3"
+        },
+        {
+            "kanji": "ですので俺もちょっと頭がピカピカになるのが怖い",
+            "kana": "ですのでおれもちょっとあたまがピカピカになるのがこわい",
+            "translation": "So I'm a little scared my head will also be pika pika",
+            "furigana": [
+                4,
+                2,
+                11,
+                3,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "83.mp3"
+        },
+        {
+            "kanji": "でもずっとピカピカだけいうのはやめてください",
+            "kana": "でもずっとピカピカだけいうのはやめてください",
+            "translation": "But don't just say pika pika all the time",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "みなさんありがとうございました",
+            "kana": "みなさんありがとうございました",
+            "translation": "Thank you all for watching",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "89.mp3"
+        }
+    ]
+}

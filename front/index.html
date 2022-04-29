@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>jtype</title>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <script>
+        const DEBUG=false; // toggle
+    </script>
+</head>
+
+<body>
+    <div id="deckSelect">
+        <ul id="deckList">
+        </ul>
+    </div>
+    <div id="mainType">
+        <div id="typeSettings">
+            <div id="settings" class="row">
+                <div id="settingsLeft" class="col">
+                    <input type="checkbox" id="kana" name="kana">
+                    <label for="kana">Show kana</label>
+                    <input type="checkbox" id="translation" name="translation">
+                    <label for="translation">Show translation</label>
+                    <input type="checkbox" id="vertical" name="vertical">
+                    <label for="vertical">Show vertical</label>
+                    <input type="checkbox" id="playSound" name="playSound">
+                    <label for="playSound">Play sound first</label>
+                    <input type="checkbox" id="pressSound" name="pressSound">
+                    <label for="pressSound">Play sound on press</label>
+                    <input type="checkbox" id="listenMode" name="listenMode">
+                    <label for="listenMode">Listen Mode</label>
+                    <input type="checkbox" id="darkMode" name="darkMode">
+                    <label for="darkMode">Dark Mode</label>
+                    <input type="checkbox" id="showWrong" name="showWrong">
+                    <label for="showWrong">Show Wrong</label>
+                </div>
+            </div>
+        </div>
+
+        <div id="textDisplay">
+            <div id="textKanji">
+            </div>
+            <div id="textKana">
+            </div>
+
+            <div id="textTranslation">
+            </div>
+
+            <div id="inputDisplay"></div>
+        </div>
+    </div>
+
+    <!-- At end incase need to reference dom elements -->
+    <script src="lib/jquery-3.5.1.min.js"></script>
+    <script src="lib/wanakana.min.js"></script>
+
+    <script src="scripts/utils.js"></script>
+    <script src="scripts/input.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,655 @@
+{
+    "name": "meshclass_mistake",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "今日はそんな失敗した時に使える五つの日本語表現を紹介します",
+            "kana": "きょうはそんなしっぱいしたときにつかえるいつつのにほんごひょうげんをしょうかいします",
+            "translation": "to introduce 5 Japanese expressions that you can use when you make a mistake",
+            "furigana": [
+                0,
+                3,
+                7,
+                4,
+                13,
+                2,
+                16,
+                2,
+                20,
+                2,
+                24,
+                4,
+                28,
+                5,
+                34,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1,
+                3,
+                2,
+                2
+            ],
+            "sound": "4.mp3"
+        },
+        {
+            "kanji": "一つ目はやっちゃったです",
+            "kana": "ひとつめはやっちゃったです",
+            "translation": "The first is \"I've done it\"",
+            "furigana": [
+                0,
+                2,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "やってしまいましたの会話表現です",
+            "kana": "やってしまいましたのかいわひょうげんです",
+            "translation" : "It's a conversational expression for 'I've done it'",
+            "furigana": [
+                10,
+                3,
+                13,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "21.mp3"
+        },
+        {
+            "kanji": "ほかの人が困るような失敗普通では考えられない失敗をしてしまったとき使います",
+            "kana": "ほかのひとがこまるようなしっぱいふつうではかんがえられないしっぱいをしてしまったときつかいます",
+            "translation": "Use this when you make a mistake that other people are in trouble with, or a mistake that you wouldn't normally think of",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                12,
+                4,
+                16,
+                3,
+                21,
+                3,
+                29,
+                4,
+                42,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "魚が真っ黒に焦げちゃったやっちゃった",
+            "kana": "さかながまっくろにこげちゃったやっちゃった",
+            "translation": "The fish burned black. I did it",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                6,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "上司の名前を間違えるなんてやっちゃったなあ",
+            "kana": "じょうしのなまえをまちがえるなんてやっちゃったなあ",
+            "translation": "I can't believe I got my boss's name wrong",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "27.mp3"
+        },
+        {
+            "kanji": "ほかにもやらかしたもよく使いますね",
+            "kana": "ほかにもやらかしたもよくつかいますね",
+            "translation": "addition, I often use Yarakashi.",
+            "furigana": [
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "あやらかした家のカギをしめなかった",
+            "kana": "あやらかしたいえのカギをしめなかった",
+            "translation": "Oh! crap! I didn't lock the door to my house",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "30.mp3"
+        },
+        {
+            "kanji": "会社をクビになるなんて何をやらかしたの",
+            "kana": "かいしゃをクビになるなんてなにをやらかしたの",
+            "translation": "What did you do to get fired from the company?",
+            "furigana": [
+                0,
+                4,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "このように使います",
+            "kana": "このようにつかいます",
+            "translation": "You use in this way.",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "32.mp3"
+        },
+        {
+            "kanji": "あのすみません弊社の社名が間違っているんですけど",
+            "kana": "あのすみませんへいしゃのしゃめいがまちがっているんですけど",
+            "translation": "Our company name is wrong.",
+            "furigana": [
+                7,
+                4,
+                12,
+                4,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "また何かをする機会をのがすという意味です",
+            "kana": "またなにかをするきかいをのがすといういみです",
+            "translation": "It also means that you miss the opportunity to do something.",
+            "furigana": [
+                2,
+                2,
+                8,
+                3,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "第一希望の大学の面接試験をしくじった",
+            "kana": "だいいちきぼうのだいがくのめんせつしけんをしくじった",
+            "translation": "I failed the interview test at the university of my first choice.",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                4,
+                3,
+                8,
+                4,
+                13,
+                4,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                2
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "取引先との大切な会議をしくじってしまった",
+            "kana": "とりひきさきとのたいせつなかいぎをしくじってしまった",
+            "translation": "I failed an important meeting with a business partner. In the",
+            "furigana": [
+                0,
+                4,
+                4,
+                2,
+                8,
+                4,
+                13,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "同じ意味でしくったも若者の間でよく使われます",
+            "kana": "おなじいみでしくったもわかもののまでよくつかわれます",
+            "translation": "same meaning, 'I failed' is often used among young people.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                11,
+                4,
+                16,
+                1,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "46.mp3"
+        },
+        {
+            "kanji": "最悪今日のテストしくったよー",
+            "kana": "さいあくきょうのテストしくったよー",
+            "translation": "Worst of all, I had to take a test today!",
+            "furigana": [
+                0,
+                4,
+                4,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "49.mp3"
+        },
+        {
+            "kanji": "お前さもうバイトでしくんなよ",
+            "kana": "おまえさもうバイトでしくんなよ",
+            "translation": "You're already working part-time",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "スベったはスキーを滑るという意味ではありません",
+            "kana": "スベったはスキーをスベるといういみではありません",
+            "translation": "「スベった」 doesn't mean 「スキーを滑る」",
+            "furigana": [
+                9,
+                2,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "会社の朝礼で皆を笑わせようと冗談を言ったらスベった",
+            "kana": "かいしゃのちょうれいでみなをわらわせようとじょうだんをいったらスベった",
+            "translation": "I made a joke at the company morning assembly to make everyone laugh",
+            "furigana": [
+                0,
+                4,
+                5,
+                5,
+                11,
+                2,
+                14,
+                2,
+                21,
+                5,
+                27,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "68.mp3"
+        },
+        {
+            "kanji": "彼女の前では何を言ってもスベるので自信がなくなった",
+            "kana": "かのじょのまえではなにをいってもスベるのでじしんがなくなった",
+            "translation": "I've lost confidence in anything I say in front of her because it's so slippery.",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                9,
+                2,
+                12,
+                1,
+                21,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "スベるの反対の言葉はウケるです",
+            "kana": "スベるのはんたいのことばはウケるです",
+            "translation": "The opposite of \"slip up\" is \"be funny\".",
+            "furigana": [
+                4,
+                4,
+                9,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "72.mp3"
+        },
+        {
+            "kanji": "自己紹介の時にジョークを入れたらウケて安心した",
+            "kana": "じこしょうかいのときにジョークをいれたらウケてあんしんした",
+            "translation": "I was relieved when I got a joke in when I introduced myself and it went over well.",
+            "furigana": [
+                0,
+                2,
+                2,
+                5,
+                8,
+                2,
+                16,
+                1,
+                23,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "なにそれウケるんだけど",
+            "kana": "なにそれウケるんだけど",
+            "translation": "what is that? I'm crazy.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "英語のミステイクから来ています",
+            "kana": "えいごのミステイクからきています",
+            "translation": "comes from the English word mistake.",
+            "furigana": [
+                0,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "やり方や目的を間違えて悪い結果になるという意味です",
+            "kana": "やりかたやもくてきをまちがえてわるいけっかになるといういみです",
+            "translation": "I mean, wrong way of doing things or wrong purpose, bad results.",
+            "furigana": [
+                2,
+                2,
+                5,
+                4,
+                10,
+                3,
+                15,
+                2,
+                18,
+                3,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "89.mp3"
+        },
+        {
+            "kanji": "選手がミスをするたび会場からブーイングの声があがった",
+            "kana": "せんしゅがミスをするたびかいじょうからブーイングのこえがあがった",
+            "translation": "Every time a player made a mistake, the audience booed.",
+            "furigana": [
+                0,
+                4,
+                12,
+                5,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "92.mp3"
+        },
+        {
+            "kanji": "彼はメモを取りながら仕事をするのでミスをしない",
+            "kana": "かれはメモをとりながらしごとをするのでミスをしない",
+            "translation": "He works while taking notes and doesn't make mistakes.",
+            "furigana": [
+                0,
+                2,
+                6,
+                1,
+                11,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "94.mp3"
+        },
+        {
+            "kanji": "若い人はミスるともいいます",
+            "kana": "わかいひとはミスるともいいます",
+            "translation": "Young people also say  make a mistake.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "96.mp3"
+        },
+        {
+            "kanji": "テストで簡単な計算をミスって十点も落とした",
+            "kana": "テストでかんたんなけいさんをミスってじゅうてんもおとした",
+            "translation": "I made a mistake on a simple calculation on a test and dropped 10 points",
+            "furigana": [
+                4,
+                4,
+                9,
+                4,
+                18,
+                3,
+                21,
+                2,
+                24,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "97.mp3"
+        },
+        {
+            "kanji": "取り返しのつかないようなミスで",
+            "kana": "とりかえしのつかないようなミスで",
+            "translation": "you make an irreparable mistake and",
+            "furigana": [
+                0,
+                1,
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "109.mp3"
+        },
+        {
+            "kanji": "やってきたことが無駄になるとか台無しになるという意味です",
+            "kana": "やってきたことがむだになるとかだいなしになるといういみです",
+            "translation": "It means that everything you've done will be wasted or ruined.",
+            "furigana": [
+                8,
+                2,
+                15,
+                3,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "110.mp3"
+        },
+        {
+            "kanji": "逆転のチャンスがたった一つのミスでパーになった",
+            "kana": "ぎゃくてんのチャンスがたったひとつのミスでパーになった",
+            "translation": "A chance to turn the tables was blown out of the water with just one mistake.",
+            "furigana": [
+                0,
+                5,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "113.mp3"
+        },
+        {
+            "kanji": "あの契約は部下の交渉失敗によりパーになった",
+            "kana": "あのけいやくはぶかのこうしょうしっぱいによりパーになった",
+            "translation": "That contract was blown due to the failure of a subordinate to negotiate.",
+            "furigana": [
+                2,
+                4,
+                7,
+                2,
+                10,
+                5,
+                15,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "sound": "115.mp3"
+        }
+    ]
+}

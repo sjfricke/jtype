@@ -1,0 +1,2140 @@
+{
+    "name": "onomappu_konbini",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "コンビニを制する者は人生を制する",
+            "kana": "コンビニをせいするものはじんせいをせいする",
+            "translation": "One who controls convenience stores, controls life",
+            "furigana": [
+                5,
+                2,
+                9,
+                2,
+                12,
+                4,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "1.mp3"
+        },
+        {
+            "kanji": "皆さんの人生の中で必要なものは何ですか",
+            "kana": "みなさんのじんせいのなかでひつようなものはなにですか",
+            "translation": "What is necessary in your life?",
+            "furigana": [
+                0,
+                2,
+                5,
+                4,
+                10,
+                2,
+                13,
+                4,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "3.mp3"
+        },
+        {
+            "kanji": "こう聞かれたときに",
+            "kana": "こうきかれたときに",
+            "translation": "If you ask me",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4.mp3"
+        },
+        {
+            "kanji": "僕はコンビニいって言ってもおかしくないくらい",
+            "kana": "ぼくはコンビニいっていってもおかしくないくらい",
+            "translation": "I would go so far as to say convenience stores",
+            "furigana": [
+                0,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "5.mp3"
+        },
+        {
+            "kanji": "コンビニを尊敬しています",
+            "kana": "コンビニをそんけいしています",
+            "translation": "That's how much I respect them",
+            "furigana": [
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "6.mp3"
+        },
+        {
+            "kanji": "なんでかっていうと",
+            "kana": "なんでかっていうと",
+            "translation": "And that is because",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "7.mp3"
+        },
+        {
+            "kanji": "僕は台湾のコンビニに命を救われたからです",
+            "kana": "ぼくはたいわんのコンビニにいのちをすくわれたからです",
+            "translation": "A convenience store in Taiwan saved my life once",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                13,
+                3,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "8.mp3"
+        },
+        {
+            "kanji": "僕が台湾に最初に行った時",
+            "kana": "ぼくがたいわんにさいしょにいったとき",
+            "translation": "When I first went to Taiwan",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                4,
+                13,
+                1,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "9.mp3"
+        },
+        {
+            "kanji": "僕は中国語を全く話せませんでした",
+            "kana": "ぼくはちゅうごくごをまったくはなせませんでした",
+            "translation": "I didn't speak a word of Chinese",
+            "furigana": [
+                0,
+                2,
+                3,
+                6,
+                10,
+                3,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "10.mp3"
+        },
+        {
+            "kanji": "ご飯を食べようって思った時に",
+            "kana": "ごはんをたべようっておもったときに",
+            "translation": "that when I felt like eating something",
+            "furigana": [
+                1,
+                2,
+                4,
+                1,
+                10,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "12.mp3"
+        },
+        {
+            "kanji": "いきなりお店の中に入るのがすごく怖かったです",
+            "kana": "いきなりおみせのなかにはいるのがすごくこわかったです",
+            "translation": "suddenly going to a restaurant seemed extremely scary to me",
+            "furigana": [
+                5,
+                2,
+                8,
+                2,
+                11,
+                2,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "13.mp3"
+        },
+        {
+            "kanji": "台湾では中国語を勉強したんですけど",
+            "kana": "たいわんではちゅうごくごをべんきょうしたんですけど",
+            "translation": "I was studying Chinese in Taiwan",
+            "furigana": [
+                0,
+                4,
+                6,
+                6,
+                13,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                2
+            ],
+            "sound": "14.mp3"
+        },
+        {
+            "kanji": "先に台湾観光をしちゃおうって思ってたんですけど",
+            "kana": "さきにたいわんかんこうをしちゃおうっておもってたんですけど",
+            "translation": "I thought I'd do some sightseeing first",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                7,
+                4,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "16.mp3"
+        },
+        {
+            "kanji": "もうそれどころじゃない",
+            "kana": "もうそれどころじゃない",
+            "translation": "But I wasn't up for that at all",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "17.mp3"
+        },
+        {
+            "kanji": "台湾の人みんないい人なんですけど",
+            "kana": "たいわんのひとみんないいひとなんですけど",
+            "translation": "The Taiwanese were all good people",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "19.mp3"
+        },
+        {
+            "kanji": "言葉が違うだけですごく怖くて",
+            "kana": "ことばがちがうだけですごくこわくて",
+            "translation": "but I was scared just because they spoke a different language",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "ご飯を食べることもできませんでした",
+            "kana": "ごはんをたべることもできませんでした",
+            "translation": "And I wasn't even able to eat because of that",
+            "furigana": [
+                1,
+                2,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "21.mp3"
+        },
+        {
+            "kanji": "もうそんな中ご飯を食べられるところを探していたら",
+            "kana": "もうそんななかごはんをたべられるところをさがしていたら",
+            "translation": "So I searched for a place where I could eat",
+            "furigana": [
+                5,
+                2,
+                8,
+                2,
+                11,
+                1,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "家の近くにコンビニがありました",
+            "kana": "いえのちかくにコンビニがありました",
+            "translation": "and there was a convenience store near my flat",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "23.mp3"
+        },
+        {
+            "kanji": "あの時は砂漠の中まで水を見つけたぐらい嬉しかったです",
+            "kana": "あのときはさばくのなかまでみずをみつけたぐらいうれしかったです",
+            "translation": "I was as happy as if I'd found water in the middle of a desert",
+            "furigana": [
+                2,
+                2,
+                5,
+                3,
+                9,
+                2,
+                13,
+                2,
+                16,
+                1,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "でもここでまた問題がありました",
+            "kana": "でもここでまたもんだいがありました",
+            "translation": "But even so I still had a problem",
+            "furigana": [
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "25.mp3"
+        },
+        {
+            "kanji": "店員さんと話すのも怖かったです",
+            "kana": "てんいんさんとはなすのもこわかったです",
+            "translation": "I was also scared of talking to the shop assistant",
+            "furigana": [
+                0,
+                4,
+                7,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "何か物を買うと店員さんは温めますかって聞いてきますよね",
+            "kana": "なにかものをかうとてんいんさんはあたためますかってきいてきますよね",
+            "translation": "You know, when you buy something they'll ask you stuff like \"Would you like me to heat it up for you?\"",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                6,
+                1,
+                9,
+                4,
+                16,
+                3,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "27.mp3"
+        },
+        {
+            "kanji": "もうそれさえも怖かった",
+            "kana": "もうそれさえもこわかった",
+            "translation": "And I was even afraid of that",
+            "furigana": [
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "ですので僕はいろいろ考えて",
+            "kana": "ですのでぼくはいろいろかんがえて",
+            "translation": "So I thought very hard",
+            "furigana": [
+                4,
+                2,
+                11,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "もう何も質問されないものを買おうと決めました",
+            "kana": "もうなにもしつもんされないものをかおうときめました",
+            "translation": "and decided to buy something they wouldn’t ask anything about",
+            "furigana": [
+                2,
+                2,
+                5,
+                4,
+                16,
+                1,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "30.mp3"
+        },
+        {
+            "kanji": "もうそれはこれありがとう",
+            "kana": "もうそれはこれありがとう",
+            "translation": "And it was this! Thank youu",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "そのとき僕はもうなんでコンビニの中国語覚え",
+            "kana": "そのときぼくはもうなんでコンビニのちゅうごくごおぼえて",
+            "translation": "Oh why didn’t I learn any convenience store Chinese",
+            "furigana": [
+                4,
+                2,
+                17,
+                5,
+                22,
+                1,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "33.mp3"
+        },
+        {
+            "kanji": "すごく後悔しました",
+            "kana": "すごくこうかいしました",
+            "translation": "I regretted that very much at the time",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "もう最初に勉強するのは",
+            "kana": "もうさいしょにべんきょうするのは",
+            "translation": "What you should learn first isn't",
+            "furigana": [
+                2,
+                4,
+                7,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "「僕の名前はひときです」じゃない",
+            "kana": "「ぼくのなまえはひときです」じゃない",
+            "translation": "\"My name is Hitoki\"",
+            "furigana": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "「温めてください」",
+            "kana": "「あたためてください」",
+            "translation": "it should be \"Heat it up please\"",
+            "furigana": [
+                1,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "37.mp3"
+        },
+        {
+            "kanji": "「フォークをください」です",
+            "kana": "「フォークをください」です",
+            "translation": "and \"Can I get a fork please?\"",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "38.mp3"
+        },
+        {
+            "kanji": "何回スプーンでパスタを食べた",
+            "kana": "なんかいスプーンでパスタをたべた",
+            "translation": "How many times have I eaten pasta with a spoon?",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "皆さんにはそういう思いをして欲しくないので",
+            "kana": "みなさんにはそういうおもいをしてほしくないので",
+            "translation": "I don't want you guys to suffer the way I have",
+            "furigana": [
+                0,
+                2,
+                10,
+                2,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "41.mp3"
+        },
+        {
+            "kanji": "今日は僕と一緒にコンビニに行ったつもりで",
+            "kana": "きょうはぼくといっしょにコンビニにいったつもりで",
+            "translation": "So today we'll do a simulation",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                4,
+                17,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "じゃあコンビ二に入ります",
+            "kana": "じゃあコンビににはいります",
+            "translation": "Alright, so let's go inside",
+            "furigana": [
+                6,
+                1,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "いらっしゃいませ",
+            "kana": "いらっしゃいませ",
+            "translation": "Welcome",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "ここまで大丈夫",
+            "kana": "ここまでだいじょうぶ",
+            "translation": "Are you keeping up so far?",
+            "furigana": [
+                4,
+                6
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "46.mp3"
+        },
+        {
+            "kanji": "僕は入るのにめっちゃエネルギーが必要でしたけど",
+            "kana": "ぼくははいるのにめっちゃエネルギーがひつようでしたけど",
+            "translation": "I needed so much energy to go inside",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                18,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "47.mp3"
+        },
+        {
+            "kanji": "もしお酒がどこにあるかわからなかったら",
+            "kana": "もしおさけがどこにあるかわからなかったら",
+            "translation": "But maybe you don't know where alcohol is",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "大変ですよね",
+            "kana": "たいへんですよね",
+            "translation": "That's tough right",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "僕の留学生の友達はお酒は僕の血だって言っていたので",
+            "kana": "ぼくのりゅうがくせいのともだちはおさけはぼくのちだっていっていたので",
+            "translation": "My foreign friend said alcohol runs in his veins",
+            "furigana": [
+                0,
+                2,
+                3,
+                7,
+                11,
+                4,
+                17,
+                2,
+                20,
+                2,
+                23,
+                1,
+                27,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "まあその人にとっては絶対必要ですよね",
+            "kana": "まあそのひとにとってはぜったいひつようですよね",
+            "translation": "so I'm sure it was necessary for him",
+            "furigana": [
+                4,
+                2,
+                11,
+                4,
+                15,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "ですのでその時は店員さんの所へ行き",
+            "kana": "ですのでそのときはてんいんさんのところへいき",
+            "translation": "So what you should do then is go up to the shop assistant",
+            "furigana": [
+                6,
+                2,
+                9,
+                4,
+                16,
+                3,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "「お酒ありますか」と言ってください",
+            "kana": "「おさけありますか」といってください",
+            "translation": "and say \"O-sake arimasu ka?\" (Do you have alcohol?)",
+            "furigana": [
+                2,
+                2,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "カップラーメンが欲しかったら",
+            "kana": "カップラーメンがほしかったら",
+            "translation": "If you want cup noodles",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "「カップラーメンありますか」と言ってください",
+            "kana": "「カップラーメンありますか」といってください",
+            "translation": "just say \"Kappu raamen arimasu ka?\" (Do you have cup noodles?)",
+            "furigana": [
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "57.mp3"
+        },
+        {
+            "kanji": "店員さんはあなたをその場所に連れて行ってくれます",
+            "kana": "てんいんさんはあなたをそのばしょにつれていってくれます",
+            "translation": "The shop assistant will take you to the right place",
+            "furigana": [
+                0,
+                4,
+                13,
+                3,
+                17,
+                1,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "ここでは店員さんはありますよとか言うかもしれないですけど",
+            "kana": "ここではてんいんさんはありますよとかいうかもしれないですけど",
+            "translation": "Here they'll probably say something like \"Arimasu yo\" (Yes, we have it)",
+            "furigana": [
+                4,
+                4,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "質問はしてこないので安心してください",
+            "kana": "しつもんはしてこないのであんしんしてください",
+            "translation": "But they won't ask any questions",
+            "furigana": [
+                0,
+                4,
+                12,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "61.mp3"
+        },
+        {
+            "kanji": "これで欲しいものを集めたら",
+            "kana": "これでほしいものをあつめたら",
+            "translation": "With that you’ve gathered everything you need",
+            "furigana": [
+                3,
+                1,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "次に来るのは地獄のお会計",
+            "kana": "つぎにくるのはじごくのおかいけい",
+            "translation": "And the next step is the cash register hell",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                7,
+                3,
+                12,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2
+            ],
+            "sound": "63.mp3"
+        },
+        {
+            "kanji": "もう僕はこれが怖くて怖くて全然ダメでした",
+            "kana": "もうぼくはこれがこわくてこわくてぜんぜんダメでした",
+            "translation": "I was so so afraid of it, I was completely useless",
+            "furigana": [
+                2,
+                2,
+                8,
+                2,
+                12,
+                2,
+                16,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "ですので僕は皆さんに店員さんが言うと思うすべてのフレーズを伝えたいと思います",
+            "kana": "ですのでぼくはみなさんにてんいんさんがいうとおもうすべてのフレーズをつたえたいとおもいます",
+            "translation": "Which is why I want to share with you every phrase a shop assistant might use",
+            "furigana": [
+                4,
+                2,
+                7,
+                2,
+                12,
+                4,
+                19,
+                1,
+                22,
+                2,
+                34,
+                2,
+                40,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "お会計の時",
+            "kana": "おかいけいのとき",
+            "translation": "At the cash register",
+            "furigana": [
+                1,
+                4,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "66.mp3"
+        },
+        {
+            "kanji": "まず店員さんが言いそうなことは",
+            "kana": "まずてんいんさんがいいそうなことは",
+            "translation": "what they'll likely say first",
+            "furigana": [
+                2,
+                4,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "何言ったの",
+            "kana": "なにいったの",
+            "translation": "What'd you say?",
+            "furigana": [
+                0,
+                2,
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "69.mp3"
+        },
+        {
+            "kanji": "早すぎて何言ったかわかんない",
+            "kana": "はやすぎてなにいったかわかんない",
+            "translation": "It was so fast I didn't get it at all",
+            "furigana": [
+                0,
+                2,
+                5,
+                2,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "さっきは「袋いりますか」って言ったんですけど",
+            "kana": "さっきは「ふくろいりますか」っていったんですけど",
+            "translation": "They said \"Fukuro irimasu ka?\" (Do you need a bag?)",
+            "furigana": [
+                5,
+                3,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "71.mp3"
+        },
+        {
+            "kanji": "実際店員さんはもうそのフレーズに慣れているので",
+            "kana": "じっさいてんいんさんはもうそのフレーズになれているので",
+            "translation": "but they're so used to saying it so",
+            "furigana": [
+                0,
+                4,
+                4,
+                4,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "72.mp3"
+        },
+        {
+            "kanji": "早く言って「袋いりますか」というふうに言うと思います",
+            "kana": "はやくいって「ふくろいりますか」というふうにいうとおもいます",
+            "translation": "when they say it fast it sounds like this",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                7,
+                3,
+                22,
+                1,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "しかも速いだけじゃなくて",
+            "kana": "しかもはやいだけじゃなくて",
+            "translation": "And it's not just that it's fast",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "74.mp3"
+        },
+        {
+            "kanji": "もごもご話す人もいます",
+            "kana": "もごもごはなすひともいます",
+            "translation": "There are people who speak mogo mogo (mumble)",
+            "furigana": [
+                4,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "もごもごは口を十分に開けずに",
+            "kana": "もごもごはくちをじゅうぶんにあけずに",
+            "translation": "Mogo mogo is when you don't open your mouth",
+            "furigana": [
+                5,
+                2,
+                8,
+                5,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "ハッキリ物を言っていない様子を表しています",
+            "kana": "ハッキリものをいっていないようすをあらわしています",
+            "translation": "and don't pronounce stuff clearly",
+            "furigana": [
+                4,
+                2,
+                7,
+                1,
+                13,
+                3,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "77.mp3"
+        },
+        {
+            "kanji": "よく小さい時にお母さんとケンカをした時に",
+            "kana": "よくちいさいときにおかあさんとケンカをしたときに",
+            "translation": "Often when I had a fight with my mum",
+            "furigana": [
+                2,
+                2,
+                6,
+                2,
+                10,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "78.mp3"
+        },
+        {
+            "kanji": "何か言いたいけどちょっと怖いから",
+            "kana": "なにかいいたいけどちょっとこわいから",
+            "translation": "I'd want to say something but I was afraid",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "あまりはっきりしない声で",
+            "kana": "あまりはっきりしないこえで",
+            "translation": "So I remember speaking in a muffled voice",
+            "furigana": [
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "80.mp3"
+        },
+        {
+            "kanji": "もごもご文句を言っていたのを覚えています",
+            "kana": "もごもごもんくをいっていたのをおぼえています",
+            "translation": "and complained mogo mogo",
+            "furigana": [
+                4,
+                3,
+                8,
+                1,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "なんかもごもごして何言ってるかよくわからないですよね",
+            "kana": "なんかもごもごしてなにいってるかよくわからないですよね",
+            "translation": "what you say is mogo mogo and hard to understand",
+            "furigana": [
+                9,
+                2,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "83.mp3"
+        },
+        {
+            "kanji": "店員さんも毎日同じフレーズ言ってるから",
+            "kana": "てんいんさんもまいにちおなじフレーズいってるから",
+            "translation": "Because convenience store workers say these phrases every day",
+            "furigana": [
+                0,
+                4,
+                7,
+                4,
+                11,
+                2,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "84.mp3"
+        },
+        {
+            "kanji": "早くてもごもご言うようになると思います",
+            "kana": "はやくてもごもごいうようになるとおもいます",
+            "translation": "they start saying them quickly and mogo mogo",
+            "furigana": [
+                0,
+                2,
+                8,
+                1,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "85.mp3"
+        },
+        {
+            "kanji": "でも正直皆さんが外国の方ってわかったら",
+            "kana": "でもしょうじきみなさんががいこくのほうってわかったら",
+            "translation": "But to be honest when they realize you're a foreigner",
+            "furigana": [
+                2,
+                5,
+                7,
+                2,
+                12,
+                4,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "店員さんはもっと丁寧にゆっくり話すと思います",
+            "kana": "てんいんさんはもっとていねいにゆっくりはなすとおもいます",
+            "translation": "I think they'll speak nice and clearly for you",
+            "furigana": [
+                0,
+                4,
+                10,
+                4,
+                19,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "でもたまたまもごもご言う人に会ってしまったら",
+            "kana": "でもたまたまもごもごいうひとにあってしまったら",
+            "translation": "But if you meet somebody mumbling like that",
+            "furigana": [
+                10,
+                1,
+                12,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "そのときは「もう一度お願いします」と言ってください",
+            "kana": "そのときは「もういちどおねがいします」といってください",
+            "translation": "try saying \"Mou ichido onegaishimasu\" (Can you repeat please?))",
+            "furigana": [
+                8,
+                3,
+                12,
+                2,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "89.mp3"
+        },
+        {
+            "kanji": "「このままでいいですか」とか",
+            "kana": "「このままでいいですか」とか",
+            "translation": "like \"Kono mama de ii desu ka?\" (Do you want it just like this?)",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "92.mp3"
+        },
+        {
+            "kanji": "「エコバッグはありますか」というふうに聞くと思います",
+            "kana": "「エコバッグはありますか」というふうにきくとおもいます",
+            "translation": "or \"Ekobaggu wa arimasu ka?\" (Do you have an eco-bag?)",
+            "furigana": [
+                19,
+                1,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "93.mp3"
+        },
+        {
+            "kanji": "「エコバッグはありますか」はわかると思うんですけど",
+            "kana": "「エコバッグはありますか」はわかるとおもうんですけど",
+            "translation": "I think you can understand the last one",
+            "furigana": [
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "94.mp3"
+        },
+        {
+            "kanji": "「このままでいいですか」っていきなり言われたら",
+            "kana": "「このままでいいですか」っていきなりいわれたら",
+            "translation": "But if you're asked \"Are you okay like this?\" all of a sudden",
+            "furigana": [
+                18,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "95.mp3"
+        },
+        {
+            "kanji": "最初「何のこと」って思うと思います",
+            "kana": "さいしょ「なにのこと」っておもうとおもいます",
+            "translation": "At first, you'll probably think, \"What are you talking about?\"",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                13,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "96.mp3"
+        },
+        {
+            "kanji": "ですのでこれは何か決まったフレーズだなというふうに覚えるのがいいと思います",
+            "kana": "ですのでこれはなにかきまったフレーズだなというふうにおぼえるのがいいとおもいます",
+            "translation": "So it's good to keep it in mind as a set phrase",
+            "furigana": [
+                7,
+                2,
+                10,
+                1,
+                26,
+                2,
+                35,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "97.mp3"
+        },
+        {
+            "kanji": "なんだコンビニって簡単じゃんって思うのはまだ早いですよ",
+            "kana": "なんだコンビニってかんたんじゃんっておもうのはまだはやいですよ",
+            "translation": "But wait it's still to early to think convenience stores are easy",
+            "furigana": [
+                9,
+                4,
+                18,
+                2,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "98.mp3"
+        },
+        {
+            "kanji": "次の質問は",
+            "kana": "つぎのしつもんは",
+            "translation": "The next question is",
+            "furigana": [
+                0,
+                2,
+                3,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "99.mp3"
+        },
+        {
+            "kanji": "「ポイントカードはお持ちですか」",
+            "kana": "「ポイントカードはおもちですか」",
+            "translation": "\"Pointokaado wa o-mochi desu ka?\" (Do you have a point card?)",
+            "furigana": [
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "100.mp3"
+        },
+        {
+            "kanji": "えこれわかるよ簡単じゃんって思うじゃないですか",
+            "kana": "えこれわかるよかんたんじゃんっておもうじゃないですか",
+            "translation": "You're probably thinking \"I know this one, it's easy!\"",
+            "furigana": [
+                7,
+                4,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "101.mp3"
+        },
+        {
+            "kanji": "君たちはまだ本当の恐ろしさを知らない",
+            "kana": "きみたちはまだほんとうのおそろしさをしらない",
+            "translation": "But you guys no nothing of real fear yet",
+            "furigana": [
+                0,
+                2,
+                7,
+                4,
+                12,
+                2,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "102.mp3"
+        },
+        {
+            "kanji": "ポイントカードって",
+            "kana": "ポイントカードって",
+            "translation": "Because with these point cards",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "103.mp3"
+        },
+        {
+            "kanji": "ですので何かカードって聞こえたら",
+            "kana": "ですのでなにかカードってきこえたら",
+            "translation": "So if you hear anything about a \"kaado\" (card)",
+            "furigana": [
+                4,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "107.mp3"
+        },
+        {
+            "kanji": "ポイントカードですかって聞いてみるのをオススメします",
+            "kana": "ポイントカードですかってきいてみるのをオススメします",
+            "translation": "I recommend asking \"Pointokaado desu ka?\" (Is it a point card?)",
+            "furigana": [
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "108.mp3"
+        },
+        {
+            "kanji": "そして最後の質問",
+            "kana": "そしてさいごのしつもん",
+            "translation": "And the last question",
+            "furigana": [
+                3,
+                3,
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "109.mp3"
+        },
+        {
+            "kanji": "お支払いはどうされますか",
+            "kana": "おしはらいはどうされますか",
+            "translation": "\"O-harai wa dou saremasu ka?\" (How would you like to pay?)",
+            "furigana": [
+                1,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "110.mp3"
+        },
+        {
+            "kanji": "日本語のどうですかっていろいろな意味が",
+            "kana": "にほんごのどうですかっていろいろないみが",
+            "translation": "This \"dou desu ka?\" can mean many different things in Japanese",
+            "furigana": [
+                0,
+                4,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                2
+            ],
+            "sound": "111.mp3"
+        },
+        {
+            "kanji": "「ほしいですか」「いりますか」っていう時に",
+            "kana": "「ほしいですか」「いりますか」っていうときに",
+            "translation": "When you want to say \"do you want it?\" or \"do you need it?\"",
+            "furigana": [
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "112.mp3"
+        },
+        {
+            "kanji": "「これどうですか」とかいう言い方もあるんですけど",
+            "kana": "「これどうですか」とかいういいかたもあるんですけど",
+            "translation": "you can say \"Kore dou desu ka\" (How about this?)",
+            "furigana": [
+                13,
+                1,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "113.mp3"
+        },
+        {
+            "kanji": "その意味じゃないです",
+            "kana": "そのいみじゃないです",
+            "translation": "But here it doesn't mean that",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "114.mp3"
+        },
+        {
+            "kanji": "僕は「あお支払いはいらないです」っていうふうに言いたいです",
+            "kana": "ぼくは「あおしはらいはいらないです」っていうふうにいいたいです",
+            "translation": "I'd want to say \"Oh I don't need the payment\"",
+            "furigana": [
+                0,
+                2,
+                6,
+                3,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "116.mp3"
+        },
+        {
+            "kanji": "でもここでは「現金ですか」",
+            "kana": "でもここでは「げんきんですか」",
+            "translation": "But here they mean \"Do you want to pay with cash?\"",
+            "furigana": [
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "117.mp3"
+        },
+        {
+            "kanji": "それとも「クレジットカードですか」ということを聞いているので",
+            "kana": "それとも「クレジットカードですか」ということをきいているので",
+            "translation": "or \"Do you want to pay with a credit card?\"",
+            "furigana": [
+                23,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "118.mp3"
+        },
+        {
+            "kanji": "その答え方として",
+            "kana": "そのこたえかたとして",
+            "translation": "So to answer this",
+            "furigana": [
+                2,
+                2,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "119.mp3"
+        },
+        {
+            "kanji": "僕は「現金で」とか「カードで」というふうに言っています",
+            "kana": "ぼくは「げんきんで」とか「カードで」というふうにいっています",
+            "translation": "I usually say \"Genkin de\" (With cash) or \"Kaado de\" (\"By card\")",
+            "furigana": [
+                0,
+                2,
+                4,
+                4,
+                24,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "120.mp3"
+        },
+        {
+            "kanji": "本当は「現金でお願いします」なんですけど",
+            "kana": "ほんとうは「げんきんでおねがいします」なんですけど",
+            "translation": "Really it's \"Genkin de onegaishimasu\"",
+            "furigana": [
+                0,
+                4,
+                6,
+                4,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "121.mp3"
+        },
+        {
+            "kanji": "ちょっと長いので",
+            "kana": "ちょっとながいので",
+            "translation": "but it's a bit long",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "122.mp3"
+        },
+        {
+            "kanji": "みんな短くして「現金で」",
+            "kana": "みんなみじかくして「げんきんで」",
+            "translation": "So everyone shortens it to \"Genkin de\"",
+            "furigana": [
+                3,
+                3,
+                10,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "123.mp3"
+        },
+        {
+            "kanji": "「クレジットで」とか「カードで」というふうに言っています",
+            "kana": "「クレジットで」とか「カードで」というふうにいっています",
+            "translation": "you can also say \"Kurejitto de\" or \"Kaado de\" (By credit card)",
+            "furigana": [
+                19,
+                2,
+                22,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "124.mp3"
+        },
+        {
+            "kanji": "あとは最近あまり聞かれないんですけど",
+            "kana": "あとはさいきんあまりきかれないんですけど",
+            "translation": "Also there's this one they don't ask so much anymore",
+            "furigana": [
+                3,
+                4,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "125.mp3"
+        },
+        {
+            "kanji": "こちらあたためますかっていうふうに聞かれることもあります",
+            "kana": "こちらあたためますかっていうふうにきかれることもあります",
+            "translation": "But I have been asked \"Kochira atatamemasu ka?\" (Do you want it heated up?)",
+            "furigana": [
+                17,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "126.mp3"
+        },
+        {
+            "kanji": "最近は自分から温めてくださいって言わないと",
+            "kana": "さいきんはじぶんからあたためてくださいっていわないと",
+            "translation": "But recently if you don't say \"Atatamete kudasai\" (Please heat it up)",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                10,
+                3,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "127.mp3"
+        },
+        {
+            "kanji": "温めてくれないところもあるので注意してください",
+            "kana": "あたためてくれないところもあるのでちゅういしてください",
+            "translation": "they won't heat it up so be careful about that",
+            "furigana": [
+                0,
+                3,
+                17,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "128.mp3"
+        },
+        {
+            "kanji": "実際僕も最近ほとんど聞かれてないです",
+            "kana": "じっさいぼくもさいきんほとんどきかれてないです",
+            "translation": "I haven't been asked that recently to be honest",
+            "furigana": [
+                0,
+                4,
+                4,
+                2,
+                7,
+                4,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "129.mp3"
+        },
+        {
+            "kanji": "多分今日説明した質問以外はほとんど来ないと思うんですけど",
+            "kana": "たぶんきょうせつめいしたしつもんいがいはほとんどこないとおもうんですけど",
+            "translation": "I think you won't get questions apart from the ones I talked about today",
+            "furigana": [
+                0,
+                3,
+                3,
+                3,
+                6,
+                4,
+                12,
+                4,
+                16,
+                3,
+                24,
+                1,
+                28,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "130.mp3"
+        },
+        {
+            "kanji": "もし質問されてもう全然わかんなかったら",
+            "kana": "もししつもんされてもうぜんぜんわかんなかったら",
+            "translation": "But if you do and you didn't understand",
+            "furigana": [
+                2,
+                4,
+                11,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "131.mp3"
+        },
+        {
+            "kanji": "このことを言ってください",
+            "kana": "このことをいってください",
+            "translation": "Just say this",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "132.mp3"
+        },
+        {
+            "kanji": "これは別の動画で説明したものがあるので",
+            "kana": "これはべつのどうがでせつめいしたものがあるので",
+            "translation": "I have another video where I talk about that",
+            "furigana": [
+                3,
+                2,
+                6,
+                3,
+                10,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "134.mp3"
+        },
+        {
+            "kanji": "ぜひそっちを見てください",
+            "kana": "ぜひそっちをみてください",
+            "translation": "So be sure to check it out too",
+            "furigana": [
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "135.mp3"
+        },
+        {
+            "kanji": "もうレジに行く時に",
+            "kana": "もうレジにいくときに",
+            "translation": "If you went up to the cash register",
+            "furigana": [
+                5,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "136.mp3"
+        },
+        {
+            "kanji": "もうこれで皆さんは楽しいコンビニライフを過ごすことができると思うんですけど",
+            "kana": "もうこれでみなさんはたのしいコンビニライフをすごすことができるとおもうんですけど",
+            "translation": "Then you'll be sure to have a happy convenience store life",
+            "furigana": [
+                5,
+                2,
+                10,
+                2,
+                22,
+                1,
+                32,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "138.mp3"
+        },
+        {
+            "kanji": "もしこういうこと聞かれたっていうのがあったら",
+            "kana": "もしこういうこときかれたっていうのがあったら",
+            "translation": "If you wonder about any other questions you might be asked",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "139.mp3"
+        },
+        {
+            "kanji": "コメントに書いてください",
+            "kana": "コメントにかいてください",
+            "translation": "Let me know in the comments down below",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "140.mp3"
+        },
+        {
+            "kanji": "もうみんなで助け合いましょう",
+            "kana": "もうみんなでたすけあいましょう",
+            "translation": "Let's help each other out",
+            "furigana": [
+                6,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "141.mp3"
+        },
+        {
+            "kanji": "コンビニ大好きコンビニ大好き",
+            "kana": "コンビニだいすきコンビニだいすき",
+            "translation": "I love conbini, I love conbini",
+            "furigana": [
+                4,
+                3,
+                12,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "142.mp3"
+        },
+        {
+            "kanji": "皆さんありがとうございました",
+            "kana": "みなさんありがとうございました",
+            "translation": "Thank you all for watching",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "143.mp3"
+        }
+    ]
+}

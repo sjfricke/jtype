@@ -1,0 +1,141 @@
+body {
+}
+
+#deckSelect {
+
+}
+
+#deckList {
+    line-height: 30px;
+}
+
+#mainType {
+    visibility : hidden; /* Start hidden */
+    width: 99vw; /* 100 causes small scroll bar*/
+    min-height: 100%;
+}
+
+.row {
+    display: flex; /* equal height of the children */
+}
+
+.col {
+    flex: 1; /* additionally, equal width */
+}
+
+#typeSettings {
+    position: absolute;
+    width: 99%; /* 100 causes small scroll bar*/
+    height: 6vh;
+}
+
+#settings {
+    width: 98.0%; /* Seems to be some implicit margin on left side */
+    padding-top: 5px;
+    height: 90%;
+    background: #555;
+    color: #f1f1f1;
+}
+
+#settingsLeft {
+    padding-left: 10px;
+    text-align: left;
+}
+
+#textDisplay {
+    max-height: 94vh;
+}
+
+.textKanjiVertical {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-wrap: anywhere;
+
+    margin-top: 6vh; /* at least same as typeSettings */
+    font-size: 40px;
+    width: 30%;
+}
+
+.textKanaVertical {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-wrap: anywhere;
+
+    margin-top: 6vh; /* at least same as typeSettings */
+    font-size: 16px;
+    width: 10%;
+}
+
+.textTranslationVertical {
+    text-align: center;
+    overflow-wrap: break-word;
+
+    margin-top: 6vh; /* at least same as typeSettings */
+    width: 20%;
+    height: 93vh;
+}
+
+.inputDisplayVertical  {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-wrap: anywhere;
+
+    font-size: 35px;
+    margin-top: 6vh; /* at least same as typeSettings */
+    width: 20%;
+    border-left: black solid 2px;
+}
+
+.textKanjiHorizontal {
+    position: absolute;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 6vh; /* at least same as above hights combined */
+    height: 40vh;
+}
+
+.textKanaHorizontal {
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 46vh; /* at least same as above hights combined */
+    height: 10vh;
+    border-top: 1px blue dotted;
+}
+
+.textTranslationHorizontal {
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
+    width: 99%;
+    margin-top: 56vh; /* at least same as above hights combined */
+    height: 14vh;
+    border-top: 1px blue dotted;
+}
+
+.inputDisplayHorizontal {
+    position: absolute;
+    text-align: center;
+    width: 99%; /* 100 causes small scroll bar*/
+    margin-top: 70vh; /* at least same as above hights combined */
+    padding-top: 2vh;
+    font-size: 40px;
+    border-top: black solid 2px;
+}
+
+#furigana {
+    position: absolute;
+    font-size: 25px;
+}
+
+.correct {
+    background-color: #83ef82;
+}
+
+.wrong {
+    background-color: #ff5665;
+}

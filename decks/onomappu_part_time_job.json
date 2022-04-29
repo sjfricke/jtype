@@ -1,0 +1,1556 @@
+{
+    "name": "onomappu_part_time_job",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "皆さんはバイトってしたことありますか",
+            "kana": "みなさんはバイトってしたことありますか",
+            "translation": "Have you ever had a part time job?",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2.mp3"
+        },
+        {
+            "kanji": "よくバイトだからって適当にやったらボスから怒られたとか",
+            "kana": "よくバイトだからっててきとうにやったらボスからおこられたとか",
+            "translation": "Have you ever slacked off since it was only a part time job and made your boss angry?",
+            "furigana": [
+                10,
+                4,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3.mp3"
+        },
+        {
+            "kanji": "ま僕たちは大学生の時にフルタイムじゃなくて",
+            "kana": "まぼくたちはだいがくせいのときにフルタイムじゃなくて",
+            "translation": "Well for us, during university we don't have a full time job",
+            "furigana": [
+                1,
+                2,
+                6,
+                6,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1
+            ],
+            "sound": "5.mp3"
+        },
+        {
+            "kanji": "パートタイムで時間があるときにバイトすることがよくあります",
+            "kana": "パートタイムでじかんがあるときにバイトすることがよくあります",
+            "translation": "but we have a part time job called baito",
+            "furigana": [
+                7,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "6.mp3"
+        },
+        {
+            "kanji": "中には高校生の時からバイトをする人もいるんですけど",
+            "kana": "なかにはこうこうせいのときからバイトをするひともいるんですけど",
+            "translation": "There are also people who get a part time job in high school",
+            "furigana": [
+                0,
+                2,
+                4,
+                6,
+                11,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "8.mp3"
+        },
+        {
+            "kanji": "やっぱりお店は高校生はダメっていうところも結構あります",
+            "kana": "やっぱりおみせはこうこうせいはダメっていうところもけっこうあります",
+            "translation": "But there are some places which don't hire high schoolers",
+            "furigana": [
+                5,
+                2,
+                8,
+                6,
+                25,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                2
+            ],
+            "sound": "9.mp3"
+        },
+        {
+            "kanji": "今日は日本人の大学生がどんなバイトをしているのかお話したいと思います",
+            "kana": "きょうはにほんじんのだいがくせいがどんなバイトをしているのかおはなししたいとおもいます",
+            "translation": "So today I'd like to talk about what jobs are popular among Japanese university students",
+            "furigana": [
+                0,
+                3,
+                4,
+                5,
+                10,
+                6,
+                31,
+                3,
+                38,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                3,
+                1,
+                1
+            ],
+            "sound": "10.mp3"
+        },
+        {
+            "kanji": "でも主に僕の周りの人とか僕の経験を話すのですごい一般的っていうわけではないかもしれないです",
+            "kana": "でもおもにぼくのまわりのひととかぼくのけいけんをはなすのですごいいっぱんてきっていうわけではないかもしれないです",
+            "translation": "But I'm mainly going to talk about my experiences and people around me so it's not like I can speak for everybody",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                8,
+                2,
+                12,
+                2,
+                16,
+                2,
+                19,
+                4,
+                24,
+                2,
+                32,
+                4,
+                36,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "11.mp3"
+        },
+        {
+            "kanji": "日本の大学生が良くするバイトは飲食店のバイトです",
+            "kana": "にほんのだいがくせいがよくするバイトはいんしょくてんのバイトです",
+            "translation": "A common part time job for Japanese uni students is working at a restaurant",
+            "furigana": [
+                0,
+                3,
+                4,
+                6,
+                11,
+                1,
+                19,
+                5,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                1,
+                2,
+                1
+            ],
+            "sound": "12.mp3"
+        },
+        {
+            "kanji": "チェーン店のレストランとかマックとかスターバックスが多いですね",
+            "kana": "チェーンてんのレストランとかマックとかスターバックスがおおいですね",
+            "translation": "The most common ones are chain restaurants like McDonald's or Starbucks",
+            "furigana": [
+                4,
+                2,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "13.mp3"
+        },
+        {
+            "kanji": "まあ僕のイメージなんですけどマックで働く人はクールな感じで",
+            "kana": "まあぼくのイメージなんですけどマックではたらくひとはクールなかんじで",
+            "translation": "How I see it is that people who work at McDonald's are the cool kids",
+            "furigana": [
+                2,
+                2,
+                19,
+                3,
+                23,
+                2,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "14.mp3"
+        },
+        {
+            "kanji": "クラスの端で一人イヤフォンをつけて音楽を聴いている人とか",
+            "kana": "クラスのはじでひとりイヤフォンをつけておんがくをきいているひととか",
+            "translation": "The ones sitting at the back of the classroom alone listening to music with their earphones",
+            "furigana": [
+                4,
+                2,
+                7,
+                3,
+                19,
+                4,
+                24,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "15.mp3"
+        },
+        {
+            "kanji": "何かそういうかっこいいクールなイメージがあります",
+            "kana": "なにかそういうかっこいいクールなイメージがあります",
+            "translation": "And have like this cool image",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "16.mp3"
+        },
+        {
+            "kanji": "もうスターバックスは明るくて元気で友達がたくさんいる人が働いているイメージがあります",
+            "kana": "もうスターバックスはあかるくてげんきでともだちがたくさんいるひとがはたらいているイメージがあります",
+            "translation": "And the people who work at Starbucks are cheerful and have lots of friends",
+            "furigana": [
+                10,
+                2,
+                15,
+                3,
+                19,
+                4,
+                30,
+                2,
+                33,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "17.mp3"
+        },
+        {
+            "kanji": "でもみなさんがもし日本に来てバイトをするなら",
+            "kana": "でもみなさんがもしにほんにきてバイトをするなら",
+            "translation": "But when you come to Japan and get a part time job",
+            "furigana": [
+                9,
+                3,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "18.mp3"
+        },
+        {
+            "kanji": "個人の飲食店のお店がすごくオススメです",
+            "kana": "こじんのいんしょくてんのおみせがすごくオススメです",
+            "translation": "I recommend a privately owned restaurant",
+            "furigana": [
+                0,
+                3,
+                4,
+                5,
+                9,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "19.mp3"
+        },
+        {
+            "kanji": "僕の友達はラーメン屋さんで働いてたんですけど",
+            "kana": "ぼくのともだちはラーメンやさんではたらいてたんですけど",
+            "translation": "My friend used to work at a ramen restaurant",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                12,
+                1,
+                16,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "そこの店長さんはバイトの人でも家族みたいに仲良くしてくれました",
+            "kana": "そこのてんちょうさんはバイトのひとでもかぞくみたいになかよくしてくれました",
+            "translation": "and the owner and all of the staff treated them like family",
+            "furigana": [
+                3,
+                5,
+                15,
+                2,
+                19,
+                3,
+                26,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "21.mp3"
+        },
+        {
+            "kanji": "他の個人の店でバイトをしている人もバーベキューをしたり",
+            "kana": "ほかのこじんのみせでバイトをしているひともバーベキューをしたり",
+            "translation": "they had barbeque with coworkers",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                7,
+                2,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "余った材料でご飯を作ってくれたりすごく楽しいって言っていました",
+            "kana": "あまったざいりょうでごはんをつくってくれたりすごくたのしいっていっていました",
+            "translation": "and could eat the left over food so it was a lot of fun",
+            "furigana": [
+                0,
+                2,
+                4,
+                5,
+                11,
+                2,
+                14,
+                2,
+                25,
+                2,
+                31,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "23.mp3"
+        },
+        {
+            "kanji": "だから友達も増えるしそういうところのバイトがおすすめです",
+            "kana": "だからともだちもふえるしそういうところのバイトがおすすめです",
+            "translation": "So you can have more friends which is why I recommend it",
+            "furigana": [
+                3,
+                4,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "あと意外と多かったのがホテルでバイトをしている人です",
+            "kana": "あといがいとおおかったのがホテルでバイトをしているひとです",
+            "translation": "Also an unexpectedly common part time job is working at a hotel",
+            "furigana": [
+                2,
+                3,
+                6,
+                2,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "25.mp3"
+        },
+        {
+            "kanji": "なんか朝ごはんを運んだり予約の電話を取ったりするらしいんですけど",
+            "kana": "なんかあさごはんをはこんだりよやくのでんわをとったりするらしいんですけど",
+            "translation": "It seems to be mostly include bringing breakfast, taking reservations, etc.",
+            "furigana": [
+                3,
+                2,
+                9,
+                2,
+                14,
+                3,
+                18,
+                3,
+                22,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "ちょっと大変ですよね",
+            "kana": "ちょっとたいへんですよね",
+            "translation": "That's a little tough",
+            "furigana": [
+                4,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "だから僕みたいに朝起きるのが苦手な人はちょっと無理だと思います",
+            "kana": "だからぼくみたいにあさおきるのがにがてなひとはちょっとむりだとおもいます",
+            "translation": "So it's not for people like me since I am not a morning person",
+            "furigana": [
+                3,
+                2,
+                9,
+                2,
+                11,
+                1,
+                16,
+                3,
+                20,
+                2,
+                27,
+                2,
+                31,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "日本だとよく学校が終わった後に塾へ行ったり",
+            "kana": "にほんだとよくがっこうがおわったあとにじゅくへいったり",
+            "translation": "In Japan after school it's common to go to cram schools",
+            "furigana": [
+                0,
+                3,
+                7,
+                4,
+                12,
+                1,
+                16,
+                2,
+                19,
+                3,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "でその家庭教師のバイトをたくさんの大学生がしています",
+            "kana": "でそのかていきょうしのバイトをたくさんのだいがくせいがしています",
+            "translation": "And many university students become such private tutors",
+            "furigana": [
+                3,
+                3,
+                6,
+                4,
+                20,
+                6
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                3
+            ],
+            "sound": "33.mp3"
+        },
+        {
+            "kanji": "僕も家庭教師のバイトをしてたんですけど",
+            "kana": "ぼくもかていきょうしのバイトをしてたんですけど",
+            "translation": "I also did tutoring as my part time job",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                6,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "ちょっとねお給料が高いんですよ",
+            "kana": "ちょっとねおきゅうりょうがたかいんですよ",
+            "translation": "The pay is a little better",
+            "furigana": [
+                6,
+                6,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "あとは医学生だったりいい大学だともうちょっと高くなったりします",
+            "kana": "あとはいがくせいだったりいいだいがくだともうちょっとたかくなったりします",
+            "translation": "And if you're a medical student or go to a good university it can even get a little higher",
+            "furigana": [
+                3,
+                3,
+                6,
+                2,
+                14,
+                4,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "38.mp3"
+        },
+        {
+            "kanji": "もしかすると僕も僕の周りも医学生だから家庭教師のバイトが多かったかもしれません",
+            "kana": "もしかするとぼくもぼくのまわりもいがくせいだからかていきょうしのバイトがおおかったかもしれません",
+            "translation": "Maybe because me and the people around me are medical students there are many people who do tutoring as a part time job",
+            "furigana": [
+                6,
+                2,
+                9,
+                2,
+                12,
+                2,
+                16,
+                3,
+                19,
+                2,
+                24,
+                3,
+                27,
+                4,
+                36,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "でもお金より一番良いのは",
+            "kana": "でもおかねよりいちばんいいのは",
+            "translation": "But more so than money the best thing was",
+            "furigana": [
+                3,
+                2,
+                7,
+                4,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "40.mp3"
+        },
+        {
+            "kanji": "その生徒の人生に関われるっていうのがすごくいいと思います",
+            "kana": "そのせいとのじんせいにかかわれるっていうのがすごくいいとおもいます",
+            "translation": "getting involved with the student's life",
+            "furigana": [
+                2,
+                3,
+                6,
+                4,
+                11,
+                2,
+                28,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "41.mp3"
+        },
+        {
+            "kanji": "生徒の家行って勉強を教えたりするので結構家族とも仲良くなったりします",
+            "kana": "せいとのいえいってべんきょうをおしえたりするのでけっこうかぞくともなかよくなったりします",
+            "translation": "When you go to the student's house to teach them you also become closer with their family ",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                6,
+                1,
+                9,
+                5,
+                15,
+                2,
+                24,
+                4,
+                28,
+                3,
+                33,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                2,
+                2,
+                2
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "僕が教えていた生徒の家族はすごくいい人ばっかで",
+            "kana": "ぼくがおしえていたせいとのかぞくはすごくいいひとばっかで",
+            "translation": "And the families of my students were all really good people",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                9,
+                3,
+                13,
+                3,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "43.mp3"
+        },
+        {
+            "kanji": "よくお菓子くれたりご飯くれたり",
+            "kana": "よくおかしくれたりごはんくれたり",
+            "translation": "They'd often give me sweets or food",
+            "furigana": [
+                3,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "クリスマスの時は僕はスキー部なのでスキー用の高級な綺麗な靴下をくれたり",
+            "kana": "クリスマスのときはぼくはスキーぶなのでスキーようのこうきゅうなきれいなくつしたをくれたり",
+            "translation": "I was in a skiing club so for Christmas I got some high quality skiing socks",
+            "furigana": [
+                6,
+                2,
+                9,
+                2,
+                15,
+                1,
+                22,
+                2,
+                25,
+                5,
+                31,
+                3,
+                35,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "すごく愛を感じました",
+            "kana": "すごくあいをかんじました",
+            "translation": "I felt their love a lot",
+            "furigana": [
+                3,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "47.mp3"
+        },
+        {
+            "kanji": "こういう時に心がポカポカしたって言います",
+            "kana": "こういうときにこころがポカポカしたっていいます",
+            "translation": "In times like this we say your heart goes poka poka",
+            "furigana": [
+                4,
+                2,
+                7,
+                3,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "48.mp3"
+        },
+        {
+            "kanji": "ポカポカは暖かくて気持ちいい様子を表します",
+            "kana": "ポカポカはあたたかくてきもちいいようすをあらわします",
+            "translation": "It's like a very pleasant warm feeling",
+            "furigana": [
+                5,
+                3,
+                11,
+                2,
+                16,
+                3,
+                20,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "49.mp3"
+        },
+        {
+            "kanji": "よく寒い日はすごく手がブルブルしますよね",
+            "kana": "よくさむいひはすごくてがブルブルしますよね",
+            "translation": "Often when the day is cold your hands go buru buru",
+            "furigana": [
+                2,
+                2,
+                5,
+                1,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "あ待って",
+            "kana": "あまって",
+            "translation": "oh wait",
+            "furigana": [
+                1,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "ブルブルはこの動画を見てください",
+            "kana": "ブルブルはこのどうがをみてください",
+            "translation": "For buru buru go ahead and watch this video",
+            "furigana": [
+                7,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "そのブルブルした手をヒーターで温めると",
+            "kana": "そのブルブルしたてをヒーターであたためると",
+            "translation": "When you warm up your shivering hands over a heater",
+            "furigana": [
+                8,
+                1,
+                15,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "すごくあったかくて気持ちいいですよね",
+            "kana": "すごくあったかくてきもちいいですよね",
+            "translation": "It feels really warm and good",
+            "furigana": [
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "その感じがポカポカです",
+            "kana": "そのかんじがポカポカです",
+            "translation": "That's what poka poka feels like",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "ですので愛を感じて嬉しくて心がなんか暖かくて",
+            "kana": "ですのであいをかんじてうれしくてこころがなんかあたたかくて",
+            "translation": "When you feel the love, you're happy and your heart is warm",
+            "furigana": [
+                4,
+                2,
+                7,
+                2,
+                11,
+                2,
+                16,
+                3,
+                23,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "あとは太陽が出てすごく気持ちいい気温のときに",
+            "kana": "あとはたいようがでてすごくきもちいいきおんのときに",
+            "translation": "Also when the sun comes out and you can feel its warmth",
+            "furigana": [
+                3,
+                4,
+                8,
+                1,
+                13,
+                2,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "今日は外がポカポカして気持ちいいと言えるので是非使ってみてください",
+            "kana": "きょうはそとがポカポカしてきもちいいといえるのでぜひつかってみてください",
+            "translation": "you can say it's poka poka outside, it feels nice so try using it",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                13,
+                2,
+                19,
+                1,
+                24,
+                2,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "あとはさっきの塾でバイトをしている人もいるんですけど",
+            "kana": "あとはさっきのじゅくでバイトをしているひともいるんですけど",
+            "translation": "There are also people working a part time job at cram schools",
+            "furigana": [
+                7,
+                3,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "なんか塾は別の学校みたいに一つ一つ授業があって",
+            "kana": "なんかじゅくはべつのがっこうみたいにひとつひとつじゅぎょうがあって",
+            "translation": "In cram schools there are separate classes like at schools",
+            "furigana": [
+                3,
+                3,
+                7,
+                2,
+                10,
+                4,
+                18,
+                2,
+                21,
+                2,
+                24,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "61.mp3"
+        },
+        {
+            "kanji": "そういうプライベートな関係がそんなにないかもしれないです",
+            "kana": "そういうプライベートなかんけいがそんなにないかもしれないです",
+            "translation": "SO there might not be that much of a private relationship",
+            "furigana": [
+                11,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "63.mp3"
+        },
+        {
+            "kanji": "僕は昔塾で勉強してたんですけど",
+            "kana": "ぼくはむかしじゅくでべんきょうしてたんですけど",
+            "translation": "I also studied at a cram school before",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                6,
+                3,
+                10,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "その時の先生は昔東京で家庭教師のバイトをした時にめっちゃお金持ちの家行ったらしいです",
+            "kana": "そのときのせんせいはむかしとうきょうでかていきょうしのバイトをしたときにめっちゃおかねもちのいえいったらしいです",
+            "translation": "And there was a teacher there who was a tutor in Tokyo before at a very wealthy house",
+            "furigana": [
+                2,
+                2,
+                5,
+                4,
+                10,
+                3,
+                13,
+                5,
+                19,
+                3,
+                22,
+                4,
+                33,
+                2,
+                41,
+                3,
+                46,
+                2,
+                48,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "東京のお金持ちはそういう家もあるんだってすごいびっくりしました",
+            "kana": "とうきょうのおかねもちはそういういえもあるんだってすごいびっくりしました",
+            "translation": "I was so surprised that there are such wealthy families in Tokyo",
+            "furigana": [
+                0,
+                5,
+                7,
+                3,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "逆に怖い家族だと生徒の成績が落ちていると",
+            "kana": "ぎゃくにこわいかぞくだとせいとのせいせきがおちていると",
+            "translation": "On the other hand there are scary families where when your student's grades drop",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                3,
+                12,
+                3,
+                16,
+                4,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "先生も怒られるっていうすごく嫌な経験をした友達もいます",
+            "kana": "せんせいもおこられるっていうすごくいやなけいけんをしたともだちもいます",
+            "translation": "they get mad at the tutor too and I have a friend who has had such a bad experience",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                17,
+                2,
+                20,
+                4,
+                27,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                2
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "これ最後なんですけど結婚式でバイトをしている人も意外と多かったです",
+            "kana": "これさいごなんですけどけっこんしきでバイトをしているひともいがいとおおかったです",
+            "translation": "And the last thing is, that there are quite a lot of people working at wedding ceremonies",
+            "furigana": [
+                2,
+                3,
+                11,
+                6,
+                26,
+                2,
+                29,
+                3,
+                33,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                1,
+                2,
+                1
+            ],
+            "sound": "77.mp3"
+        },
+        {
+            "kanji": "やっぱり結婚式っていろいろ準備が大変じゃないですか",
+            "kana": "やっぱりけっこんしきっていろいろじゅんびがたいへんじゃないですか",
+            "translation": "Because there are so many things to prepare for wedding ceremonies",
+            "furigana": [
+                4,
+                6,
+                16,
+                4,
+                21,
+                4
+            ],
+            "kanjiLength": [
+                3,
+                2,
+                2
+            ],
+            "sound": "78.mp3"
+        },
+        {
+            "kanji": "だから料理を運ぶ人とか結婚式の場所の準備をする人とかたくさん人が必要らしいです",
+            "kana": "だからりょうりをはこぶひととかけっこんしきのばしょのじゅんびをするひととかたくさんひとがひつようらしいです",
+            "translation": "So you need a number of people who'll carry the dishes and prepare the location for the wedding",
+            "furigana": [
+                3,
+                4,
+                8,
+                2,
+                11,
+                2,
+                15,
+                6,
+                22,
+                3,
+                26,
+                4,
+                33,
+                2,
+                41,
+                2,
+                44,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                3,
+                2,
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "僕の友達は急いで料理を運んだら転んでこぼしてクビになったらしいです",
+            "kana": "ぼくのともだちはいそいでりょうりをはこんだらころんでこぼしてクビになったらしいです",
+            "translation": "One of my friends got fired for carrying a dish and spilling it",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                2,
+                12,
+                4,
+                17,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "80.mp3"
+        },
+        {
+            "kanji": "まあどんな仕事もすごい大変ですよね",
+            "kana": "まあどんなしごともすごいたいへんですよね",
+            "translation": "Well in any job it can be quite tough",
+            "furigana": [
+                5,
+                3,
+                12,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "今日説明したバイトと皆さんの国でのバイトは結構違いましたか",
+            "kana": "きょうせつめいしたバイトとみなさんのくにでのバイトはけっこうちがいましたか",
+            "translation": "So are part time jobs I talked about similar to your country's part time jobs or different?",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                13,
+                2,
+                18,
+                2,
+                26,
+                4,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "82.mp3"
+        },
+        {
+            "kanji": "ぜひコメントで教えてください",
+            "kana": "ぜひコメントでおしえてください",
+            "translation": "Be sure to let me know in the comments",
+            "furigana": [
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "83.mp3"
+        },
+        {
+            "kanji": "皆さんありがとうございました",
+            "kana": "みなさんありがとうございました",
+            "translation": "Thank you all for watching",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "85.mp3"
+        },
+        {
+            "kanji": "実は最近全然時間がなくて",
+            "kana": "じつはさいきんぜんぜんじかんがなくて",
+            "translation": "To be honest recently I've had no time whatsoever",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                7,
+                4,
+                11,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                2
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "さっき大学が終わって帰ってきて",
+            "kana": "さっきだいがくがおわってかえってきて",
+            "translation": "I just came back from uni",
+            "furigana": [
+                3,
+                4,
+                8,
+                1,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "俺の家から大学まで結構遠いから時間をかけて帰ってきて",
+            "kana": "おれのいえからだいがくまでけっこうとおいからじかんをかけてかえってきて",
+            "translation": "My house is quite far from the university so it took a bit to come back",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                7,
+                4,
+                13,
+                4,
+                17,
+                2,
+                22,
+                3,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "今動画を撮ってそしてこれからまた大学に戻んないといけないの",
+            "kana": "こんどうがをとってそしてこれからまただいがくにもどんないといけないの",
+            "translation": "And after recording this video now I've got to go back to university again",
+            "furigana": [
+                0,
+                2,
+                2,
+                3,
+                6,
+                1,
+                18,
+                4,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "89.mp3"
+        },
+        {
+            "kanji": "すごい忙しい",
+            "kana": "すごいいそがしい",
+            "translation": "So busy",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "90.mp3"
+        },
+        {
+            "kanji": "までも楽しいからそれをしたいって思うんだけどね",
+            "kana": "までもたのしいからそれをしたいっておもうんだけどね",
+            "translation": "But it's still fun so I'm keeping at it",
+            "furigana": [
+                3,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "91.mp3"
+        },
+        {
+            "kanji": "本当にみんなのおかげなので",
+            "kana": "ほんとうにみんなのおかげなので",
+            "translation": "It's all thanks to you guys",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "92.mp3"
+        },
+        {
+            "kanji": "やばいじゃまたね",
+            "kana": "やばいじゃまたね",
+            "translation": "Oh no, so see ya",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "93.mp3"
+        }
+    ]
+}

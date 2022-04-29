@@ -1,0 +1,1648 @@
+{
+    "name": "onomappu_so_skinny",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "僕海外の友達からよく",
+            "kana": "ぼくかいがいのともだちからよく",
+            "translation": "I often get asked by foreign friends",
+            "furigana": [
+                0,
+                2,
+                2,
+                4,
+                7,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "2.mp3"
+        },
+        {
+            "kanji": "どうしてアジア人はそんなに痩せてるのってよく聞かれるんですけど",
+            "kana": "どうしてアジアじんはそんなにやせてるのってよくきかれるんですけど",
+            "translation": "Why are Asians so skinny?",
+            "furigana": [
+                7,
+                2,
+                14,
+                1,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3.mp3"
+        },
+        {
+            "kanji": "確かにデータ的にもアジア人のほうが痩せている人の割合が多いです",
+            "kana": "たしかにデータてきにもアジアじんのほうがやせているひとのわりあいがおおいです",
+            "translation": "And there are also statistics which say there are higher percentages of skinny people in Asia",
+            "furigana": [
+                0,
+                2,
+                7,
+                2,
+                14,
+                2,
+                20,
+                1,
+                25,
+                2,
+                28,
+                4,
+                33,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "4.mp3"
+        },
+        {
+            "kanji": "確かに僕も街を歩いていると",
+            "kana": "たしかにぼくもまちをあるいていると",
+            "translation": "Even when I'm walking down the street sometimes",
+            "furigana": [
+                0,
+                2,
+                4,
+                2,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "5.mp3"
+        },
+        {
+            "kanji": "えっそんなに痩せてて大丈夫って思うことが結構あります",
+            "kana": "えっそんなにやせててだいじょうぶっておもうことがけっこうあります",
+            "translation": "I see people so skinny I wonder if they're alright",
+            "furigana": [
+                6,
+                1,
+                10,
+                6,
+                18,
+                2,
+                24,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                2
+            ],
+            "sound": "6.mp3"
+        },
+        {
+            "kanji": "僕も昔結構痩せていてその人たちと同じグループだったと思います",
+            "kana": "ぼくもむかしけっこうやせていてそのひとたちとおなじグループだったとおもいます",
+            "translation": "I used to be very skinny so I also belonged in that group",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                6,
+                4,
+                10,
+                1,
+                17,
+                2,
+                22,
+                2,
+                33,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "7.mp3"
+        },
+        {
+            "kanji": "これを言うとよくいいなって言われるんですけど",
+            "kana": "これをいうとよくいいなっていわれるんですけど",
+            "translation": "When I tell others this I often hear \"Lucky you\"",
+            "furigana": [
+                3,
+                1,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "8.mp3"
+        },
+        {
+            "kanji": "実は痩せてることのデメリットもあるんですよね",
+            "kana": "じつはやせてることのデメリットもあるんですよね",
+            "translation": "But being skinny also has its downsides",
+            "furigana": [
+                0,
+                2,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "9.mp3"
+        },
+        {
+            "kanji": "今日はそれを知った上で皆さんだったら",
+            "kana": "きょうはそれをしったうえでみなさんだったら",
+            "translation": "So today after watching this video you can decide",
+            "furigana": [
+                0,
+                3,
+                7,
+                1,
+                10,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "10.mp3"
+        },
+        {
+            "kanji": "どっちの方がいいかなあっていうのを考えてみてください",
+            "kana": "どっちのほうがいいかなあっていうのをかんがえてみてください",
+            "translation": "if you think it's better to be skinny or not",
+            "furigana": [
+                4,
+                2,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "11.mp3"
+        },
+        {
+            "kanji": "では今日のオノマトペをどうぞ",
+            "kana": "ではきょうのオノマトペをどうぞ",
+            "translation": "So let's move on to today's onomatopoeia",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "12.mp3"
+        },
+        {
+            "kanji": "ガリガリはすごい痩せている様子を表します",
+            "kana": "ガリガリはすごいやせているようすをあらわします",
+            "translation": "Gari gari describes a state of extreme thinness",
+            "furigana": [
+                8,
+                1,
+                13,
+                3,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "13.mp3"
+        },
+        {
+            "kanji": "ガリガリのガリは何かを削った音なんですよね",
+            "kana": "ガリガリのガリはなにかをけずったおとなんですよね",
+            "translation": "The \"gari\" in gari gari comes from a sound of scraping",
+            "furigana": [
+                8,
+                2,
+                12,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "14.mp3"
+        },
+        {
+            "kanji": "例えばこれ",
+            "kana": "たとえばこれ",
+            "translation": "Like this",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "15.mp3"
+        },
+        {
+            "kanji": "例えばこうした時に",
+            "kana": "たとえばこうしたときに",
+            "translation": "When I do this",
+            "furigana": [
+                0,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "16.mp3"
+        },
+        {
+            "kanji": "ちょっとガリガリガリって聞こえませんか",
+            "kana": "ちょっとガリガリガリってきこえませんか",
+            "translation": "Doesn't it sound a bit like gari gari?",
+            "furigana": [
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "17.mp3"
+        },
+        {
+            "kanji": "ですので人からお肉をガリガリガリってとった後",
+            "kana": "ですのでひとからおにくをガリガリガリってとったあと",
+            "translation": "So if you scrape off all the flesh from a person",
+            "furigana": [
+                4,
+                2,
+                9,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "18.mp3"
+        },
+        {
+            "kanji": "えなんか骨しかなくないみたいな状態までガリガリお肉を取った後",
+            "kana": "えなんかほねしかなくないみたいなじょうたいまでガリガリおにくをとったあと",
+            "translation": "When you've scraped off the flesh until it seems that only the bones are left",
+            "furigana": [
+                4,
+                2,
+                16,
+                5,
+                28,
+                2,
+                31,
+                1,
+                34,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "19.mp3"
+        },
+        {
+            "kanji": "さっきも言ったんですけど昔僕ガリガリだったんですよね",
+            "kana": "さっきもいったんですけどむかしぼくガリガリだったんですよね",
+            "translation": "I’ve said it before but I used to be gari gari myself",
+            "furigana": [
+                4,
+                1,
+                12,
+                3,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "もうすごい骨しかないみたいな",
+            "kana": "もうすごいほねしかないみたいな",
+            "translation": "Like really just skin and bones",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "23.mp3"
+        },
+        {
+            "kanji": "そんなガリガリにはならないですけど",
+            "kana": "そんなガリガリにはならないですけど",
+            "translation": "It's not that we're all super skinny",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "26.mp3"
+        },
+        {
+            "kanji": "なんかインスリンて聞くと",
+            "kana": "なんかインスリンてきくと",
+            "translation": "So when you hear the word insulin",
+            "furigana": [
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "大丈夫です簡単に言うと",
+            "kana": "だいじょうぶですかんたんにいうと",
+            "translation": "But it’s alright, I'll explain it simply",
+            "furigana": [
+                0,
+                6,
+                8,
+                4,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                2,
+                1
+            ],
+            "sound": "30.mp3"
+        },
+        {
+            "kanji": "僕たちの体はご飯を食べた時の糖を使って動いてますよね",
+            "kana": "ぼくたちのからだはごはんをたべたときのとうをつかってうごいてますよね",
+            "translation": "Our bodies function by using the sugar we get from the food we eat",
+            "furigana": [
+                0,
+                2,
+                5,
+                3,
+                10,
+                2,
+                13,
+                1,
+                16,
+                2,
+                19,
+                2,
+                22,
+                2,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "でご飯を食べた後も通って最初血液の中にあるんですよ",
+            "kana": "でごはんをたべたあともとおってさいしょけつえきのなかにあるんですよ",
+            "translation": "So after you eat, the sugar levels rise in your blood",
+            "furigana": [
+                2,
+                2,
+                5,
+                1,
+                8,
+                2,
+                11,
+                2,
+                15,
+                4,
+                19,
+                4,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "32.mp3"
+        },
+        {
+            "kanji": "僕たちの細胞は綺麗だな糖があるみたいな感じで見ていることしかできないんですよ",
+            "kana": "ぼくたちのさいぼうはきれいだなとうがあるみたいなかんじでみていることしかできないんですよ",
+            "translation": "And our cells can't do anything about the sugar apart from just looking at it",
+            "furigana": [
+                0,
+                2,
+                5,
+                4,
+                10,
+                3,
+                15,
+                2,
+                24,
+                2,
+                28,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "そこで糖が欲しい細胞に糖をあげる手伝いをするのがインスリンです",
+            "kana": "そこでとうがほしいさいぼうにとうをあげるてつだいをするのがインスリンです",
+            "translation": "Insulin is what helps the cells that need sugar get it",
+            "furigana": [
+                3,
+                2,
+                6,
+                1,
+                9,
+                4,
+                14,
+                2,
+                20,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                2
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "ですのでインスリンがなかったら僕たちの細胞は糖があるなって見てるだけで",
+            "kana": "ですのでインスリンがなかったらぼくたちのさいぼうはとうがあるなってみてるだけで",
+            "translation": "So if it wasn't for insulin our cells would only look at the sugar",
+            "furigana": [
+                15,
+                2,
+                20,
+                4,
+                25,
+                2,
+                33,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "でもお父さんが買っていいよって言ってくれたら",
+            "kana": "でもおとうさんがかっていいよっていってくれたら",
+            "translation": "but only after my dad allows it",
+            "furigana": [
+                3,
+                2,
+                8,
+                1,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "お店の人がカギ開けてって買うことができますよね",
+            "kana": "おみせのひとがカギあけてってかうことができますよね",
+            "translation": "the shop assistant would open it up and I'd be able to buy it",
+            "furigana": [
+                1,
+                2,
+                4,
+                2,
+                9,
+                1,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "40.mp3"
+        },
+        {
+            "kanji": "そういうふうにインスリンがなかったら細胞はただ見ているだけになります",
+            "kana": "そういうふうにインスリンがなかったらさいぼうはただみているだけになります",
+            "translation": "So if there was no insulin that's how cells would be, just looking",
+            "furigana": [
+                18,
+                4,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "41.mp3"
+        },
+        {
+            "kanji": "もうちょっとインスリンとか知っている人は",
+            "kana": "もうちょっとインスリンとかしっているひとは",
+            "translation": "Some of you might know about insulin",
+            "furigana": [
+                13,
+                1,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "今皆ご飯を食べると血液の中に糖がたくさんあって",
+            "kana": "いまみなごはんをたべるとけつえきのなかにとうがたくさんあって",
+            "translation": "So now we’ve eaten and we have plenty of sugar in our blood",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                5,
+                2,
+                8,
+                1,
+                12,
+                4,
+                17,
+                2,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "体の細胞は糖をもらうことができるまでわかったよね",
+            "kana": "からだのさいぼうはとうをもらうことができるまでわかったよね",
+            "translation": "and the cells in our bodies can access the sugar, you get it up to that point",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "46.mp3"
+        },
+        {
+            "kanji": "エネルギーをたくさん作るんですけど",
+            "kana": "エネルギーをたくさんつくるんですけど",
+            "translation": "And make a lot of energy",
+            "furigana": [
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "48.mp3"
+        },
+        {
+            "kanji": "あれちょっと糖がたくさん余ったなこの糖どうしようかなでも捨てるのもったいないし",
+            "kana": "あれちょっととうがたくさんあまったなこのとうどうしようかなでもすてるのもったいないし",
+            "translation": "But they have some sugar left so they wonder what to do with it, throwing it away would be a waste",
+            "furigana": [
+                6,
+                2,
+                13,
+                2,
+                20,
+                2,
+                31,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "49.mp3"
+        },
+        {
+            "kanji": "どうしようかなって考えた時に",
+            "kana": "どうしようかなってかんがえたときに",
+            "translation": "When they think like that",
+            "furigana": [
+                9,
+                3,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "50.mp3"
+        },
+        {
+            "kanji": "この脂肪に変えることに決めたんですよね",
+            "kana": "このしぼうにかえることにきめたんですよね",
+            "translation": "they decide that it should be turned into fat",
+            "furigana": [
+                2,
+                3,
+                6,
+                1,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "えーなんで",
+            "kana": "えーなんで",
+            "translation": "Why though",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "だからその時たくさんインスリンが出るとみんないろんな所でドアを開けるんですよね",
+            "kana": "だからそのときたくさんインスリンがでるとみんないろんなところでドアをあけるんですよね",
+            "translation": "So if there's a lot of insulin it opens the doors everywhere",
+            "furigana": [
+                5,
+                2,
+                17,
+                1,
+                27,
+                3,
+                34,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "これ全部使い切れないから脂肪にしようって決めるんですよね",
+            "kana": "これぜんぶつかいきれないからしぼうにしようってきめるんですよね",
+            "translation": "and they can't use all of it so they decide to turn it into fat",
+            "furigana": [
+                2,
+                3,
+                5,
+                2,
+                8,
+                1,
+                14,
+                3,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "ここで何でアジア人の方があまり太らないかっていうと",
+            "kana": "ここでなんでアジアじんのほうがあまりふとらないかっていうと",
+            "translation": "So here to answer the question of why Asians don't get fat easily",
+            "furigana": [
+                3,
+                2,
+                9,
+                2,
+                12,
+                2,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "57.mp3"
+        },
+        {
+            "kanji": "インスリンの出る量がヨーロッパとかアメリカの人と比べて少ないんですよ",
+            "kana": "インスリンのでるりょうがヨーロッパとかアメリカのひととくらべてすくないんですよ",
+            "translation": "It is because the amount of insulin produced by the body is lower compared to that in people from Europe or America",
+            "furigana": [
+                6,
+                1,
+                8,
+                3,
+                24,
+                2,
+                27,
+                2,
+                31,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "そんなにドアが開かないから余ってる糖が少ないので脂肪になる量も少ないですよね",
+            "kana": "そんなにドアがあかないからあまってるとうがすくないのでしぼうになるりょうもすくないですよね",
+            "translation": "Not as many doors get opened, the sugar excess is smaller too so the amount of stored fat is smaller in consequence",
+            "furigana": [
+                7,
+                1,
+                13,
+                2,
+                18,
+                2,
+                21,
+                2,
+                27,
+                3,
+                33,
+                3,
+                37,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "ここだけ聞くと",
+            "kana": "ここだけきくと",
+            "translation": "If you only hear this bit",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "アジア人の方がやっぱりいいじゃんって思う人もいるかもしれないんですけど",
+            "kana": "アジアじんのほうがやっぱりいいじゃんっておもうひともいるかもしれないんですけど",
+            "translation": "You might be thinking Asians are just lucky after all",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                20,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "61.mp3"
+        },
+        {
+            "kanji": "でもドアがあまり開かないってことは血液の川はすごい濃くて重くて体に悪いんですよ",
+            "kana": "でもドアがあまりあかないってことはけつえきのかわはすごいこくておもくてからだにわるいんですよ",
+            "translation": "But the fact that the doors don't open means the river of blood is very thick and heavy which is not good for the body",
+            "furigana": [
+                8,
+                1,
+                17,
+                4,
+                22,
+                2,
+                28,
+                1,
+                31,
+                2,
+                35,
+                3,
+                39,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "そういうふうに血液の川の中に糖がたくさんある病気ってなんか聞いたことないですか",
+            "kana": "そういうふうにけつえきのかわのなかにとうがたくさんあるびょうきってなんかきいたことないですか",
+            "translation": "Have you heard about an illness where there's a lot of sugar in the blood river like this?",
+            "furigana": [
+                7,
+                4,
+                12,
+                2,
+                15,
+                2,
+                18,
+                2,
+                27,
+                4,
+                36,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "そうなんですよ糖尿病なんですよ",
+            "kana": "そうなんですよとうにょうびょうなんですよ",
+            "translation": "Yes of course I'm talking about diabetes",
+            "furigana": [
+                7,
+                5,
+                12,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "アジア人は太りにくい代わりに糖尿病になりやすいんですよ",
+            "kana": "アジアじんはふとりにくいかわりにとうにょうびょうになりやすいんですよ",
+            "translation": "Asians are less prone to obesity but instead more prone to developing diabetes",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                12,
+                1,
+                16,
+                5,
+                21,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "66.mp3"
+        },
+        {
+            "kanji": "糖尿病って体でインスリンが作れないから注射するみたいなの聞いたことないですか",
+            "kana": "とうにょうびょうってからだでインスリンがつくれないからちゅうしゃするみたいなのきいたことないですか",
+            "translation": "You've probably heard that when you have diabetes your body can't make insulin so you have to get injections",
+            "furigana": [
+                0,
+                5,
+                5,
+                3,
+                10,
+                3,
+                20,
+                2,
+                27,
+                5,
+                39,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "あれは注射でインスリンを入れて扉をたくさん開けて",
+            "kana": "あれはちゅうしゃでインスリンをいれてとびらをたくさんあけて",
+            "translation": "Because of the injected insulin a lot of doors can open",
+            "furigana": [
+                3,
+                5,
+                15,
+                1,
+                18,
+                3,
+                26,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "68.mp3"
+        },
+        {
+            "kanji": "僕たちの体が糖を支えるようにしてるんですよね",
+            "kana": "ぼくたちのからだがとうをささえるようにしてるんですよね",
+            "translation": "And the body can support more sugar",
+            "furigana": [
+                0,
+                2,
+                5,
+                3,
+                9,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "69.mp3"
+        },
+        {
+            "kanji": "ですので糖尿病がすごい進んでインスリンが使えなくなると扉が全然あかないので",
+            "kana": "ですのでとうにょうびょうがすごいすすんでインスリンがつかえなくなるととびらがぜんぜんあかないので",
+            "translation": "And if diabetes progresses you become unable to make use of insulin so the doors stay closed",
+            "furigana": [
+                4,
+                5,
+                9,
+                3,
+                16,
+                2,
+                26,
+                2,
+                34,
+                3,
+                38,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "僕たちの体は全然糖を使うことができなくてどんどんガリガリになっていくんですよ",
+            "kana": "ぼくたちのからだはぜんぜんとうをつかうことができなくてどんどんガリガリになっていくんですよ",
+            "translation": "Our body cannot access the sugar and we become skinny fast",
+            "furigana": [
+                0,
+                2,
+                5,
+                3,
+                9,
+                4,
+                13,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "71.mp3"
+        },
+        {
+            "kanji": "え糖尿病のイメージは太ってる人だよって思うかもしれないんですけど",
+            "kana": "えとうにょうびょうのイメージはふとってるひとだよっておもうかもしれないんですけど",
+            "translation": "You might be imagining a person with diabetes as obese",
+            "furigana": [
+                1,
+                5,
+                6,
+                3,
+                15,
+                2,
+                20,
+                2,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "72.mp3"
+        },
+        {
+            "kanji": "糖尿病がどんどん進むとインスリン使えないのでどんどんガリガリになっていくんですよ",
+            "kana": "とうにょうびょうがどんどんすすむとインスリンつかえないのでどんどんガリガリになっていくんですよ",
+            "translation": "But if the disease progresses quickly you can't use the insulin and become very skinny",
+            "furigana": [
+                0,
+                5,
+                5,
+                3,
+                13,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "その前に治したいから体でインスリンがたくさん出てドアたくさん開けている人",
+            "kana": "そのまえになおしたいからからだでインスリンがたくさんでてドアたくさんあけているひと",
+            "translation": "You want to treat it before that happens so people who use up lots of insulin and open the doors a lot",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                12,
+                3,
+                26,
+                1,
+                34,
+                1,
+                39,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "74.mp3"
+        },
+        {
+            "kanji": "そういう人は注意をしたほうがいいよ",
+            "kana": "そういうひとはちゅういをしたほうがいいよ",
+            "translation": "those people should be careful",
+            "furigana": [
+                4,
+                2,
+                7,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "インスリン使いすぎると作れなくなっちゃうよっていうのを伝えたいので",
+            "kana": "インスリンつかいすぎるとつくれなくなっちゃうよっていうのをつたえたいので",
+            "translation": "I want to stress that if you use up too much insulin you become unable to produce more",
+            "furigana": [
+                5,
+                2,
+                12,
+                2,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "ちょっと太っている人はそろそろ食べすぎないようにしようね",
+            "kana": "ちょっとふとっているひとはそろそろたべすぎないようにしようね",
+            "translation": "So those of us who're a little chubby might want to watch out not to overeat",
+            "furigana": [
+                4,
+                2,
+                10,
+                2,
+                17,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "77.mp3"
+        },
+        {
+            "kanji": "運動しようねという話になります",
+            "kana": "うんどうしようねというはなしになります",
+            "translation": "And it becomes a \"let's exercise\" talk",
+            "furigana": [
+                0,
+                4,
+                11,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "78.mp3"
+        },
+        {
+            "kanji": "だからアジアのご飯って結構ヘルシーなものが多いって聞きませんか",
+            "kana": "だからアジアのごはんってけっこうヘルシーなものがおおいってききませんか",
+            "translation": "Also you know in Asian cuisine there are lots of healthy dishes",
+            "furigana": [
+                8,
+                2,
+                12,
+                4,
+                24,
+                2,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "それは美味しいからだけじゃなくて糖尿病になっちゃうから",
+            "kana": "それはおいしいからだけじゃなくてとうにょうびょうになっちゃうから",
+            "translation": "Not only is it delicious, but it also prevents diabetes",
+            "furigana": [
+                3,
+                2,
+                16,
+                5,
+                21,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "80.mp3"
+        },
+        {
+            "kanji": "だからそういう料理が多いんだと思います",
+            "kana": "だからそういうりょうりがおおいんだとおもいます",
+            "translation": "That's why there are a lot of such dishes",
+            "furigana": [
+                7,
+                4,
+                12,
+                2,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "だから今日本で糖尿病の人の数がめっちゃ増えてます",
+            "kana": "だからいまにほんでとうにょうびょうのひとのかずがめっちゃふえてます",
+            "translation": "And that's why diabetes is on a rise in Japan",
+            "furigana": [
+                3,
+                2,
+                5,
+                3,
+                9,
+                5,
+                14,
+                3,
+                18,
+                2,
+                21,
+                2,
+                28,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "僕もこれからは気をつけて生活しようかなと思います",
+            "kana": "ぼくもこれからはきをつけてせいかつしようかなとおもいます",
+            "translation": "I also have to watch out for it in my daily life",
+            "furigana": [
+                0,
+                2,
+                8,
+                1,
+                13,
+                4,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "みなさんは痩せやすい体を取るか糖尿病になりにくい体を取るか",
+            "kana": "みなさんはやせやすいからだをとるかとうにょうびょうになりにくいからだをとるか",
+            "translation": "How about you guys, would you rather have a body which doesn't get fat easily or one that doesn't get diabetic easily?",
+            "furigana": [
+                5,
+                1,
+                10,
+                3,
+                14,
+                1,
+                17,
+                5,
+                22,
+                3,
+                31,
+                3,
+                35,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "さあどっち",
+            "kana": "さあどっち",
+            "translation": "Which one will it be?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "89.mp3"
+        },
+        {
+            "kanji": "皆さんありがとうございました",
+            "kana": "みなさんありがとうございました",
+            "translation": "Thank you all for watching",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "90.mp3"
+        },
+        {
+            "kanji": "さっきコンビニ行ってこれ買ってきた",
+            "kana": "さっきコンビニいってこれかってきた",
+            "translation": "Just earlier I went to a convenience store and bought this",
+            "furigana": [
+                7,
+                1,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "91.mp3"
+        },
+        {
+            "kanji": "えガリガリじゃなくない",
+            "kana": "えガリガリじゃなくない",
+            "translation": "But he's not very gari gari is he?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "94.mp3"
+        },
+        {
+            "kanji": "どう見ても「ガリガリじゃない君」だよねこれおかしいよね",
+            "kana": "どうみても「ガリガリじゃないくん」だよねこれおかしいよね",
+            "translation": "It should rather be called \"Not gari gari kun\" it's weird",
+            "furigana": [
+                2,
+                1,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "95.mp3"
+        },
+        {
+            "kanji": "これ日本ですごい有名なお菓子なんだよ",
+            "kana": "これにほんですごいゆうめいなおかしなんだよ",
+            "translation": "It's a really famous treat in Japan",
+            "furigana": [
+                2,
+                3,
+                9,
+                4,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "96.mp3"
+        },
+        {
+            "kanji": "これなんでガリガリ君っていう名前かというと",
+            "kana": "これなんでガリガリくんっていうなまえかというと",
+            "translation": "As to why it's called \"Gari gari kun\"",
+            "furigana": [
+                9,
+                2,
+                15,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "98.mp3"
+        },
+        {
+            "kanji": "食べた時にガリっていう音がするからそれでガリガリ君なんだよね",
+            "kana": "たべたときにガリっていうおとがするからそれでガリガリくんなんだよね",
+            "translation": "it's because of the \"gari\" sound it makes when you eat it",
+            "furigana": [
+                0,
+                1,
+                3,
+                2,
+                12,
+                2,
+                26,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "99.mp3"
+        },
+        {
+            "kanji": "ちょっと「ガリガリじゃない君」のほうが僕はいいんじゃないかなって思うんだけど",
+            "kana": "ちょっと「ガリガリじゃないくん」のほうがぼくはいいんじゃないかなっておもうんだけど",
+            "translation": "which is why I think it'd be better if it was called \"Not gari gari kun\"",
+            "furigana": [
+                13,
+                2,
+                20,
+                2,
+                34,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "101.mp3"
+        },
+        {
+            "kanji": "よし",
+            "kana": "よし",
+            "translation": "Alright",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "102.mp3"
+        },
+        {
+            "kanji": "ガリガリ聞こえた",
+            "kana": "ガリガリきこえた",
+            "translation": "Can you hear gari gari?",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "103.mp3"
+        },
+        {
+            "kanji": "あ冷たい",
+            "kana": "あつめたい",
+            "translation": "It's so cold",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "104.mp3"
+        },
+        {
+            "kanji": "たぶん今俺の中のインスリンが一生懸命こうドアたくさん開けてるんじゃないかな",
+            "kana": "たぶんいまおれのなかのインスリンがいっしょうけんめいこうドアたくさんあけてるんじゃないかな",
+            "translation": "Probably right now the insulin in my body is opening doors left and right",
+            "furigana": [
+                3,
+                2,
+                5,
+                2,
+                8,
+                2,
+                17,
+                9,
+                34,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                4,
+                1
+            ],
+            "sound": "105.mp3"
+        },
+        {
+            "kanji": "じゃまたね",
+            "kana": "じゃまたね",
+            "translation": "So see ya",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "106.mp3"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "jtype",
+  "version": "1.0.0",
+  "description": "日本語 typing practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjfricke/jtype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjfricke/jtype/issues"
+  },
+  "homepage": "https://github.com/sjfricke/jtype#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "sync-request": "^6.1.0",
+    "wanakana": "^4.0.2"
+  }
+}

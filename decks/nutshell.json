@@ -1,0 +1,2780 @@
+{
+    "name": "nutshell",
+    "version": 1,
+    "cards": [
+        {
+            "kana": "おなじだ",
+            "kanji": "同じだ",
+            "translation": "It’s the same.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "onaji-edition-m_0.mp3"
+        },
+        {
+            "kana": "このほんとそのほんはおなじです",
+            "kanji": "この本とその本は同じです",
+            "translation": "This book and that book are the same.",
+            "furigana": [
+                2,
+                2,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_1.mp3"
+        },
+        {
+            "kana": "それとおなじだ",
+            "kanji": "それと同じだ",
+            "translation": "It’s the same as that.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "onaji-edition-m_2.mp3"
+        },
+        {
+            "kana": "これはそれとおなじだ",
+            "kanji": "これはそれと同じだ",
+            "translation": "As for this, it’s the same as that. = This is the same as that.",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "onaji-edition-m_3.mp3"
+        },
+        {
+            "kana": "このほんはそのほんとおなじだ",
+            "kanji": "この本はその本と同じだ",
+            "translation": "As for this book, it’s the same as that book. = This book is the same as that book.",
+            "furigana": [
+                2,
+                2,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_4.mp3"
+        },
+        {
+            "kana": "わたしのなまえはそのひとのなまえとおなじだ",
+            "kanji": "私の名前はその人の名前と同じだ",
+            "translation": "My name is the same as that person’s name.",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                10,
+                2,
+                13,
+                3,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_5.mp3"
+        },
+        {
+            "kana": "ぼくがみたえいがはともだちがみたえいがとおなじです",
+            "kanji": "僕が見た映画は友達が見た映画と同じです",
+            "translation": "The movie that I saw is the same as the movie my friend saw.",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                5,
+                3,
+                9,
+                4,
+                14,
+                1,
+                16,
+                3,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_6.mp3"
+        },
+        {
+            "kana": "このパンはにっぽんでたべたパンとおなじだおいしい",
+            "kanji": "このパンは日本で食べたパンと同じだおいしい",
+            "translation": "This bread is the same as the bread (I) ate in Japan. It’s delicious!",
+            "furigana": [
+                5,
+                4,
+                10,
+                1,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_7.mp3"
+        },
+        {
+            "kana": "せんせいがいっていることはわたしがいっていることとおなじです",
+            "kanji": "先生が言っていることは私が言っていることと同じです",
+            "translation": "The thing that the teacher is saying is the same as the thing that I am saying. = What the teacher is saying is the same as what I am saying.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                13,
+                3,
+                17,
+                1,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_8.mp3"
+        },
+        {
+            "kana": "おなじひとです",
+            "kanji": "同じ人です",
+            "translation": "It’s the same person.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_9.mp3"
+        },
+        {
+            "kana": "おなじほんでした",
+            "kanji": "同じ本でした",
+            "translation": "It was the same book.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_10.mp3"
+        },
+        {
+            "kana": "ぼくもおなじほんをよんだ",
+            "kanji": "僕も同じ本を読んだ",
+            "translation": "I too read the same book.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                6,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_11.mp3"
+        },
+        {
+            "kana": "そのせんせいはいつもおなじようふくをきています",
+            "kanji": "その先生はいつも同じ洋服を着ています",
+            "translation": "That teacher is always wearing the same clothing.",
+            "furigana": [
+                2,
+                4,
+                10,
+                2,
+                13,
+                4,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_12.mp3"
+        },
+        {
+            "kana": "わたしはまいにちおなじものをたべている",
+            "kanji": "私は毎日同じものを食べている",
+            "translation": "I am eating the same thing every day.",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                8,
+                2,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_13.mp3"
+        },
+        {
+            "kana": "かのじょとわたしはおなじかいしゃではたらいている",
+            "kanji": "彼女と私は同じ会社で働いている",
+            "translation": "She and I are working at the same company.",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                2,
+                12,
+                4,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_14.mp3"
+        },
+        {
+            "kana": "わたしがきんようびにあったひととともだちがどようびにあったひとはおなじひとだった",
+            "kanji": "私が金曜日に会った人と友達が土曜日に会った人は同じ人だった",
+            "translation": "The person that I met on Friday and the person that my friend met on Saturday were the same person.",
+            "furigana": [
+                0,
+                3,
+                4,
+                5,
+                10,
+                1,
+                13,
+                2,
+                16,
+                4,
+                21,
+                4,
+                26,
+                1,
+                29,
+                2,
+                32,
+                2,
+                35,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1,
+                2,
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_15.mp3"
+        },
+        {
+            "kana": "おとうとはきのうとおなじようふくをきている",
+            "kanji": "弟は昨日と同じ洋服を着ている",
+            "translation": "My little brother is wearing the same clothing as yesterday.",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                2,
+                12,
+                4,
+                17,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_16.mp3"
+        },
+        {
+            "kana": "せんしゅうとおなじところにいきたい",
+            "kanji": "先週と同じところに行きたい",
+            "translation": "I want to go to the same place as last week.",
+            "furigana": [
+                0,
+                5,
+                6,
+                2,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_17.mp3"
+        },
+        {
+            "kana": "いつもとおなじコーヒーがのみたい",
+            "kanji": "いつもと同じコーヒーが飲みたい",
+            "translation": "I want to drink the same coffee as always.",
+            "furigana": [
+                4,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_18.mp3"
+        },
+        {
+            "kana": "わたしはかのじょとおなじかいしゃではたらいています",
+            "kanji": "私は彼女と同じ会社で働いています",
+            "translation": "I am working at the same company as her.",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                9,
+                2,
+                12,
+                4,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_19.mp3"
+        },
+        {
+            "kana": "ぼくはそのひととおなじえいがをみた",
+            "kanji": "僕はその人と同じ映画を見た",
+            "translation": "I saw the same movie as that person.",
+            "furigana": [
+                0,
+                2,
+                5,
+                2,
+                8,
+                2,
+                11,
+                3,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "onaji-edition-m_20.mp3"
+        },
+        {
+            "kana": "これとおなじものをうっていますか",
+            "kanji": "これと同じものを売っていますか",
+            "translation": "Do (you) sell (“are you selling”) the same thing as this?",
+            "furigana": [
+                3,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_21.mp3"
+        },
+        {
+            "kana": "ともだちがかったくるまとおなじくるまをかいたい",
+            "kanji": "友達が買った車と同じ車を買いたい",
+            "translation": "I want to buy the same car as the car that (my) friend bought.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                8,
+                3,
+                12,
+                2,
+                15,
+                3,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_22.mp3"
+        },
+        {
+            "kana": "おかあさんがいっただいがくとおなじだいがくにいきたいかどうかまだわからない",
+            "kanji": "お母さんが行った大学と同じ大学に行きたいかどうかまだ分からない",
+            "translation": "I don’t yet know if I want to go to the same college as Mom went to.",
+            "furigana": [
+                1,
+                2,
+                6,
+                1,
+                9,
+                4,
+                14,
+                2,
+                17,
+                4,
+                22,
+                1,
+                32,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "onaji-edition-m_23.mp3"
+        },
+        {
+            "kana": "これはちがう",
+            "kanji": "これは違う",
+            "translation": "This differs. = This is different.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_0.mp3"
+        },
+        {
+            "kana": "これとそれはちがう",
+            "kanji": "これとそれは違う",
+            "translation": "This and that differ. = This and that are different.",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_1.mp3"
+        },
+        {
+            "kana": "このシャツとそのシャツはぜんぜんちがうね",
+            "kanji": "このシャツとそのシャツは全然違うね",
+            "translation": "This shirt and that shirt differ completely, don’t they? = This shirt and that shirt are totally different, aren’t they?",
+            "furigana": [
+                12,
+                4,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_2.mp3"
+        },
+        {
+            "kana": "これはそれとちがう",
+            "kanji": "これはそれと違う",
+            "translation": "This differs with that. = This is different from that.",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_3.mp3"
+        },
+        {
+            "kana": "きょうのてんきはきのうのてんきとちがうね",
+            "kanji": "今日の天気は昨日の天気と違うね",
+            "translation": "Today’s weather differs with yesterday’s weather, doesn’t it? = Today’s weather is different from yesterday’s weather, isn’t it?",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                8,
+                3,
+                12,
+                3,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_4.mp3"
+        },
+        {
+            "kana": "せんせいのようふくはいつもとちがいます",
+            "kanji": "先生の洋服はいつもと違います",
+            "translation": "The teacher’s clothing differs with always. = The teacher’s clothing is different from usual.",
+            "furigana": [
+                0,
+                4,
+                5,
+                4,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_5.mp3"
+        },
+        {
+            "kana": "ちがうえいがをみよう",
+            "kanji": "違う映画を見よう",
+            "translation": "Let’s watch a movie that differs. = Let’s watch a different movie.",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_6.mp3"
+        },
+        {
+            "kana": "ちがうコーヒーでした",
+            "kanji": "違うコーヒーでした",
+            "translation": "It was coffee that differs. = It was different coffee.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_7.mp3"
+        },
+        {
+            "kana": "ちがうところにいこう",
+            "kanji": "違うところに行こう",
+            "translation": "Let’s go to a place that differs. = Let’s go to a different place.",
+            "furigana": [
+                0,
+                2,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_8.mp3"
+        },
+        {
+            "kana": "いつもとちがうもの",
+            "kanji": "いつもと違うもの",
+            "translation": "a thing that differs from always = something that is different from usual",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_9.mp3"
+        },
+        {
+            "kana": "きのうとちがうくつ",
+            "kanji": "昨日と違う靴",
+            "translation": "shoes that differ from yesterday = shoes that are different from yesterday",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_10.mp3"
+        },
+        {
+            "kana": "せんしゅうとちがうレストラン",
+            "kanji": "先週と違うレストラン",
+            "translation": "a restaurant that differs from last week = a restaurant that is different from last week",
+            "furigana": [
+                0,
+                5,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_11.mp3"
+        },
+        {
+            "kana": "いつもとちがうものをたべましょう",
+            "kanji": "いつもと違うものを食べましょう",
+            "translation": "Let’s eat a thing that differs with always. = Let’s eat something that is different from usual.",
+            "furigana": [
+                4,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_12.mp3"
+        },
+        {
+            "kana": "ともだちはきのうとちがうくつをはいていた",
+            "kanji": "友達は昨日と違う靴を履いていた",
+            "translation": "(My) friend was wearing shoes that differ with yesterday. = (My) friend was wearing shoes that were different from yesterday.",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                2,
+                12,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_13.mp3"
+        },
+        {
+            "kana": "せんしゅうとちがうレストランにいきたい",
+            "kanji": "先週と違うレストランに行きたい",
+            "translation": "(I) want to go to a restaurant that differs with last week. = (I) want to go to a different restaurant from last week.",
+            "furigana": [
+                0,
+                5,
+                6,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_14.mp3"
+        },
+        {
+            "kana": "きょうはきんようびだよね",
+            "kanji": "今日は金曜日だよね",
+            "translation": "Today is Friday, right?",
+            "furigana": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                3
+            ],
+            "sound": "chigau-edition-m_15.mp3"
+        },
+        {
+            "kana": "ちがうよもくようびだよ",
+            "kanji": "違うよ木曜日だよ",
+            "translation": "No, that’s wrong (“it differs”). It’s Thursday.",
+            "furigana": [
+                0,
+                2,
+                4,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                3
+            ],
+            "sound": "chigau-edition-m_16.mp3"
+        },
+        {
+            "kana": "これはカレーライスですか",
+            "kanji": "これはカレーライスですか",
+            "translation": "Is this curry rice?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "chigau-edition-m_17.mp3"
+        },
+        {
+            "kana": "あちがいますビーフシチューです",
+            "kanji": "あ違いますビーフシチューです",
+            "translation": "Oh, no, it’s not (“it differs”). It's beef stew.",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "chigau-edition-m_18.mp3"
+        },
+        {
+            "kana": "すみませんここはしぶやえきですか",
+            "kanji": "すみませんここは渋谷駅ですか",
+            "translation": "Excuse me, is this Shibuya Station?",
+            "furigana": [
+                8,
+                3,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_19.mp3"
+        },
+        {
+            "kana": "ちがいますここはしんじゅくえきですしぶやえきはここからみっつめのえきです",
+            "kanji": "違いますここは新宿駅です渋谷駅はここから三つ目の駅です",
+            "translation": "No, it’s not (“it differs”). This is Shinjuku Station. Shibuya Station is the third station from here.",
+            "furigana": [
+                0,
+                2,
+                8,
+                5,
+                13,
+                2,
+                17,
+                3,
+                20,
+                2,
+                27,
+                2,
+                30,
+                1,
+                32,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_20.mp3"
+        },
+        {
+            "kana": "このくつがすごくすきだけどサイズがちがう",
+            "kanji": "この靴がすごく好きだけどサイズが違う",
+            "translation": "(I) really like these shoes, but the size is wrong (“the size differs”).",
+            "furigana": [
+                2,
+                2,
+                8,
+                1,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_21.mp3"
+        },
+        {
+            "kana": "ジョンさんじがきれいだねあでもこのじはちょっとちがうよ",
+            "kanji": "ジョンさん字がきれいだねあでもこの字はちょっと違うよ",
+            "translation": "John, your characters are pretty! Oh, but this character differs a little (=is a little wrong).",
+            "furigana": [
+                5,
+                1,
+                17,
+                1,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "chigau-edition-m_22.mp3"
+        },
+        {
+            "kana": "でんわしてみたけどだれもでなかったばんごうがちがうのかな",
+            "kanji": "電話してみたけど誰も出なかった番号が違うのかな",
+            "translation": "I tried calling, but no one answered. I wonder if the number is wrong (“if the number differs”).",
+            "furigana": [
+                0,
+                3,
+                9,
+                2,
+                12,
+                1,
+                17,
+                4,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "chigau-edition-m_23.mp3"
+        },
+        {
+            "kana": "エーはビーのようだ",
+            "kanji": "ＡはＢのようだ",
+            "translation": "A is the _you_ of B. = A is like B.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_0.mp3"
+        },
+        {
+            "kana": "きょうのてんきはなつのようだ",
+            "kanji": "今日の天気は夏のようだ",
+            "translation": "Today’s weather is like summer.",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_1.mp3"
+        },
+        {
+            "kana": "このねこはいぬのようですね",
+            "kanji": "この猫は犬のようですね",
+            "translation": "This cat is like a dog, isn’t it?",
+            "furigana": [
+                2,
+                2,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_2.mp3"
+        },
+        {
+            "kana": "ジョンさんはにほんじんのようだね",
+            "kanji": "ジョンさんは日本人のようだね",
+            "translation": "John is like a Japanese person, isn’t he?",
+            "furigana": [
+                6,
+                3,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_3.mp3"
+        },
+        {
+            "kana": "そのくるまはレースカーのようだった",
+            "kanji": "その車はレースカーのようだった",
+            "translation": "That car was like a racecar.",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_4.mp3"
+        },
+        {
+            "kana": "このコーヒーはこうちゃのようですね",
+            "kanji": "このコーヒーは紅茶のようですね",
+            "translation": "This coffee is like black tea, isn’t it?",
+            "furigana": [
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "similar-you-part-1-edition-m_5.mp3"
+        },
+        {
+            "kana": "なつのようだ",
+            "kanji": "夏のようだ",
+            "translation": "It’s like summer.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_6.mp3"
+        },
+        {
+            "kana": "いぬのようですね",
+            "kanji": "犬のようですね",
+            "translation": "It’s like a dog, isn’t it?",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_7.mp3"
+        },
+        {
+            "kana": "にほんじんのようだね",
+            "kanji": "日本人のようだね",
+            "translation": "(He or she) is like a Japanese person, aren’t they?",
+            "furigana": [
+                0,
+                3,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_8.mp3"
+        },
+        {
+            "kana": "レースカーのようだった",
+            "kanji": "レースカーのようだった",
+            "translation": "It was like a racecar.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "similar-you-part-1-edition-m_9.mp3"
+        },
+        {
+            "kana": "こうちゃのようですね",
+            "kanji": "紅茶のようですね",
+            "translation": "It’s like black tea, isn’t it?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "similar-you-part-1-edition-m_10.mp3"
+        },
+        {
+            "kana": "このピザはイタリヤでたべたピザのようですね",
+            "kanji": "このピザはイタリヤで食べたピザのようですね",
+            "translation": "This pizza is like the pizza (I/we) had in Italy, isn’t it?",
+            "furigana": [
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_11.mp3"
+        },
+        {
+            "kana": "まりこさんのあたまはコンピューターのようだ",
+            "kanji": "真理子さんの頭はコンピューターのようだ",
+            "translation": "Mariko’s head is like a computer.",
+            "furigana": [
+                0,
+                3,
+                6,
+                3
+            ],
+            "kanjiLength": [
+                3,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_12.mp3"
+        },
+        {
+            "kana": "このゲームはぜんぜんたのしくないしごとのようだ",
+            "kanji": "このゲームはぜんぜん楽しくない仕事のようだ",
+            "translation": "This game isn’t fun at all. It’s like work.",
+            "furigana": [
+                10,
+                2,
+                16,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "similar-you-part-1-edition-m_13.mp3"
+        },
+        {
+            "kana": "カリフォルニアではまいにちがなつのようだ",
+            "kanji": "カリフォルニアでは毎日が夏のようだ",
+            "translation": "In California, every day is like summer.",
+            "furigana": [
+                9,
+                4,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_14.mp3"
+        },
+        {
+            "kana": "おじいちゃんのあたまはいしのようだわたしのはなしをぜんぜんきいてくれない",
+            "kanji": "おじいちゃんの頭は石のようだ私の話をぜんぜん聞いてくれない",
+            "translation": "My grandpa’s head is like a rock. He doesn’t listen to what I say at all.",
+            "furigana": [
+                7,
+                3,
+                11,
+                2,
+                17,
+                3,
+                21,
+                3,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_15.mp3"
+        },
+        {
+            "kana": "かれはとてもたいせつなひとだったおにいさんのようだった",
+            "kanji": "彼はとても大切な人だったお兄さんのようだった",
+            "translation": "He was a very important person. He was like a big brother.",
+            "furigana": [
+                0,
+                2,
+                6,
+                4,
+                11,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_16.mp3"
+        },
+        {
+            "kana": "ミカンはオレンジのようだけどミカンのほうがちいさい",
+            "kanji": "ミカンはオレンジのようだけどミカンのほうが小さい",
+            "translation": "Tangerines are like oranges, but tangerines are smaller.",
+            "furigana": [
+                21,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_17.mp3"
+        },
+        {
+            "kana": "このおてらはにっぽんのおてらのようだ",
+            "kanji": "このお寺は日本のお寺のようだ",
+            "translation": "This temple is like a Japanese temple.",
+            "furigana": [
+                3,
+                2,
+                6,
+                4,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_18.mp3"
+        },
+        {
+            "kana": "このさかなはおいしいねさけのようだけどすこしちがうなんというさかななの",
+            "kanji": "この魚はおいしいね鮭のようだけど少し違う何という魚なの",
+            "translation": "This fish is delicious, isn’t it? It’s like salmon, but it’s a little different. What do you call it? (“It’s a fish that you call what?”)",
+            "furigana": [
+                2,
+                3,
+                11,
+                2,
+                19,
+                2,
+                22,
+                2,
+                25,
+                2,
+                30,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_19.mp3"
+        },
+        {
+            "kana": "ジョンさんはまいあさごはんをたべてみそしるをのむほんとうににほんじんのようだね",
+            "kanji": "ジョンさんは毎朝ご飯を食べて味噌汁を飲む本当に日本人のようだね",
+            "translation": "John eats rice and has (“drinks”) miso soup every morning. He’s really like a Japanese person, isn’t he?",
+            "furigana": [
+                6,
+                4,
+                11,
+                2,
+                14,
+                1,
+                17,
+                4,
+                22,
+                1,
+                24,
+                4,
+                29,
+                3,
+                32,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                3,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_20.mp3"
+        },
+        {
+            "kana": "かのじょはわたしのほんとうのおかあさんのようだった",
+            "kanji": "彼女は私の本当のお母さんのようだった",
+            "translation": "She was like my real mother.",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                4,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_21.mp3"
+        },
+        {
+            "kana": "このスポーツはテニスのようだねテニスよりむずかしいけどたのしい",
+            "kanji": "このスポーツはテニスのようだねテニスより難しいけど楽しい",
+            "translation": "This sport is like tennis, isn’t it? It’s harder than tennis, but it’s fun.",
+            "furigana": [
+                20,
+                3,
+                27,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_22.mp3"
+        },
+        {
+            "kana": "このパンはケーキのようですねおいしい",
+            "kanji": "このパンはケーキのようですねおいしい",
+            "translation": "This bread is like cake, isn’t it? It’s delicious!",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "similar-you-part-1-edition-m_23.mp3"
+        },
+        {
+            "kana": "ジョンさんはあしがすごくはやいうまのようだ",
+            "kanji": "ジョンさんは足がすごく速い馬のようだ",
+            "translation": "John has incredibly quick legs (=he runs quickly). He’s like a horse.",
+            "furigana": [
+                6,
+                2,
+                12,
+                2,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_24.mp3"
+        },
+        {
+            "kana": "あのいぬちいさいネズミのようだ",
+            "kanji": "あの犬ちいさいネズミのようだ",
+            "translation": "That dog is small! It’s like a mouse.",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-1-edition-m_25.mp3"
+        },
+        {
+            "kana": "しんぶんをよんでいるひと",
+            "kanji": "新聞を読んでいる人",
+            "translation": "an is-reading-a-newspaper person = a person *who* is reading a newspaper",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_0.mp3"
+        },
+        {
+            "kana": "コーヒーのようだのみもの",
+            "kanji": "コーヒーのようだ飲み物",
+            "translation": "(!) It’s like coffee, a beverage",
+            "furigana": [
+                8,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_1.mp3"
+        },
+        {
+            "kana": "コーヒーのようなのみもの",
+            "kanji": "コーヒーのような飲み物",
+            "translation": "an is-like-coffee beverage = a beverage that is like coffee",
+            "furigana": [
+                8,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_2.mp3"
+        },
+        {
+            "kana": "ジャズのようなおんがく",
+            "kanji": "ジャズのような音楽",
+            "translation": "music that is like jazz",
+            "furigana": [
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "similar-you-part-2-edition-m_3.mp3"
+        },
+        {
+            "kana": "せんせいのようなひと",
+            "kanji": "先生のような人",
+            "translation": "a person who is like a teacher",
+            "furigana": [
+                0,
+                4,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_4.mp3"
+        },
+        {
+            "kana": "ラーメンのようなたべもの",
+            "kanji": "ラーメンのような食べ物",
+            "translation": "a food that is like ramen = a food like ramen",
+            "furigana": [
+                8,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_5.mp3"
+        },
+        {
+            "kana": "かのじょのようなじょせい",
+            "kanji": "彼女のような女性",
+            "translation": "a woman who is like her = a woman like her",
+            "furigana": [
+                0,
+                4,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "similar-you-part-2-edition-m_6.mp3"
+        },
+        {
+            "kana": "にっぽんのようなくに",
+            "kanji": "日本のような国",
+            "translation": "a country that is like Japan = a country like Japan",
+            "furigana": [
+                0,
+                4,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_7.mp3"
+        },
+        {
+            "kana": "マイクロソフトのようなかいしゃではたらきたい",
+            "kanji": "マイクロソフトのような会社で働きたい",
+            "translation": "I want to work at a company (that is) like Microsoft.",
+            "furigana": [
+                11,
+                4,
+                16,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_8.mp3"
+        },
+        {
+            "kana": "あのひとはかさのようなものをもっている",
+            "kanji": "あの人は傘のようなものを持っている",
+            "translation": "That person is holding something (that is) like an umbrella. (I.e., it looks or otherwise seems like an umbrella.)",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_9.mp3"
+        },
+        {
+            "kana": "ゆっくりさんぽしたいなこのあたりにもりのようなところがありますか",
+            "kanji": "ゆっくり散歩したいなこの辺りに森のようなところがありますか",
+            "translation": "I’d like to take a slow walk (“take a walk slowly”). In this vicinity, is there a place (that is) like a forest?",
+            "furigana": [
+                4,
+                3,
+                13,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_10.mp3"
+        },
+        {
+            "kana": "そしてそのひとはえんぴつのようなものをみせてくれた",
+            "kanji": "そしてその人は鉛筆のようなものを見せてくれた",
+            "translation": "Then, that person showed me a something like a pencil (“a thing that is like a pencil”).",
+            "furigana": [
+                5,
+                2,
+                8,
+                4,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_11.mp3"
+        },
+        {
+            "kana": "すずきくんのようなかれしがほしい",
+            "kanji": "鈴木君のような彼氏が欲しい",
+            "translation": "I want a boyfriend (who is) like Suzuki-kun.",
+            "furigana": [
+                0,
+                3,
+                3,
+                2,
+                9,
+                3,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_12.mp3"
+        },
+        {
+            "kana": "たなかせんせいのようなひとがあまりいない",
+            "kanji": "田中先生のような人があまりいない",
+            "translation": "There aren’t very many people (who are) like Tanaka-sensei.",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_13.mp3"
+        },
+        {
+            "kana": "こんしゅうまつこうえんかみずうみのようなところにいこう",
+            "kanji": "今週末公園か湖のようなところに行こう",
+            "translation": "This weekend, let’s go to a place like a park or lake.",
+            "furigana": [
+                0,
+                7,
+                7,
+                4,
+                12,
+                4,
+                24,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                2,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_14.mp3"
+        },
+        {
+            "kana": "ラーメンのようなものがたべたい",
+            "kanji": "ラーメンのようなものが食べたい",
+            "translation": "I want to eat a thing (that is) like ramen.",
+            "furigana": [
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_15.mp3"
+        },
+        {
+            "kana": "てがみのようなものがテーブルのうえにあった",
+            "kanji": "手紙のようなものがテーブルの上にあった",
+            "translation": "A thing that is like a letter was on the table. (I.e., it looked or otherwise seemed like a letter.)",
+            "furigana": [
+                0,
+                3,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_16.mp3"
+        },
+        {
+            "kana": "これちょっとのんでみてくださいりょくちゃのようなのみものですがカフェインがはいっていないです",
+            "kanji": "これちょっと飲んでみてください緑茶のような飲み物ですがカフェインが入っていないです",
+            "translation": "Please drink a little of this and see what you think. It’s a beverage like green tea, but there is no caffeine in it.",
+            "furigana": [
+                6,
+                1,
+                15,
+                5,
+                24,
+                1,
+                26,
+                2,
+                37,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "similar-you-part-2-edition-m_17.mp3"
+        },
+        {
+            "kana": "のみながら",
+            "kanji": "飲みながら",
+            "translation": "while drinking",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "while-nagara-edition-m_0.mp3"
+        },
+        {
+            "kana": "みながら",
+            "kanji": "見ながら",
+            "translation": "while seeing/watching",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "while-nagara-edition-m_1.mp3"
+        },
+        {
+            "kana": "ききながら",
+            "kanji": "聞きながら",
+            "translation": "while listening",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "while-nagara-edition-m_2.mp3"
+        },
+        {
+            "kana": "おちゃをのみながらほんをよんだ",
+            "kanji": "お茶を飲みながら本を読んだ",
+            "translation": "While drinking tea, I read a book. = I read a book while drinking tea.",
+            "furigana": [
+                1,
+                2,
+                4,
+                1,
+                9,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "while-nagara-edition-m_3.mp3"
+        },
+        {
+            "kana": "はなびをみながらいろんなことをかんがえた",
+            "kanji": "花火を見ながらいろんなことを考えた",
+            "translation": "While watching the fireworks, I thought about all sorts of things. = I thought about all sorts of things while watching the fireworks.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                15,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "while-nagara-edition-m_4.mp3"
+        },
+        {
+            "kana": "ラジオをききながらいえをそうじした",
+            "kanji": "ラジオを聞きながら家を掃除した",
+            "translation": "While listening to the radio, I cleaned the house. = I cleaned the house while listening to the radio.",
+            "furigana": [
+                4,
+                1,
+                9,
+                2,
+                12,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "while-nagara-edition-m_5.mp3"
+        },
+        {
+            "kana": "ベンチにすわりながらほんをよんだ",
+            "kanji": "ベンチに座りながら本を読んだ",
+            "translation": "While sitting on a bench, I read a book. = I read a book while sitting on a bench.",
+            "furigana": [
+                4,
+                2,
+                10,
+                2,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "while-nagara-edition-m_6.mp3"
+        },
+        {
+            "kana": "ほんをよみながらベンチにすわった",
+            "kanji": "本を読みながらベンチに座った",
+            "translation": "While reading a book, I sat on a bench. = I sat down while reading a book.",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "while-nagara-edition-m_7.mp3"
+        },
+        {
+            "kana": "でんしゃにのりながらしゅくだいをした",
+            "kanji": "電車に乗りながら宿題をした",
+            "translation": "(I) did my homework while riding on the train.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                10,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "while-nagara-edition-m_8.mp3"
+        },
+        {
+            "kana": "おんがくをききながらりょこうのじゅんびをした",
+            "kanji": "音楽を聞きながら旅行の準備をした",
+            "translation": "I prepared for the trip (“did the preparation of the trip”) while listening to music.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                10,
+                4,
+                15,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "while-nagara-edition-m_9.mp3"
+        },
+        {
+            "kana": "コーヒーをのみながらかのじょとかいわをした",
+            "kanji": "コーヒーを飲みながら彼女と会話をした",
+            "translation": "(I) had a conversation with her while drinking coffee.",
+            "furigana": [
+                5,
+                1,
+                10,
+                4,
+                15,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "while-nagara-edition-m_10.mp3"
+        },
+        {
+            "kana": "あさごはんをつくりながらおじいさんとでんわではなした",
+            "kanji": "朝ご飯を作りながらおじいさんと電話で話した",
+            "translation": "I spoke with my grandpa on the phone while making breakfast.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                6,
+                2,
+                18,
+                3,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "while-nagara-edition-m_11.mp3"
+        },
+        {
+            "kana": "こうえんのベンチにすわりながらかのじょからのてがみをゆっくりよんだ",
+            "kanji": "公園のベンチに座りながら彼女からの手紙をゆっくり読んだ",
+            "translation": "I slowly read the letter from her while sitting on a bench in the park.",
+            "furigana": [
+                0,
+                4,
+                9,
+                2,
+                15,
+                4,
+                22,
+                3,
+                30,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "while-nagara-edition-m_12.mp3"
+        },
+        {
+            "kana": "テレビをみながらうんどうするのがすきだ",
+            "kanji": "テレビを見ながら運動するのが好きだ",
+            "translation": "I like to exercise while watching TV.",
+            "furigana": [
+                4,
+                1,
+                8,
+                4,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "while-nagara-edition-m_13.mp3"
+        },
+        {
+            "kana": "うんてんしながらけいたいでんわをつかうのはあぶない",
+            "kanji": "運転しながら携帯電話を使うのは危ない",
+            "translation": "It is dangerous to use a cell phone while driving.",
+            "furigana": [
+                0,
+                4,
+                8,
+                4,
+                12,
+                3,
+                16,
+                2,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "while-nagara-edition-m_14.mp3"
+        },
+        {
+            "kana": "これのようだ",
+            "kanji": "これのようだ",
+            "translation": "It’s the _you_ of this. = It’s like this.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "kinds-you-part-1-edition-m_0.mp3"
+        },
+        {
+            "kana": "このようだ",
+            "kanji": "このようだ",
+            "translation": "It’s this _you_. = It’s like this.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "kinds-you-part-1-edition-m_1.mp3"
+        },
+        {
+            "kana": "そのようだ",
+            "kanji": "そのようだ",
+            "translation": "It’s that _you_. = It’s like that.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "kinds-you-part-1-edition-m_2.mp3"
+        },
+        {
+            "kana": "どのようだ",
+            "kanji": "どのようだ",
+            "translation": "Which _you_ is it? = It’s like what? = What is it like?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "kinds-you-part-1-edition-m_3.mp3"
+        },
+        {
+            "kana": "このようなせんせい",
+            "kanji": "このような先生",
+            "translation": "a teacher who is like this",
+            "furigana": [
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_4.mp3"
+        },
+        {
+            "kana": "そのようなくるま",
+            "kanji": "そのような車",
+            "translation": "a car that is like that",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_5.mp3"
+        },
+        {
+            "kana": "どのようなたべもの",
+            "kanji": "どのような食べ物",
+            "translation": "food that is like what? = what kind of food?",
+            "furigana": [
+                5,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_6.mp3"
+        },
+        {
+            "kana": "どのようなひと",
+            "kanji": "どのような人",
+            "translation": "a person who is like what? = what kind of person?",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_7.mp3"
+        },
+        {
+            "kana": "どのようなくるま",
+            "kanji": "どのような車",
+            "translation": "a car that is like what? = what kind of car?",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_8.mp3"
+        },
+        {
+            "kana": "どのようなしごと",
+            "kanji": "どのような仕事",
+            "translation": "work that is like what? = what kind of work?",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_9.mp3"
+        },
+        {
+            "kana": "どのようなのみもの",
+            "kanji": "どのような飲み物",
+            "translation": "a beverage that is like what? = what kind of beverage?",
+            "furigana": [
+                5,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_10.mp3"
+        },
+        {
+            "kana": "どのようなようふく",
+            "kanji": "どのような洋服",
+            "translation": "clothing that is like what? = what kind of clothing?",
+            "furigana": [
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_11.mp3"
+        },
+        {
+            "kana": "このようなたべもの",
+            "kanji": "このような食べ物",
+            "translation": "food that is like this = this kind of food",
+            "furigana": [
+                5,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_12.mp3"
+        },
+        {
+            "kana": "このようなくつ",
+            "kanji": "このような靴",
+            "translation": "shoes that are like this = this kind of shoe",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_13.mp3"
+        },
+        {
+            "kana": "このようなひと",
+            "kanji": "このような人",
+            "translation": "a person who is like this = this kind of person",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_14.mp3"
+        },
+        {
+            "kana": "そのようなかのじょ",
+            "kanji": "そのような彼女",
+            "translation": "a girlfriend who is like that = that kind of girlfriend",
+            "furigana": [
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_15.mp3"
+        },
+        {
+            "kana": "そのようなアパート",
+            "kanji": "そのようなアパート",
+            "translation": "an apartment that is like that = that kind of apartment",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "kinds-you-part-1-edition-m_16.mp3"
+        },
+        {
+            "kana": "そのようなかさ",
+            "kanji": "そのような傘",
+            "translation": "an umbrella that is like that = that kind of umbrella",
+            "furigana": [
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_17.mp3"
+        },
+        {
+            "kana": "どのようなしごとですか",
+            "kanji": "どのような仕事ですか",
+            "translation": "What kind of work is it?",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_18.mp3"
+        },
+        {
+            "kana": "すずきさんはどのようなひとですか",
+            "kanji": "鈴木さんはどのような人ですか",
+            "translation": "What kind of person is Suzuki?",
+            "furigana": [
+                0,
+                3,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_19.mp3"
+        },
+        {
+            "kana": "フランスはどのようなくにですか",
+            "kanji": "フランスはどのような国ですか",
+            "translation": "What kind of country is France?",
+            "furigana": [
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_20.mp3"
+        },
+        {
+            "kana": "このようなアパートにすんでみたいね",
+            "kanji": "このようなアパートに住んでみたいね",
+            "translation": "I’d like to try living in this kind of apartment, wouldn’t I?",
+            "furigana": [
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_21.mp3"
+        },
+        {
+            "kana": "ああいつかそのようなくるまにのってみたい",
+            "kanji": "ああいつかそのような車に乗ってみたい",
+            "translation": "Ah, I’d like to try riding in that kind of car sometime!",
+            "furigana": [
+                10,
+                3,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_22.mp3"
+        },
+        {
+            "kana": "まりこさんどのようなたべものがすきですか",
+            "kanji": "真理子さんどのような食べ物が好きですか",
+            "translation": "Mariko, what kind of food do you like?",
+            "furigana": [
+                0,
+                3,
+                10,
+                1,
+                12,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_23.mp3"
+        },
+        {
+            "kana": "このようなえいがをみたことがない",
+            "kanji": "このような映画を見たことがない",
+            "translation": "(I) have never seen this kind of movie.",
+            "furigana": [
+                5,
+                3,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_24.mp3"
+        },
+        {
+            "kana": "そうなのいつもどのようなえいがをみている",
+            "kanji": "そうなのいつもどのような映画を見ている",
+            "translation": "Is that so? What kind of movies do (you) watch usually (“watch always”)?",
+            "furigana": [
+                12,
+                3,
+                16,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_25.mp3"
+        },
+        {
+            "kana": "おかあさんはそのようなことをいっていました",
+            "kanji": "お母さんはそのようなことを言っていました",
+            "translation": "Mom was saying that kind of thing.",
+            "furigana": [
+                1,
+                2,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_26.mp3"
+        },
+        {
+            "kana": "このようなドレスをきたことがない",
+            "kanji": "このようなドレスを着たことがない",
+            "translation": "(I) have never worn this kind of dress.",
+            "furigana": [
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_27.mp3"
+        },
+        {
+            "kana": "イタリアのいなかはどのようなばしょですか",
+            "kanji": "イタリアの田舎はどのような場所ですか",
+            "translation": "What kind of place is the countryside of Italy?",
+            "furigana": [
+                5,
+                3,
+                14,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "kinds-you-part-1-edition-m_28.mp3"
+        },
+        {
+            "kana": "まいあさどのようなものをたべているの",
+            "kanji": "毎朝どのようなものを食べているの",
+            "translation": "What kind of things are (you) eating every morning?",
+            "furigana": [
+                0,
+                4,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_29.mp3"
+        },
+        {
+            "kana": "ゆうしょくはどのようなものがたべたい",
+            "kanji": "夕食はどのようなものが食べたい",
+            "translation": "For dinner, what kind of thing would you like to eat?",
+            "furigana": [
+                0,
+                5,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_30.mp3"
+        },
+        {
+            "kana": "すずきさんはこのようなほんをよみたがらない",
+            "kanji": "鈴木さんはこのような本を読みたがらない",
+            "translation": "Suzuki doesn’t like to read (“doesn’t give signs of wanting to read”) this kind of book.",
+            "furigana": [
+                0,
+                3,
+                11,
+                2,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-1-edition-m_31.mp3"
+        },
+        {
+            "kana": "いつもこのようなふくをきているんですがあしたもこのようなふくでだいじょうぶですか",
+            "kanji": "いつもこのような服を着ているんですが明日もこのような服で大丈夫ですか",
+            "translation": "(I) am always wearing this kind of clothing, but tomorrow too, will this kind of clothing be okay?",
+            "furigana": [
+                8,
+                2,
+                11,
+                1,
+                19,
+                3,
+                28,
+                2,
+                31,
+                6
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                3
+            ],
+            "sound": "kinds-you-part-1-edition-m_32.mp3"
+        },
+        {
+            "kana": "すずきくんはどのようなひとですか",
+            "kanji": "鈴木君はどのような人ですか",
+            "translation": "What kind of person is Suzuki-kun?",
+            "furigana": [
+                0,
+                3,
+                3,
+                2,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_0.mp3"
+        },
+        {
+            "kana": "まいにちコーヒーをのむ",
+            "kanji": "毎日コーヒーを飲む",
+            "translation": "(He/she) drinks coffee every day.",
+            "furigana": [
+                0,
+                4,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_1.mp3"
+        },
+        {
+            "kana": "まいにちコーヒーをのむようなひと",
+            "kanji": "毎日コーヒーを飲むような人",
+            "translation": "a drinks-coffee-every-day kind of person = the *kind of person* who drinks coffee every day",
+            "furigana": [
+                0,
+                4,
+                9,
+                1,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_2.mp3"
+        },
+        {
+            "kana": "まいにちコーヒーをのむひと",
+            "kanji": "毎日コーヒーを飲む人",
+            "translation": "a person who drinks coffee every day",
+            "furigana": [
+                0,
+                4,
+                9,
+                1,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_3.mp3"
+        },
+        {
+            "kana": "かのじょはどのようなひとですか",
+            "kanji": "彼女はどのような人ですか",
+            "translation": "What kind of person is she?",
+            "furigana": [
+                0,
+                4,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_4.mp3"
+        },
+        {
+            "kana": "あさはやくおきるようなひとです",
+            "kanji": "朝早く起きるような人です",
+            "translation": "She’s the kind of person who wakes up early in the morning.",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                5,
+                1,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_5.mp3"
+        },
+        {
+            "kana": "どのようなくるまですか",
+            "kanji": "どのような車ですか",
+            "translation": "What kind of car is it?",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_6.mp3"
+        },
+        {
+            "kana": "すごくはやくはしるようなくるまです",
+            "kanji": "すごく速く走るような車です",
+            "translation": "It’s the kind of car that goes (“runs”) really fast.",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                12,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_7.mp3"
+        },
+        {
+            "kana": "まりこさんはどのようながくせいですか",
+            "kanji": "真理子さんはどのような学生ですか",
+            "translation": "What kind of student is Mariko?",
+            "furigana": [
+                0,
+                3,
+                11,
+                4
+            ],
+            "kanjiLength": [
+                3,
+                2
+            ],
+            "sound": "kinds-you-part-2-edition-m_8.mp3"
+        },
+        {
+            "kana": "まいにちべんきょうするようながくせいです",
+            "kanji": "毎日勉強するような学生です",
+            "translation": "She is the kind of student who studies every day.",
+            "furigana": [
+                0,
+                4,
+                4,
+                5,
+                14,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "kinds-you-part-2-edition-m_9.mp3"
+        },
+        {
+            "kana": "にっぽんでのむようなおちゃではない",
+            "kanji": "日本で飲むようなお茶ではない",
+            "translation": "It’s not the kind of tea that one drinks in Japan.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_10.mp3"
+        },
+        {
+            "kana": "ちちはてがみをかくようなひとではない",
+            "kanji": "父は手紙を書くような人ではない",
+            "translation": "My father is not the kind of person who writes letters.",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                7,
+                1,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_11.mp3"
+        },
+        {
+            "kana": "かれはけんこうにきをつけるようなひとではない",
+            "kanji": "彼は健康に気を付けるような人ではない",
+            "translation": "He is not the kind of person who is careful about his health.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                1,
+                10,
+                1,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_12.mp3"
+        },
+        {
+            "kana": "ぼくはそんなたかいふくをかうようなひとじゃない",
+            "kanji": "僕はそんな高い服を買うような人じゃない",
+            "translation": "I’m not the kind of person who buys such expensive clothing.",
+            "furigana": [
+                0,
+                2,
+                6,
+                2,
+                9,
+                2,
+                12,
+                1,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_13.mp3"
+        },
+        {
+            "kana": "かのじょはいえでしずかにほんをよむようなひとじゃない",
+            "kanji": "彼女は家で静かに本を読むような人じゃない",
+            "translation": "She’s not the kind of person to quietly read a book at home (\"who quietly reads a book at home\").",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                8,
+                2,
+                12,
+                2,
+                15,
+                1,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_14.mp3"
+        },
+        {
+            "kana": "かのじょはそんなことをいうようなひとではないとおもいます",
+            "kanji": "彼女はそんなことを言うような人ではないと思います",
+            "translation": "I think that she is not the kind of person who says such things.",
+            "furigana": [
+                0,
+                4,
+                11,
+                1,
+                16,
+                2,
+                23,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "kinds-you-part-2-edition-m_15.mp3"
+        }
+    ]
+}
