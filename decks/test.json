@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "version": 1,
+    "cards": [
+        {"kanji":"今夜は星がよく見えます","kana":"こんやはほしがよくみえます","translation":"You can see the stars clearly tonight.","furigana":[0,3,4,2,9,1],"kanjiLength":[2,1,1]},
+        {"kanji":"今夜は星がよく見えます","kana":"こんやはほしがよくみえます","translation":"You can see the stars clearly tonight.","furigana":[0,3,4,2,9,1],"kanjiLength":[2,1,1]},
+        {"kanji":"今夜は星がよく見えます","kana":"こんやはほしがよくみえます","translation":"You can see the stars clearly tonight.","furigana":[0,3,4,2,9,1],"kanjiLength":[2,1,1]},
+        {"kanji":"今夜は星がよく見えます","kana":"こんやはほしがよくみえます","translation":"You can see the stars clearly tonight.","furigana":[0,3,4,2,9,1],"kanjiLength":[2,1,1]},
+        {"kanji":"今夜は星がよく見えます","kana":"こんやはほしがよくみえます","translation":"You can see the stars clearly tonight.","furigana":[0,3,4,2,9,1],"kanjiLength":[2,1,1]}
+    ]
+}
