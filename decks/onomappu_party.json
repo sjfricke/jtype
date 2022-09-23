@@ -2741,18 +2741,18 @@
         },
         {
             "kanji": "他にもたくさんいろいろ和歌書いてくれて",
-            "kana": "たにもたくさんいろいろわかかいてくれて",
+            "kana": "ほかのにもたくさんいろいろわかかいてくれて",
             "translation": "There are so many more that you guys wrote",
             "furigana": [
                 0,
                 1,
-                11,
-                2,
                 13,
+                2,
+                15,
                 1
             ],
             "kanjiLength": [
-                1,
+                3,
                 2,
                 1
             ],
