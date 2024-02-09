@@ -139,6 +139,9 @@ function compareInput() {
             gDisplay.dom.kanji.children[gDisplay.dom.kanji.children.length - 3].classList.remove("wrong");
             // inject 'tab' key to display and have user hit 'enter'
             document.dispatchEvent(new KeyboardEvent('keydown',{'keyCode':9}));
+        } else if (inputSettings.correctSound) {
+            gDisplay.dom.translation.style.visibility = "visible";
+            playSound();
         } else {
             getNextCard();
         }

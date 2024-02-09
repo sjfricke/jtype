@@ -7,6 +7,7 @@ const exec = require('child_process');
 const wanakana = require('wanakana');
 // const jp_kanji_dict = require('./jp_kanji_dict.js');
 const mecab = require('./mecab.js');
+const { exit } = require('process');
 
 const deckName = process.argv[2];
 var decksDir = path.join(__dirname, "..", "decks");
@@ -39,19 +40,25 @@ for (let i = 0; i < sections.length; i++) {
     let kanji = section[2];
     let translation = section[3];
 
-    // santize a bit
-    kanji = kanji.replace("?", "");
-    kanji = kanji.replace("？", "");
-    kanji = kanji.replace(",", "");
-    kanji = kanji.replace("、", "");
-    kanji = kanji.replace(".", "");
-    kanji = kanji.replace("。", "");
-    kanji = kanji.replace("〜", "");
-    kanji = kanji.replace("~", "");
-    kanji = kanji.replace("-", "");
-    kanji = kanji.replace("&", "");
-    kanji = kanji.replace("!", "");
-    kanji = kanji.replace("！", "");
+    // santize a bit (10 is probably pushing it, but to be safe)
+    let originalKanji = "";
+    for (let k = 0; k < 10 && originalKanji != kanji; k++) {
+        originalKanji = kanji;
+        kanji = kanji.replace("?", "");
+        kanji = kanji.replace("？", "");
+        kanji = kanji.replace(",", "");
+        kanji = kanji.replace("、", "");
+        kanji = kanji.replace(".", "");
+        kanji = kanji.replace("。", "");
+        kanji = kanji.replace("〜", "");
+        kanji = kanji.replace("~", "");
+        kanji = kanji.replace("-", "");
+        kanji = kanji.replace("&", "");
+        kanji = kanji.replace("!", "");
+        kanji = kanji.replace("！", "");
+        kanji = kanji.replace(" ", "");
+        kanji = kanji.replace("　", "");
+    }
 
     let exception_type = false;
     let wTokens = wanakana.tokenize(kanji, {detailed : true});
@@ -113,7 +120,6 @@ for (let i = 0; i < sections.length; i++) {
     // so can re-run without ffmpeg
     if (process.argv.length > 4) {
         ffmpegString = "ffmpeg -ss " + audioStart + " -to " + audioEnd + " -i " + process.argv[4] + " " + audioFile;
-        // console.log(ffmpegString);
         if (!fs.existsSync(audioFile)){
             exec.execSync(ffmpegString);
         }

@@ -7,6 +7,7 @@
 var inputSettings = {
     playSound : false, // default
     pressSound : true, // default
+    correctSound : true, // default
     vertical : true, // default
     listenMode : false, // default
     darkMode : false, // default
@@ -140,6 +141,7 @@ $(document).ready(function() {
     document.getElementById("vertical").checked = inputSettings.vertical;
     document.getElementById("playSound").checked = inputSettings.playSound;
     document.getElementById("pressSound").checked = inputSettings.pressSound;
+    document.getElementById("correctSound").checked = inputSettings.correctSound;
     document.getElementById("listenMode").checked = inputSettings.listenMode;
     document.getElementById("darkMode").checked = inputSettings.darkMode;
     document.getElementById("showWrong").checked = inputSettings.showWrong;
@@ -160,12 +162,16 @@ $(document).ready(function() {
             inputSettings.playSound = checked;
         } else if (box == "pressSound") {
             inputSettings.pressSound = checked;
+        } else if (box == "correctSound") {
+            inputSettings.correctSound = checked;
         } else if (box == "listenMode") {
             inputSettings.listenMode = checked;
             document.getElementById("playSound").checked = true;
             inputSettings.playSound = true;
             document.getElementById("pressSound").checked = false;
             inputSettings.pressSound = false;
+            document.getElementById("correctSound").checked = false;
+            inputSettings.correctSound = false;
             document.getElementById("vertical").checked = false;
             inputSettings.vertical = false;
             setDisplayLayout();
