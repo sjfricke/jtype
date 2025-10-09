@@ -1,0 +1,1237 @@
+{
+    "name": "yuyu_convo_part_2",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "私がちょっと聞いてみたいことは",
+            "kana": "わたしがちょっときいてみたいことは",
+            "translation": "What I would like to ask you is…",
+            "furigana": [
+                0,
+                3,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "1.mp3"
+        },
+        {
+            "kanji": "メキシコで苦労したこと大変だったことをゆうすけさんに教えてほしいです",
+            "kana": "メキシコでくろうしたことたいへんだったことをゆうすけさんにおしえてほしいです",
+            "translation": "I would like you to tell me what you struggled with and what was hard for you.",
+            "furigana": [
+                5,
+                3,
+                12,
+                4,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2.mp3"
+        },
+        {
+            "kanji": "そうだねこれもう答えは一つだけです",
+            "kana": "そうだねこれもうこたえはひとつだけです",
+            "translation": "Yeah. The answer is only one thing.",
+            "furigana": [
+                8,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3.mp3"
+        },
+        {
+            "kanji": "はいメキシコに行った時はスペイン語が話せなかったんですよね",
+            "kana": "はいメキシコにいったときはスペインごがはなせなかったんですよね",
+            "translation": "Yeah. You couldn’t speak Spanish when you went to Mexico, right?",
+            "furigana": [
+                7,
+                1,
+                10,
+                2,
+                17,
+                1,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "7.mp3"
+        },
+        {
+            "kanji": "話せなかったね",
+            "kana": "はなせなかったね",
+            "translation": "No, I couldn’t.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "8.mp3"
+        },
+        {
+            "kanji": "どうやってのりこえたんですか",
+            "kana": "どうやってのりこえたんですか",
+            "translation": "How did you overcome that?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "9.mp3"
+        },
+        {
+            "kanji": "うーん何だろうのりこえたって言っていいかまだわかんない",
+            "kana": "うーんなにだろうのりこえたっていっていいかまだわかんない",
+            "translation": "I don’t know yet if I am allowed to say I overcame.",
+            "furigana": [
+                3,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "10.mp3"
+        },
+        {
+            "kanji": "うんただまあまあ話せるようになるためにはやっぱりとにかく話すために聞いた",
+            "kana": "うんただまあまあはなせるようになるためにはやっぱりとにかくはなすためにきいた",
+            "translation": "Well, in order to be able to speak it enough, I listened in order to speak.",
+            "furigana": [
+                8,
+                2,
+                29,
+                2,
+                35,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "13.mp3"
+        },
+        {
+            "kanji": "話せるために聞いて聞けるためにキーワードをおぼえた",
+            "kana": "はなせるためにきいてきけるためにキーワードをおぼえた",
+            "translation": "I listened so that I could speak, and I learnt key words so that I could listen.",
+            "furigana": [
+                0,
+                2,
+                7,
+                1,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "14.mp3"
+        },
+        {
+            "kanji": "スペイン語だとそのなんだろう",
+            "kana": "スペインごだとそのなんだろう",
+            "translation": "In Spanish, hmm how do I put it…?",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "16.mp3"
+        },
+        {
+            "kanji": "でそれを覚えて何とか話してもらえるようにがんばってた",
+            "kana": "でそれをおぼえてなんとかはなしてもらえるようにがんばってた",
+            "translation": "And I learnt them and I tried my hardest so that people would talk to me.",
+            "furigana": [
+                4,
+                2,
+                8,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "19.mp3"
+        },
+        {
+            "kanji": "自分の話をするんじゃなくてぎゃくに質問してたくさん話してもらうってことですか",
+            "kana": "じぶんのはなしをするんじゃなくてぎゃくにしつもんしてたくさんはなしてもらうってことですか",
+            "translation": "You mean you didn’t talk about yourself but on the contrary, you asked questions and you got them to speak a lot?",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                20,
+                4,
+                30,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "20.mp3"
+        },
+        {
+            "kanji": "だいたいみんなぼくが話すことなんてきょうみなかったから",
+            "kana": "だいたいみんなぼくがはなすことなんてきょうみなかったから",
+            "translation": "Nobody was interested in what I was talking about in the first place.",
+            "furigana": [
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "22.mp3"
+        },
+        {
+            "kanji": "それはもちろん持ってるアイディアはまたべつの話よ",
+            "kana": "それはもちろんもってるアイディアはまたべつのはなしよ",
+            "translation": "Of course, the ideas I have are different stories, you know.",
+            "furigana": [
+                7,
+                1,
+                22,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "その時期で話せることのはばって本当になかったんだよ",
+            "kana": "そのじきではなせることのはばってほんとうになかったんだよ",
+            "translation": "I didn’t have a wide-range of things I could talk about.",
+            "furigana": [
+                2,
+                2,
+                5,
+                2,
+                16,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "25.mp3"
+        },
+        {
+            "kanji": "そんな話だれが聞きたいっていう話じゃん",
+            "kana": "そんなはなしだれがききたいっていうはなしじゃん",
+            "translation": "It’s like who wants to hear that, right?",
+            "furigana": [
+                3,
+                3,
+                9,
+                1,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "27.mp3"
+        },
+        {
+            "kanji": "だから今のだんいかいではぼくは会話はできないと",
+            "kana": "だからいまのだんいかいではぼくはかいわはできないと",
+            "translation": "So I thought I couldn’t have a conversation at that point.",
+            "furigana": [
+                3,
+                2,
+                16,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "とにかく聞かないとふやさないと表現をふやさないとっていうので",
+            "kana": "とにかくきかないとふやさないとひょうげんをふやさないとっていうので",
+            "translation": "I was like “I just have to listen and learn more expressions.” And",
+            "furigana": [
+                4,
+                1,
+                15,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "29.mp3"
+        },
+        {
+            "kanji": "あとは話している時に日本にいた時よりも顔をよく見て",
+            "kana": "あとははなしているときににっぽんにいたときよりもかおをよくみて",
+            "translation": "Also, I was looking at the other person’s face more than when I was in Japan, and",
+            "furigana": [
+                3,
+                2,
+                9,
+                2,
+                12,
+                4,
+                19,
+                2,
+                24,
+                2,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "今なんか悪いかんじだなって今うれしいかんじだなっていうのは気をつけてその人と同じ顔をするようにしてた",
+            "kana": "いまなんかわるいかんじだなっていまうれしいかんじだなっていうのはきをつけてそのひととおなじかおをするようにしてた",
+            "translation": "I was trying to do the same face as the other person while seeing if that person was talking about something bad that happened to them or if they are happy.",
+            "furigana": [
+                0,
+                2,
+                5,
+                2,
+                15,
+                2,
+                32,
+                1,
+                39,
+                2,
+                42,
+                2,
+                45,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "32.mp3"
+        },
+        {
+            "kanji": "すごいすごいですねそれテクニック",
+            "kana": "すごいすごいですねそれテクニック",
+            "translation": "Wow. That’s amazing. That’s a technique.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "33.mp3"
+        },
+        {
+            "kanji": "なるほどそれをすると会話がはずむ感じがするんですか",
+            "kana": "なるほどそれをするとかいわがはずむかんじがするんですか",
+            "translation": "Good point. So if you do that, does it feel like you can have a great conversation?",
+            "furigana": [
+                10,
+                3,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "そうだねつまるところさむかし教えたことがあると思うんだけど",
+            "kana": "そうだねつまるところさむかしおしえたことがあるとおもうんだけど",
+            "translation": "Yeah. In other word, I think you taught that in school before, but",
+            "furigana": [
+                14,
+                2,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "35.mp3"
+        },
+        {
+            "kanji": "会話ってどうしたらうれしくなるかって理解してもらえる",
+            "kana": "かいわってどうしたらうれしくなるかってりかいしてもらえる",
+            "translation": "In terms of conversations, the way you make the other person happy is that they feel understood,",
+            "furigana": [
+                0,
+                3,
+                19,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "だからそれをべつに言葉じゃなくても顔でもいいしジェスチャーでもいいから表すようにはしていた",
+            "kana": "だからそれをべつにことばじゃなくてもかおでもいいしジェスチャーでもいいからあらわすようにはしていた",
+            "translation": "So, I was trying to show that not with the language, but my face, my gestures.",
+            "furigana": [
+                9,
+                3,
+                18,
+                2,
+                37,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "38.mp3"
+        },
+        {
+            "kanji": "私が初めてスペインに行った時も芸人みたいなリアクションばっかりしてました",
+            "kana": "わたしがはじめてスペインにいったときもげいにんみたいなリアクションばっかりしてました",
+            "translation": "When I went to Spain for the first time, I was doing reactions like a comedian.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                13,
+                1,
+                16,
+                2,
+                19,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "なにそれめっちゃ気になる",
+            "kana": "なにそれめっちゃきになる",
+            "translation": "What’s that? I’m very curious.",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "40.mp3"
+        },
+        {
+            "kanji": "友達つくるためにひっしでした",
+            "kana": "ともだちつくるためにひっしでした",
+            "translation": "I was desperate to make friends lol",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "42.mp3"
+        },
+        {
+            "kanji": "でもできたでしょ",
+            "kana": "でもできたでしょ",
+            "translation": "But you could do it, right?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "43.mp3"
+        },
+        {
+            "kanji": "コミュニケーション能力があるってそういうことなんだろうね",
+            "kana": "コミュニケーションのうりょくがあるってそういうことなんだろうね",
+            "translation": "I think having communication skill means that.",
+            "furigana": [
+                9,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "44.mp3"
+        },
+        {
+            "kanji": "言葉だけじゃなくて表情とか自分のからだとかジェスチャーつかってコミュニケーションとることは大切ですよね",
+            "kana": "ことばだけじゃなくてひょうじょうとかじぶんのからだとかジェスチャーつかってコミュニケーションとることはたいせつですよね",
+            "translation": "Yeah. It’s important to communicate using not only the language, but also our facial expressions, and our body language, right?",
+            "furigana": [
+                0,
+                3,
+                10,
+                6,
+                18,
+                3,
+                51,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "そうねあとはつねに共感しつづけられるかどうかみたいなのもね大事だとは思うかな",
+            "kana": "そうねあとはつねにきょうかんしつづけられるかどうかみたいなのもねだいじだとはおもうかな",
+            "translation": "Yeah. Also. I think it’s important to be able to keep on showing empathy.",
+            "furigana": [
+                9,
+                5,
+                32,
+                3,
+                38,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "46.mp3"
+        },
+        {
+            "kanji": "そうだからメキシコで苦労したっていうのが言葉でやっぱりつたわらないことが今でも多いなって思う",
+            "kana": "そうだからメキシコでくろうしたっていうのがことばでやっぱりつたわらないことがいまでもおおいなっておもう",
+            "translation": "Yeah. So what I struggled with the most is the language and there are still times I can’t convey my thoughts.",
+            "furigana": [
+                10,
+                3,
+                21,
+                3,
+                38,
+                2,
+                42,
+                2,
+                48,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "47.mp3"
+        },
+        {
+            "kanji": "じゃあ今自分が考えてることとかこれから自分の将来自分の夢とか話す時にやっぱりなんか自分がつたえたいことが伝わらない",
+            "kana": "じゃあこんじぶんがかんがえてることとかこれからじぶんのしょうらいじぶんのゆめとかはなすときにやっぱりなんかじぶんがつたえたいことがつたわらない",
+            "translation": "When talking about what I’m thinking, or my future dreams, I can’t convey what I want to convey.",
+            "furigana": [
+                3,
+                2,
+                5,
+                3,
+                9,
+                3,
+                23,
+                3,
+                27,
+                5,
+                32,
+                3,
+                36,
+                2,
+                40,
+                2,
+                43,
+                2,
+                53,
+                3,
+                65,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "なんかフィルターがあるなって感じがする",
+            "kana": "なんかフィルターがあるなってかんじがする",
+            "translation": "I feel like there is a filter.",
+            "furigana": [
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "なるほどもっと深い話をする時に自分が本当に心の底から言いたいことがうまく言葉にできないっていう感じですよね",
+            "kana": "なるほどもっとふかいはなしをするときにじぶんがほんとうにこころのそこからいいたいことがうまくことばにできないっていうかんじですよね",
+            "translation": "I see. When you have deep conversations, you can’t put what you really want to say from the bottom of your heart into words, right?",
+            "furigana": [
+                7,
+                2,
+                10,
+                3,
+                16,
+                2,
+                19,
+                3,
+                23,
+                4,
+                28,
+                3,
+                32,
+                2,
+                36,
+                1,
+                46,
+                3,
+                58,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "53.mp3"
+        },
+        {
+            "kanji": "まあそれは日本語でもそんな時もあるんだけどねもちろん",
+            "kana": "まあそれはにほんごでもそんなときもあるんだけどねもちろん",
+            "translation": "Well that happens in Japanese as well, of course.",
+            "furigana": [
+                5,
+                4,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "ただ言葉によってもっと可能性が広がるのに広がりきらない",
+            "kana": "ただことばによってもっとかのうせいがひろがるのにひろがりきらない",
+            "translation": "It’s just that I couldn’t expand my possibilities because of the language.",
+            "furigana": [
+                2,
+                3,
+                12,
+                3,
+                15,
+                2,
+                18,
+                2,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "55.mp3"
+        },
+        {
+            "kanji": "っていうのがついたばかりの時は友達があまりできないという可能性だったし",
+            "kana": "っていうのがついたばかりのときはともだちがあまりできないというかのうせいだったし",
+            "translation": "I mean when I just got here, it was the fact that I didn’t have a lot of friends,",
+            "furigana": [
+                13,
+                2,
+                16,
+                4,
+                31,
+                3,
+                34,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "今はビジネスパートナーがふえないっていうところだったり",
+            "kana": "いまはビジネスパートナーがふえないっていうところだったり",
+            "translation": "Now the number of my business partners is not increasing.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "57.mp3"
+        },
+        {
+            "kanji": "っていうふうにつねに言葉っていうのは自分の世界をもうちょっと広げるために必要な部分になるのかなっていうのは思う",
+            "kana": "っていうふうにつねにことばっていうのはじぶんのせかいをもうちょっとひろげるためにひつようなぶぶんになるのかなっていうのはおもう",
+            "translation": "Like that, I think the language is always a necessary part of expanding our world.",
+            "furigana": [
+                10,
+                3,
+                19,
+                3,
+                23,
+                3,
+                33,
+                2,
+                40,
+                4,
+                45,
+                3,
+                60,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "つねに苦労してるかな",
+            "kana": "つねにくろうしてるかな",
+            "translation": "I guess I’m always struggling.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "59.mp3"
+        },
+        {
+            "kanji": "もう一つ私が聞きたかったのは",
+            "kana": "もうひとつわたしがききたかったのは",
+            "translation": "Another thing I wanted to ask you is",
+            "furigana": [
+                2,
+                2,
+                5,
+                3,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "60.mp3"
+        },
+        {
+            "kanji": "やっぱり日本って治安がいいじゃないですか",
+            "kana": "やっぱりにっぽんってちあんがいいじゃないですか",
+            "translation": "As we all know, Japan is safe, right?",
+            "furigana": [
+                4,
+                4,
+                10,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "まあメキシコも場所によっては治安がいいところもあると思うんですけど",
+            "kana": "まあメキシコもばしょによってはちあんがいいところもあるとおもうんですけど",
+            "translation": "Well I think depending on the place, some places in Mexico are safe, but",
+            "furigana": [
+                7,
+                3,
+                15,
+                3,
+                28,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "64.mp3"
+        },
+        {
+            "kanji": "日本とくらべて治安が悪いと思うんですね",
+            "kana": "にっぽんとくらべてちあんがわるいとおもうんですね",
+            "translation": "I think it’s not safe compared to Japan.",
+            "furigana": [
+                0,
+                4,
+                9,
+                3,
+                13,
+                2,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "そのめんで苦労したこととかちょっと大変だったこととかこわかったこととかってありますか",
+            "kana": "そのめんでくろうしたこととかちょっとたいへんだったこととかこわかったこととかってありますか",
+            "translation": "Was there anything you struggled with or was a bit hard for you in that respect?",
+            "furigana": [
+                5,
+                3,
+                18,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "66.mp3"
+        },
+        {
+            "kanji": "あんまりないかな",
+            "kana": "あんまりないかな",
+            "translation": "Not really.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "あのね直接ぼくぬすまれたことがいっかいもなくて",
+            "kana": "あのねちょくせつぼくぬすまれたことがいっかいもなくて",
+            "translation": "I never had been accosted directly and",
+            "furigana": [
+                3,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "68.mp3"
+        },
+        {
+            "kanji": "そうでもこればっかりは運だと思うんだよね",
+            "kana": "そうでもこればっかりはうんだとおもうんだよね",
+            "translation": "Yeah. But I think it comes down to luck.",
+            "furigana": [
+                11,
+                2,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "たとえば日本にいてもゆうかいちょっとむずかしい言葉だけど",
+            "kana": "たとえばにっぽんにいてもゆうかいちょっとむずかしいことばだけど",
+            "translation": "For example, even if you are in Japan, kidnapping (It’ s a little bit difficult word, but)",
+            "furigana": [
+                4,
+                4,
+                25,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "71.mp3"
+        },
+        {
+            "kanji": "だれかにつれて行かれてしまって殺されてしまうとか物をぬすまれるとかっていうのは日本でもあるじゃん",
+            "kana": "だれかにつれていかれてしまってころされてしまうとかものをぬすまれるとかっていうのはにっぽんでもあるじゃん",
+            "translation": "Sometimes, someone takes you somewhere and kills you or someone steals something from you in Japan.",
+            "furigana": [
+                7,
+                1,
+                15,
+                2,
+                25,
+                2,
+                41,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "72.mp3"
+        },
+        {
+            "kanji": "ひったくりって日本で言うけどね",
+            "kana": "ひったくりってにっぽんでいうけどね",
+            "translation": "We call it “Hittakuri” (stealing)",
+            "furigana": [
+                7,
+                4,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "夜におばちゃんが一人で歩いてたらかばんとられちゃうとかね",
+            "kana": "よるにおばちゃんがいちにんであるいてたらかばんとられちゃうとかね",
+            "translation": "For example when an older lady was walking alone, they might take her bag or…",
+            "furigana": [
+                0,
+                2,
+                9,
+                2,
+                11,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "74.mp3"
+        },
+        {
+            "kanji": "でたしかにメキシコではそういう話をよく聞く",
+            "kana": "でたしかにメキシコではそういうはなしをよくきく",
+            "translation": "And it’s true, I hear a lot of that happening in Mexico.",
+            "furigana": [
+                15,
+                3,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "75.mp3"
+        },
+        {
+            "kanji": "日本より聞くけどパーセンテージの問題かなと思う",
+            "kana": "にっぽんよりきくけどパーセンテージのもんだいかなとおもう",
+            "translation": "I hear about it more than when I was in japan, but it’s a matter of percentage, I think.",
+            "furigana": [
+                0,
+                4,
+                6,
+                1,
+                18,
+                4,
+                25,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "76.mp3"
+        },
+        {
+            "kanji": "でもすごく気をつけるようにはなった",
+            "kana": "でもすごくきをつけるようにはなった",
+            "translation": "I started to be very careful.",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "日本で生まれて育ってるからあまりまわりに気をつけるっていうことになれてないじゃないですか",
+            "kana": "にっぽんでうまれてそだってるからあまりまわりにきをつけるっていうことになれてないじゃないですか",
+            "translation": "We were born and we grew up in Japan, so we are not used to being careful around us.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1,
+                9,
+                2,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "81.mp3"
+        },
+        {
+            "kanji": "だれかに何かをとられるということはときどきあるけどそんなにないから",
+            "kana": "だれかになにかをとられるということはときどきあるけどそんなにないから",
+            "translation": "Getting robbed by someone sometimes happens but it’s rare, so",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "83.mp3"
+        },
+        {
+            "kanji": "自分を守るとか自分のものを守るっていう習慣がないんですよね日本であまり",
+            "kana": "じぶんをまもるとかじぶんのものをまもるっていうしゅうかんがないんですよねにっぽんであまり",
+            "translation": "We don’t have a habit of protecting ourselves or our property in Japan, right?",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                9,
+                3,
+                16,
+                2,
+                23,
+                5,
+                36,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "84.mp3"
+        },
+        {
+            "kanji": "メキシコから帰ってきてからリュックを前に持つっていうくせが直らなくて",
+            "kana": "メキシコからかえってきてからリュックをまえにもつっていうくせがなおらなくて",
+            "translation": "After I came back from Mexico, I couldn't change my habit of wearing my backpack in the front.",
+            "furigana": [
+                6,
+                2,
+                19,
+                2,
+                22,
+                1,
+                31,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "85.mp3"
+        },
+        {
+            "kanji": "日本でも私だけなんですよねリュックを前に持ってる人",
+            "kana": "にっぽんでもわたしだけなんですよねリュックをまえにもってるひと",
+            "translation": "I’m the only one who has their backpack on their front.",
+            "furigana": [
+                0,
+                4,
+                6,
+                3,
+                22,
+                2,
+                25,
+                1,
+                29,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "もう後ろにしてもいいんですけどなんかなれてしまって",
+            "kana": "もううしろにしてもいいんですけどなんかなれてしまって",
+            "translation": "I can’t have it on my back now, but I kind of got used to it and",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "なんか気持ち悪いよね",
+            "kana": "なんかきもちわるいよね",
+            "translation": "Kind of weird, right?",
+            "furigana": [
+                3,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "88.mp3"
+        },
+        {
+            "kanji": "でも気をつけていたらだいじょうぶですよね",
+            "kana": "でもきをつけていたらだいじょうぶですよね",
+            "translation": "But if we are careful, it’s alright, right?",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "90.mp3"
+        },
+        {
+            "kanji": "まあただ本当にそういうふうにここは気をつけなきゃなっていう危機感注意する気持ちはすごく強くなったと思う",
+            "kana": "まあただほんとうにそういうふうにここはきをつけなきゃなっていうききかんちゅういするきもちはすごくつよくなったとおもう",
+            "translation": "It’s just that I started to have a stronger sense of danger.",
+            "furigana": [
+                4,
+                4,
+                19,
+                1,
+                31,
+                2,
+                33,
+                2,
+                35,
+                4,
+                41,
+                2,
+                48,
+                2,
+                55,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "91.mp3"
+        }
+    ]
+}
