@@ -3,7 +3,6 @@
 const assert = require('assert');
 const fs = require('fs');
 const path = require('path');
-const { token } = require('morgan');
 const wanakana = require('wanakana');
 
 const rootPath = path.join(__dirname, "..");

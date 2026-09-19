@@ -17,9 +17,7 @@
     "url": "https://github.com/sjfricke/jtype/issues"
   },
   "homepage": "https://github.com/sjfricke/jtype#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "morgan": "^1.10.0",
+  "devDependencies": {
     "sync-request": "^6.1.0",
     "wanakana": "^4.0.2"
   }

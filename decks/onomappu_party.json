@@ -2740,19 +2740,19 @@
             "sound": "164.mp3"
         },
         {
-            "kanji": "他にもたくさんいろいろ和歌書いてくれて",
+            "kanji": "他のにもたくさんいろいろ和歌書いてくれて",
             "kana": "ほかのにもたくさんいろいろわかかいてくれて",
             "translation": "There are so many more that you guys wrote",
             "furigana": [
                 0,
-                1,
+                2,
                 13,
                 2,
                 15,
                 1
             ],
             "kanjiLength": [
-                3,
+                1,
                 2,
                 1
             ],

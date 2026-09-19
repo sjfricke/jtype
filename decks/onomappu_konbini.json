@@ -501,7 +501,7 @@
             "sound": "31.mp3"
         },
         {
-            "kanji": "そのとき僕はもうなんでコンビニの中国語覚え",
+            "kanji": "そのとき僕はもうなんでコンビニの中国語覚えて",
             "kana": "そのときぼくはもうなんでコンビニのちゅうごくごおぼえて",
             "translation": "Oh why didn’t I learn any convenience store Chinese",
             "furigana": [
@@ -1835,13 +1835,10 @@
             "kana": "「クレジットで」とか「カードで」というふうにいっています",
             "translation": "you can also say \"Kurejitto de\" or \"Kaado de\" (By credit card)",
             "furigana": [
-                19,
-                2,
                 22,
                 1
             ],
             "kanjiLength": [
-                1,
                 1
             ],
             "sound": "124.mp3"
