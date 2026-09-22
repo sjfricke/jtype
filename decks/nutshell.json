@@ -136,15 +136,15 @@
             "sound": "onaji-edition-m_6.mp3"
         },
         {
-            "kana": "このパンはにっぽんでたべたパンとおなじだおいしい",
+            "kana": "このパンはにほんでたべたパンとおなじだおいしい",
             "kanji": "このパンは日本で食べたパンと同じだおいしい",
             "translation": "This bread is the same as the bread (I) ate in Japan. It’s delicious!",
             "furigana": [
                 5,
-                4,
-                10,
+                3,
+                9,
                 1,
-                16,
+                15,
                 2
             ],
             "kanjiLength": [
@@ -1226,15 +1226,15 @@
             "sound": "similar-you-part-1-edition-m_17.mp3"
         },
         {
-            "kana": "このおてらはにっぽんのおてらのようだ",
+            "kana": "このおてらはにほんのおてらのようだ",
             "kanji": "このお寺は日本のお寺のようだ",
             "translation": "This temple is like a Japanese temple.",
             "furigana": [
                 3,
                 2,
                 6,
-                4,
-                12,
+                3,
+                11,
                 2
             ],
             "kanjiLength": [
@@ -1497,13 +1497,13 @@
             "sound": "similar-you-part-2-edition-m_6.mp3"
         },
         {
-            "kana": "にっぽんのようなくに",
+            "kana": "にほんのようなくに",
             "kanji": "日本のような国",
             "translation": "a country that is like Japan = a country like Japan",
             "furigana": [
                 0,
-                4,
-                8,
+                3,
+                7,
                 2
             ],
             "kanjiLength": [
@@ -2636,15 +2636,15 @@
             "sound": "kinds-you-part-2-edition-m_9.mp3"
         },
         {
-            "kana": "にっぽんでのむようなおちゃではない",
+            "kana": "にほんでのむようなおちゃではない",
             "kanji": "日本で飲むようなお茶ではない",
             "translation": "It’s not the kind of tea that one drinks in Japan.",
             "furigana": [
                 0,
+                3,
                 4,
-                5,
                 1,
-                11,
+                10,
                 2
             ],
             "kanjiLength": [

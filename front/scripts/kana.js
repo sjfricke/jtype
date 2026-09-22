@@ -11,6 +11,8 @@ const PUNCTUATION = {
     ']': '」',
     ',': '、',
     '.': '。',
+    '!': '！',
+    '?': '？',
 };
 
 const endsWithLoneN = (s) => /[nN]$/.test(s) && !/[nN][nN]$/.test(s);

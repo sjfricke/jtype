@@ -104,18 +104,26 @@ vowel: クローム is `kuro-mu`.
 
 ## Decks
 
-41 decks, 5746 cards. Every card has audio except in `demo` and `test`, which are
+45 decks, 7109 cards. Every card has audio except in `demo` and `test`, which are
 scratch decks — dictation has nothing to play there.
 
 | deck | cards | what it is |
 |---|---|---|
 | `iknow_1000_*`, `iknow_2000_*`, `iknow_3000_*` | 4668 | iKnow core vocabulary, ten steps each — short study sentences |
+| `tatoeba_natural_*` | 1263 | natural example sentences from the Tatoeba Project, with volunteer-recorded audio |
 | `onomappu_*` | 476 | Onomappu video transcripts — natural conversational speech |
 | `katakana_fast` | 335 | katakana words on their own, for speed |
 | `nutshell` | 156 | Japanese in a Nutshell |
+| `haru_no_nihongo_car_accident` | 100 | a curated selection from a friend's podcast episode |
 | `yuyu_convo_part_2` | 66 | a long-form conversation, longest sentences here |
 | `meshclass_mistake` | 33 | a lesson on expressions for when you mess up |
 | `demo`, `test` | 12 | a handful of cards for poking at the app |
+
+`tatoeba_natural_*` audio is CC BY / CC BY-NC (attribution required, no commercial
+use) — each deck has a sibling `.attribution.tsv` with the sentence id, recording
+contributor, license and a link back to the source, so if you ever share these
+decks the attribution travels with them. `haru_no_nihongo_car_accident` is
+personal-use content shared directly by the creator, not for redistribution.
 
 ## Adding content
 

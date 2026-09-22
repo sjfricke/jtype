@@ -1,0 +1,6557 @@
+{
+    "name": "tatoeba_natural_02",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "明日は用事があります。",
+            "kana": "あすはようじがあります。",
+            "translation": "I have things to do tomorrow.",
+            "furigana": [
+                0,
+                2,
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "2666765.mp3"
+        },
+        {
+            "kanji": "本日は定休日です。",
+            "kana": "ほんじつはていきゅうびです。",
+            "translation": "We're closed today.",
+            "furigana": [
+                0,
+                4,
+                5,
+                5,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2715375.mp3"
+        },
+        {
+            "kanji": "私もそう思う。",
+            "kana": "わたしもそうおもう。",
+            "translation": "I think so, too.",
+            "furigana": [
+                0,
+                3,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "152212.mp3"
+        },
+        {
+            "kanji": "トムだったらこういうときどうする？",
+            "kana": "トムだったらこういうときどうする？",
+            "translation": "What would you do in a situation like this, Tom?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "3368847.mp3"
+        },
+        {
+            "kanji": "明日は何か予定ある？",
+            "kana": "あしたはなにかよていある？",
+            "translation": "Do you have any plans for tomorrow?",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "1063562.mp3"
+        },
+        {
+            "kanji": "頭痛い。",
+            "kana": "あたまいたい。",
+            "translation": "My head aches.",
+            "furigana": [
+                0,
+                3,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3590724.mp3"
+        },
+        {
+            "kanji": "もう一回最初からやってみたら？",
+            "kana": "もういっかいさいしょからやってみたら？",
+            "translation": "Why don't you try it again from the beginning?",
+            "furigana": [
+                2,
+                2,
+                4,
+                2,
+                6,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "3513020.mp3"
+        },
+        {
+            "kanji": "考えすぎだよ。",
+            "kana": "かんがえすぎだよ。",
+            "translation": "You think too much.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "173476.mp3"
+        },
+        {
+            "kanji": "これ触ってもいいですか？",
+            "kana": "これさわってもいいですか？",
+            "translation": "May I feel this?",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3711691.mp3"
+        },
+        {
+            "kanji": "いつからここで働いてるんですか？",
+            "kana": "いつからここではたらいてるんですか？",
+            "translation": "When did you start working here?",
+            "furigana": [
+                7,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4270195.mp3"
+        },
+        {
+            "kanji": "またいつかボストンに行きたいです。",
+            "kana": "またいつかボストンにいきたいです。",
+            "translation": "I'd like to go to Boston again someday.",
+            "furigana": [
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3377435.mp3"
+        },
+        {
+            "kanji": "トムはどれくらいお腹すいてる？",
+            "kana": "トムはどれくらいおなかすいてる？",
+            "translation": "How hungry are you, Tom?",
+            "furigana": [
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3548591.mp3"
+        },
+        {
+            "kanji": "髪に何かついてるよ。",
+            "kana": "かみになにかついてるよ。",
+            "translation": "There's something in your hair.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3361447.mp3"
+        },
+        {
+            "kanji": "手つないでもいい？",
+            "kana": "てつないでもいい？",
+            "translation": "May I hold your hand?",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3023119.mp3"
+        },
+        {
+            "kanji": "今日はいろいろとありがとうございました。",
+            "kana": "きょうはいろいろとありがとうございました。",
+            "translation": "Thank you for everything today.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "171807.mp3"
+        },
+        {
+            "kanji": "トムは最後に到着した。",
+            "kana": "トムはさいごにとうちゃくした。",
+            "translation": "Tom arrived last.",
+            "furigana": [
+                3,
+                3,
+                7,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "2196152.mp3"
+        },
+        {
+            "kanji": "パスポートが盗まれました。",
+            "kana": "パスポートがぬすまれました。",
+            "translation": "My passport was stolen.",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2423918.mp3"
+        },
+        {
+            "kanji": "クラスに仲いい人いる？",
+            "kana": "クラスになかいいひといる？",
+            "translation": "Do you have friends in your class?",
+            "furigana": [
+                4,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3589670.mp3"
+        },
+        {
+            "kanji": "やっと二人になれたね。",
+            "kana": "やっとふたりになれたね。",
+            "translation": "We're finally alone.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3782777.mp3"
+        },
+        {
+            "kanji": "トムは悪くないんだから気にしないで。",
+            "kana": "トムはわるくないんだからきにしないで。",
+            "translation": "Don't worry, Tom. It's not your fault.",
+            "furigana": [
+                3,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3608763.mp3"
+        },
+        {
+            "kanji": "寒いからあったかいもの食べたい。",
+            "kana": "さむいからあったかいものたべたい。",
+            "translation": "It's cold, so I want to eat something hot.",
+            "furigana": [
+                0,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3635316.mp3"
+        },
+        {
+            "kanji": "何人に話した？",
+            "kana": "なんにんにはなした？",
+            "translation": "How many people have you told?",
+            "furigana": [
+                0,
+                2,
+                2,
+                2,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2912714.mp3"
+        },
+        {
+            "kanji": "どうしてそんなに疲れてるんですか？",
+            "kana": "どうしてそんなにつかれてるんですか？",
+            "translation": "Why are you so tired?",
+            "furigana": [
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3114644.mp3"
+        },
+        {
+            "kanji": "ぜひ来てください。",
+            "kana": "ぜひきてください。",
+            "translation": "Do come by all means.",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "214003.mp3"
+        },
+        {
+            "kanji": "トムって頑固だと思う。",
+            "kana": "トムってがんこだとおもう。",
+            "translation": "I think Tom is stubborn.",
+            "furigana": [
+                4,
+                3,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3591860.mp3"
+        },
+        {
+            "kanji": "私って動物にたとえると何だと思う？",
+            "kana": "わたしってどうぶつにたとえるとなんだとおもう？",
+            "translation": "Which animal would you compare me to?",
+            "furigana": [
+                0,
+                3,
+                5,
+                4,
+                15,
+                2,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "3162643.mp3"
+        },
+        {
+            "kanji": "どっちが正しいと思う？",
+            "kana": "どっちがただしいとおもう？",
+            "translation": "Which do you think is right?",
+            "furigana": [
+                4,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2250597.mp3"
+        },
+        {
+            "kanji": "トムが見える。",
+            "kana": "トムがみえる。",
+            "translation": "I see Tom.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2559793.mp3"
+        },
+        {
+            "kanji": "寝てるの？",
+            "kana": "ねてるの？",
+            "translation": "Are you asleep?",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2666712.mp3"
+        },
+        {
+            "kanji": "トムに振られちゃった。",
+            "kana": "トムにふられちゃった。",
+            "translation": "Tom left me.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3559196.mp3"
+        },
+        {
+            "kanji": "熱があるんです。",
+            "kana": "ねつがあるんです。",
+            "translation": "I have a fever.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "121901.mp3"
+        },
+        {
+            "kanji": "母は弁護士です。",
+            "kana": "はははべんごしです。",
+            "translation": "My mother is a lawyer.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                3
+            ],
+            "sound": "3050886.mp3"
+        },
+        {
+            "kanji": "この絵を描いたのは誰ですか？",
+            "kana": "このえをかいたのはだれですか？",
+            "translation": "Who painted this picture?",
+            "furigana": [
+                2,
+                1,
+                4,
+                1,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2416431.mp3"
+        },
+        {
+            "kanji": "トムに聞いた方がいいんじゃない。",
+            "kana": "トムにきいたほうがいいんじゃない。",
+            "translation": "Maybe you should ask Tom.",
+            "furigana": [
+                3,
+                1,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "4898355.mp3"
+        },
+        {
+            "kanji": "新入生の方ですか？",
+            "kana": "しんにゅうせいのかたですか？",
+            "translation": "Are you a new student?",
+            "furigana": [
+                0,
+                7,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1
+            ],
+            "sound": "231820.mp3"
+        },
+        {
+            "kanji": "あまりお腹が空いてないんです。",
+            "kana": "あまりおなかがすいてないんです。",
+            "translation": "I'm not very hungry.",
+            "furigana": [
+                4,
+                2,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2312276.mp3"
+        },
+        {
+            "kanji": "トムはもう起きました？",
+            "kana": "トムはもうおきました？",
+            "translation": "Is Tom awake yet?",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2570511.mp3"
+        },
+        {
+            "kanji": "さっきのメールどういう意味？",
+            "kana": "さっきのメールどういういみ？",
+            "translation": "What did you mean in that email you just sent?",
+            "furigana": [
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2313031.mp3"
+        },
+        {
+            "kanji": "お支払いはいかがなさいますか？",
+            "kana": "おしはらいはいかがなさいますか？",
+            "translation": "How would you like to pay?",
+            "furigana": [
+                1,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3486249.mp3"
+        },
+        {
+            "kanji": "そんな目で見つめないでよ。",
+            "kana": "そんなめでみつめないでよ。",
+            "translation": "Don't look at me that way.",
+            "furigana": [
+                3,
+                1,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2533669.mp3"
+        },
+        {
+            "kanji": "冷蔵庫の中の物は、何でも御自由に召し上がってください。",
+            "kana": "れいぞうこのなかのものは、なんでもごじゆうにめしあがってください。",
+            "translation": "Please feel free to eat anything in the fridge.",
+            "furigana": [
+                0,
+                5,
+                6,
+                2,
+                9,
+                2,
+                13,
+                2,
+                17,
+                1,
+                18,
+                3,
+                22,
+                1,
+                24,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "77636.mp3"
+        },
+        {
+            "kanji": "トムのことどれくらい好きなの？",
+            "kana": "トムのことどれくらいすきなの？",
+            "translation": "How much do you like Tom?",
+            "furigana": [
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3662129.mp3"
+        },
+        {
+            "kanji": "テレビつけてもいい？",
+            "kana": "テレビつけてもいい？",
+            "translation": "Can I turn on the TV?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "202043.mp3"
+        },
+        {
+            "kanji": "これ試着してもいいですか？",
+            "kana": "これしちゃくしてもいいですか？",
+            "translation": "May I try this on?",
+            "furigana": [
+                2,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2869738.mp3"
+        },
+        {
+            "kanji": "同窓会、何人くらい来ると思う？",
+            "kana": "どうそうかい、なんにんくらいくるとおもう？",
+            "translation": "How many people do you think will come to the class reunion?",
+            "furigana": [
+                0,
+                6,
+                7,
+                2,
+                9,
+                2,
+                14,
+                1,
+                17,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "3162634.mp3"
+        },
+        {
+            "kanji": "この箱には何が入ってるの？",
+            "kana": "このはこにはなにがはいってるの？",
+            "translation": "What's in this box?",
+            "furigana": [
+                2,
+                2,
+                6,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3484226.mp3"
+        },
+        {
+            "kanji": "バッグを開けて下さい。",
+            "kana": "バッグをあけてください。",
+            "translation": "Please open your bag.",
+            "furigana": [
+                4,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "197969.mp3"
+        },
+        {
+            "kanji": "集合場所はどこですか？",
+            "kana": "しゅうごうばしょはどこですか？",
+            "translation": "Where will we meet?",
+            "furigana": [
+                0,
+                5,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "148104.mp3"
+        },
+        {
+            "kanji": "本当？",
+            "kana": "ほんとう？",
+            "translation": "Really?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "4751.mp3"
+        },
+        {
+            "kanji": "お疲れ様。",
+            "kana": "おつかれさま。",
+            "translation": "Nice work!",
+            "furigana": [
+                1,
+                2,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "13549381.mp3"
+        },
+        {
+            "kanji": "トムは泳いだ。",
+            "kana": "トムはおよいだ。",
+            "translation": "Tom swam.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4344694.mp3"
+        },
+        {
+            "kanji": "今回だけは許してあげる。",
+            "kana": "こんかいだけはゆるしてあげる。",
+            "translation": "I'll forgive you just this once.",
+            "furigana": [
+                0,
+                4,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3649764.mp3"
+        },
+        {
+            "kanji": "何か隠してるでしょ。",
+            "kana": "なにかかくしてるでしょ。",
+            "translation": "You must be hiding something.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2460894.mp3"
+        },
+        {
+            "kanji": "これ誰の車ですか？",
+            "kana": "これだれのくるまですか？",
+            "translation": "Whose car is this?",
+            "furigana": [
+                2,
+                2,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "4769894.mp3"
+        },
+        {
+            "kanji": "禁煙席はありますか。",
+            "kana": "きんえんせきはありますか。",
+            "translation": "Do you have a non-smoking section?",
+            "furigana": [
+                0,
+                4,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "179954.mp3"
+        },
+        {
+            "kanji": "風邪引くから早く服着なさい。",
+            "kana": "かぜひくからはやくふくきなさい。",
+            "translation": "Put some clothes on, you'll catch a cold.",
+            "furigana": [
+                0,
+                2,
+                2,
+                1,
+                6,
+                2,
+                9,
+                2,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "3629105.mp3"
+        },
+        {
+            "kanji": "トムって誰？",
+            "kana": "トムってだれ？",
+            "translation": "Who's Tom?",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2733628.mp3"
+        },
+        {
+            "kanji": "市役所前のパン屋さんが値上げしてた。",
+            "kana": "しやくしょまえのパンやさんがねあげしてた。",
+            "translation": "The baker in front of City Hall increased his prices.",
+            "furigana": [
+                0,
+                7,
+                10,
+                1,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                4,
+                1,
+                2
+            ],
+            "sound": "3452001.mp3"
+        },
+        {
+            "kanji": "今日の夜予定ある？",
+            "kana": "きょうのよるよていある？",
+            "translation": "Do you have plans tonight?",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                6,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "3452060.mp3"
+        },
+        {
+            "kanji": "顔赤いよ。",
+            "kana": "かおあかいよ。",
+            "translation": "You're flushed.",
+            "furigana": [
+                0,
+                2,
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3373644.mp3"
+        },
+        {
+            "kanji": "トムは多分怒っている。",
+            "kana": "トムはたぶんおこっている。",
+            "translation": "Tom is probably angry.",
+            "furigana": [
+                3,
+                3,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2626314.mp3"
+        },
+        {
+            "kanji": "ここ座っていいですか？",
+            "kana": "ここすわっていいですか？",
+            "translation": "May I sit here?",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4842955.mp3"
+        },
+        {
+            "kanji": "ごめん、質問の意味が分からないんだけど。",
+            "kana": "ごめん、しつもんのいみがわからないんだけど。",
+            "translation": "Sorry, I do not understand the meaning of the question.",
+            "furigana": [
+                4,
+                4,
+                9,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "3416319.mp3"
+        },
+        {
+            "kanji": "切符を見せてください。",
+            "kana": "きっぷをみせてください。",
+            "translation": "Please show your ticket.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "142089.mp3"
+        },
+        {
+            "kanji": "トムは求職中だ。",
+            "kana": "トムはきゅうしょくちゅうだ。",
+            "translation": "Tom is looking for work.",
+            "furigana": [
+                3,
+                6,
+                9,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2518672.mp3"
+        },
+        {
+            "kanji": "コートを脱いでください。",
+            "kana": "コートをぬいでください。",
+            "translation": "Take off your coat.",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "224955.mp3"
+        },
+        {
+            "kanji": "誰か海まで散歩に行かない？",
+            "kana": "だれかうみまでさんぽにいかない？",
+            "translation": "Anybody want to take a walk to the sea?",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                7,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "2450319.mp3"
+        },
+        {
+            "kanji": "母は高校の先生です。",
+            "kana": "はははこうこうのせんせいです。",
+            "translation": "My mother is a high school teacher.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "3050904.mp3"
+        },
+        {
+            "kanji": "がっかりさせてごめんね。",
+            "kana": "がっかりさせてごめんね。",
+            "translation": "I'm sorry I let you down.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "3024841.mp3"
+        },
+        {
+            "kanji": "その言葉は初めて聞きました。",
+            "kana": "そのことばははじめてききました。",
+            "translation": "This is the first time I've heard that word.",
+            "furigana": [
+                2,
+                3,
+                6,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2492447.mp3"
+        },
+        {
+            "kanji": "カメラをなくしました。",
+            "kana": "カメラをなくしました。",
+            "translation": "I lost my camera.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2864454.mp3"
+        },
+        {
+            "kanji": "母がいつ戻るかは分かりません。",
+            "kana": "ははがいつもどるかはわかりません。",
+            "translation": "I don't know when my mother will be back.",
+            "furigana": [
+                0,
+                2,
+                5,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "83178.mp3"
+        },
+        {
+            "kanji": "わざとじゃないんです。",
+            "kana": "わざとじゃないんです。",
+            "translation": "I didn't do it on purpose.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2522589.mp3"
+        },
+        {
+            "kanji": "みんな眠くないの？",
+            "kana": "みんなねむくないの？",
+            "translation": "Aren't you guys sleepy?",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3241580.mp3"
+        },
+        {
+            "kanji": "出身はオーストラリアです。",
+            "kana": "しゅっしんはオーストラリアです。",
+            "translation": "I'm from Australia.",
+            "furigana": [
+                0,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2394441.mp3"
+        },
+        {
+            "kanji": "トムは階段から落ちた。",
+            "kana": "トムはかいだんからおちた。",
+            "translation": "Tom fell down the stairs.",
+            "furigana": [
+                3,
+                4,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2638118.mp3"
+        },
+        {
+            "kanji": "一箱いくらですか？",
+            "kana": "ひとはこいくらですか？",
+            "translation": "How much is it per box?",
+            "furigana": [
+                0,
+                2,
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2416577.mp3"
+        },
+        {
+            "kanji": "この時計いくらですか？",
+            "kana": "このとけいいくらですか？",
+            "translation": "How much is this watch?",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2852688.mp3"
+        },
+        {
+            "kanji": "明日が待ち遠しいよ。",
+            "kana": "あしたがまちどおしいよ。",
+            "translation": "I'm looking forward to tomorrow.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2947270.mp3"
+        },
+        {
+            "kanji": "そっちは今何時？",
+            "kana": "そっちはいまなんじ？",
+            "translation": "What time is it there?",
+            "furigana": [
+                4,
+                2,
+                6,
+                2,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3050857.mp3"
+        },
+        {
+            "kanji": "これほんとにスパゲッティ？",
+            "kana": "これほんとにスパゲッティ？",
+            "translation": "Is this really spaghetti?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "4300739.mp3"
+        },
+        {
+            "kanji": "カリフォルニアは果物で有名です。",
+            "kana": "カリフォルニアはくだものでゆうめいです。",
+            "translation": "California is famous for its fruit.",
+            "furigana": [
+                8,
+                4,
+                13,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "226168.mp3"
+        },
+        {
+            "kanji": "トムが本当にそんなこと言ったの？",
+            "kana": "トムがほんとうにそんなこといったの？",
+            "translation": "Did Tom really say that?",
+            "furigana": [
+                3,
+                4,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2739762.mp3"
+        },
+        {
+            "kanji": "弟はボストンに住んでいます。",
+            "kana": "おとうとはボストンにすんでいます。",
+            "translation": "My brother is living in Boston.",
+            "furigana": [
+                0,
+                4,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "4591660.mp3"
+        },
+        {
+            "kanji": "支払いにカードは使えますか？",
+            "kana": "しはらいにカードはつかえますか？",
+            "translation": "Do you take plastic?",
+            "furigana": [
+                0,
+                3,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2955244.mp3"
+        },
+        {
+            "kanji": "トムが笑ってる。",
+            "kana": "トムがわらってる。",
+            "translation": "Tom's laughing.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2622243.mp3"
+        },
+        {
+            "kanji": "大学時代の専攻は何でしたか？",
+            "kana": "だいがくじだいのせんこうはなんでしたか？",
+            "translation": "What was your major in college?",
+            "furigana": [
+                0,
+                4,
+                4,
+                3,
+                8,
+                4,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "3050901.mp3"
+        },
+        {
+            "kanji": "駅まで一緒に行かない？",
+            "kana": "えきまでいっしょにいかない？",
+            "translation": "Do you want to go to the station with me?",
+            "furigana": [
+                0,
+                2,
+                4,
+                4,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "3623504.mp3"
+        },
+        {
+            "kanji": "ほんの少しください。",
+            "kana": "ほんのすこしください。",
+            "translation": "Give me just a little.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "195867.mp3"
+        },
+        {
+            "kanji": "フランス語の宿題手伝ってくれない？",
+            "kana": "フランスごのしゅくだいてつだってくれない？",
+            "translation": "Will you help me with my French homework?",
+            "furigana": [
+                4,
+                1,
+                6,
+                5,
+                11,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "3496318.mp3"
+        },
+        {
+            "kanji": "僕はトムとは違う。",
+            "kana": "ぼくはトムとはちがう。",
+            "translation": "I'm not like Tom.",
+            "furigana": [
+                0,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3366875.mp3"
+        },
+        {
+            "kanji": "食中毒になったことはありますか？",
+            "kana": "しょくちゅうどくになったことはありますか？",
+            "translation": "Have you ever had food poisoning?",
+            "furigana": [
+                0,
+                8
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "2780837.mp3"
+        },
+        {
+            "kanji": "チョコありがとう。おいしかったよ。",
+            "kana": "チョコありがとう。おいしかったよ。",
+            "translation": "Thanks for the chocolate. It was delicious.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2744615.mp3"
+        },
+        {
+            "kanji": "終電は何時ですか？",
+            "kana": "しゅうでんはなんじですか？",
+            "translation": "What time is the last train?",
+            "furigana": [
+                0,
+                5,
+                6,
+                2,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2869237.mp3"
+        },
+        {
+            "kanji": "今夜トムに会った。",
+            "kana": "こんやトムにあった。",
+            "translation": "I saw Tom tonight.",
+            "furigana": [
+                0,
+                3,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2125719.mp3"
+        },
+        {
+            "kanji": "オランダ大使館はどこですか？",
+            "kana": "オランダたいしかんはどこですか？",
+            "translation": "Where is the Dutch embassy?",
+            "furigana": [
+                4,
+                5
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "2418677.mp3"
+        },
+        {
+            "kanji": "この曲聞いたことある？",
+            "kana": "このきょくきいたことある？",
+            "translation": "Have you listened to this song?",
+            "furigana": [
+                2,
+                3,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3562101.mp3"
+        },
+        {
+            "kanji": "一緒に行かない？",
+            "kana": "いっしょにいかない？",
+            "translation": "Won't you come with us?",
+            "furigana": [
+                0,
+                4,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "190532.mp3"
+        },
+        {
+            "kanji": "すぐ戻ります。",
+            "kana": "すぐもどります。",
+            "translation": "I'll be back soon.",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "214752.mp3"
+        },
+        {
+            "kanji": "今日の空は雲に覆われている。",
+            "kana": "きょうのそらはくもにおおわれている。",
+            "translation": "The sky is covered with clouds today.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "4897800.mp3"
+        },
+        {
+            "kanji": "またお会いできて嬉しいです。",
+            "kana": "またおあいできてうれしいです。",
+            "translation": "I'm glad to see you again.",
+            "furigana": [
+                3,
+                1,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2962367.mp3"
+        },
+        {
+            "kanji": "トムはデブった。",
+            "kana": "トムはデブった。",
+            "translation": "Tom got fatter.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2638146.mp3"
+        },
+        {
+            "kanji": "トムは行った？",
+            "kana": "トムはいった？",
+            "translation": "Did Tom go?",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2562502.mp3"
+        },
+        {
+            "kanji": "でたらめ。",
+            "kana": "でたらめ。",
+            "translation": "Random.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "13563726.mp3"
+        },
+        {
+            "kanji": "コーヒーはお好きですか？",
+            "kana": "コーヒーはおすきですか？",
+            "translation": "Do you like coffee?",
+            "furigana": [
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2739786.mp3"
+        },
+        {
+            "kanji": "なんでそんなにトムのこと嫌いなの？",
+            "kana": "なんでそんなにトムのこときらいなの？",
+            "translation": "Why do you hate Tom so much?",
+            "furigana": [
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3716096.mp3"
+        },
+        {
+            "kanji": "遅刻して申し訳ありません。",
+            "kana": "ちこくしてもうしわけありません。",
+            "translation": "I apologize for being late.",
+            "furigana": [
+                0,
+                3,
+                5,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "126656.mp3"
+        },
+        {
+            "kanji": "どれくらいお腹すいてる？",
+            "kana": "どれくらいおなかすいてる？",
+            "translation": "How hungry are you?",
+            "furigana": [
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3551585.mp3"
+        },
+        {
+            "kanji": "トムは面食いだ。",
+            "kana": "トムはめんくいだ。",
+            "translation": "Tom is only interested in good-looking girls.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2313015.mp3"
+        },
+        {
+            "kanji": "お金を盗まれました。",
+            "kana": "おかねをぬすまれました。",
+            "translation": "My money was stolen.",
+            "furigana": [
+                1,
+                2,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2834135.mp3"
+        },
+        {
+            "kanji": "明日は何時に迎えに行けばいい？",
+            "kana": "あしたはなんじにむかえにいけばいい？",
+            "translation": "When should I pick you up tomorrow?",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                8,
+                2,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "2960834.mp3"
+        },
+        {
+            "kanji": "トムはのんきだ。",
+            "kana": "トムはのんきだ。",
+            "translation": "Tom is easygoing.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2242480.mp3"
+        },
+        {
+            "kanji": "お金はどこ？",
+            "kana": "おかねはどこ？",
+            "translation": "Where's the money?",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "13669575.mp3"
+        },
+        {
+            "kanji": "お茶をもらえますか。",
+            "kana": "おちゃをもらえますか。",
+            "translation": "Can I have some tea?",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "174250.mp3"
+        },
+        {
+            "kanji": "その自信はどこから来るの？",
+            "kana": "そのじしんはどこからくるの？",
+            "translation": "Where does all that confidence come from?",
+            "furigana": [
+                2,
+                3,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3589778.mp3"
+        },
+        {
+            "kanji": "質問に質問で返すのやめてくんない？",
+            "kana": "しつもんにしつもんでかえすのやめてくんない？",
+            "translation": "Will you stop answering my questions with a question?",
+            "furigana": [
+                0,
+                4,
+                5,
+                4,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "3898146.mp3"
+        },
+        {
+            "kanji": "日本にも似たような諺はありますか？",
+            "kana": "にっぽんにもにたようなことわざはありますか？",
+            "translation": "Is there a similar proverb in Japan?",
+            "furigana": [
+                0,
+                4,
+                6,
+                1,
+                11,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3044964.mp3"
+        },
+        {
+            "kanji": "トムには絶対内緒だよ。",
+            "kana": "トムにはぜったいないしょだよ。",
+            "translation": "No matter what, don't tell Tom.",
+            "furigana": [
+                4,
+                4,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "3596854.mp3"
+        },
+        {
+            "kanji": "車を停めなさい！",
+            "kana": "くるまをとめなさい！",
+            "translation": "Stop the car!",
+            "furigana": [
+                0,
+                3,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "4897850.mp3"
+        },
+        {
+            "kanji": "今日はあっさりしたものが食べたい。",
+            "kana": "きょうはあっさりしたものがたべたい。",
+            "translation": "Today I want to eat something light.",
+            "furigana": [
+                0,
+                3,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3635240.mp3"
+        },
+        {
+            "kanji": "そういえば、こないだなくしたって言ってた傘、見つかった？",
+            "kana": "そういえば、こないだなくしたっていってたかさ、みつかった？",
+            "translation": "By the way, did you find the umbrella you said you'd lost the other day?",
+            "furigana": [
+                16,
+                1,
+                20,
+                2,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3616405.mp3"
+        },
+        {
+            "kanji": "こんな変な法律誰のためにあるんだろう。",
+            "kana": "こんなへんなほうりつだれのためにあるんだろう。",
+            "translation": "I wonder who this bizarre law is for.",
+            "furigana": [
+                3,
+                2,
+                6,
+                4,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "3780819.mp3"
+        },
+        {
+            "kanji": "今日は早く寝たいな。",
+            "kana": "きょうははやくねたいな。",
+            "translation": "I want to go to bed early tonight.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3709600.mp3"
+        },
+        {
+            "kanji": "トムは病気なの？",
+            "kana": "トムはびょうきなの？",
+            "translation": "Is Tom ill?",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3507424.mp3"
+        },
+        {
+            "kanji": "やれるだけのことはやりました。",
+            "kana": "やれるだけのことはやりました。",
+            "translation": "I did all I could.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2690758.mp3"
+        },
+        {
+            "kanji": "トムは車に乗った。",
+            "kana": "トムはくるまにのった。",
+            "translation": "Tom got in the car.",
+            "furigana": [
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2126252.mp3"
+        },
+        {
+            "kanji": "ドアを開けてください。",
+            "kana": "ドアをあけてください。",
+            "translation": "Please open the door.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "201797.mp3"
+        },
+        {
+            "kanji": "お茶もう1杯いかがですか？",
+            "kana": "おちゃもういっぱいいかがですか？",
+            "translation": "Will you have another cup of tea?",
+            "furigana": [
+                1,
+                2,
+                5,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3363972.mp3"
+        },
+        {
+            "kanji": "しばらくの間座っていて下さい。",
+            "kana": "しばらくのあいだすわっていてください。",
+            "translation": "Please remain seated for a few minutes.",
+            "furigana": [
+                5,
+                3,
+                8,
+                2,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "236963.mp3"
+        },
+        {
+            "kanji": "旅行は楽しかったですか。",
+            "kana": "りょこうはたのしかったですか。",
+            "translation": "Did you enjoy your trip?",
+            "furigana": [
+                0,
+                4,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "78157.mp3"
+        },
+        {
+            "kanji": "この物語は実話に基づいています。",
+            "kana": "このものがたりはじつわにもとづいています。",
+            "translation": "This story is based on a true story.",
+            "furigana": [
+                2,
+                5,
+                8,
+                3,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2994065.mp3"
+        },
+        {
+            "kanji": "こんな余計な機能なんでつけたんだろう。",
+            "kana": "こんなよけいなきのうなんでつけたんだろう。",
+            "translation": "What did they add this needless function for?",
+            "furigana": [
+                3,
+                3,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "217306.mp3"
+        },
+        {
+            "kanji": "フランス語で答えてください。",
+            "kana": "フランスごでこたえてください。",
+            "translation": "Please answer in French.",
+            "furigana": [
+                4,
+                1,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2596672.mp3"
+        },
+        {
+            "kanji": "なんで笑ってるの？",
+            "kana": "なんでわらってるの？",
+            "translation": "Why are you laughing?",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3105602.mp3"
+        },
+        {
+            "kanji": "明日9時に電話して。",
+            "kana": "あしたくじにでんわして。",
+            "translation": "Call me at 9:00 tomorrow.",
+            "furigana": [
+                0,
+                3,
+                3,
+                1,
+                4,
+                1,
+                6,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "2790461.mp3"
+        },
+        {
+            "kanji": "どういう意味？",
+            "kana": "どういういみ？",
+            "translation": "What do you mean?",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2492791.mp3"
+        },
+        {
+            "kanji": "春巻きってなんで春巻きっていうか知ってる？",
+            "kana": "はるまきってなんではるまきっていうかしってる？",
+            "translation": "Do you know why spring rolls are called spring rolls?",
+            "furigana": [
+                0,
+                3,
+                9,
+                3,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "3702226.mp3"
+        },
+        {
+            "kanji": "この歌知ってる？",
+            "kana": "このうたしってる？",
+            "translation": "Do you know this song?",
+            "furigana": [
+                2,
+                2,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3850805.mp3"
+        },
+        {
+            "kanji": "許して下さい。",
+            "kana": "ゆるしてください。",
+            "translation": "Please forgive me.",
+            "furigana": [
+                0,
+                2,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "182164.mp3"
+        },
+        {
+            "kanji": "トムは会議を欠席した。",
+            "kana": "トムはかいぎをけっせきした。",
+            "translation": "Tom wasn't at the meeting.",
+            "furigana": [
+                3,
+                3,
+                7,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "2702376.mp3"
+        },
+        {
+            "kanji": "長い一週間だったな。",
+            "kana": "ながいいっしゅうかんだったな。",
+            "translation": "It's been a long week.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                5,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "3006685.mp3"
+        },
+        {
+            "kanji": "マスターカードは使えますか？",
+            "kana": "マスターカードはつかえますか？",
+            "translation": "Can I use Mastercard?",
+            "furigana": [
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4769874.mp3"
+        },
+        {
+            "kanji": "こんなきれいな夕陽見たことないよ。",
+            "kana": "こんなきれいなゆうひみたことないよ。",
+            "translation": "I've never seen such a beautiful sunset.",
+            "furigana": [
+                7,
+                3,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3471744.mp3"
+        },
+        {
+            "kanji": "また後ほどお電話いたします。",
+            "kana": "またのちほどおでんわいたします。",
+            "translation": "I'll call again later.",
+            "furigana": [
+                2,
+                2,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3024539.mp3"
+        },
+        {
+            "kanji": "靴どこで脱いだ？",
+            "kana": "くつどこでぬいだ？",
+            "translation": "Where did you take your shoes off?",
+            "furigana": [
+                0,
+                2,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2858325.mp3"
+        },
+        {
+            "kanji": "コメントありがとうございます。",
+            "kana": "コメントありがとうございます。",
+            "translation": "Thanks for the comment.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "4438542.mp3"
+        },
+        {
+            "kanji": "トムが正解。",
+            "kana": "トムがせいかい。",
+            "translation": "Tom's correct.",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2622377.mp3"
+        },
+        {
+            "kanji": "トムの住所知ってる？",
+            "kana": "トムのじゅうしょしってる？",
+            "translation": "Do you have Tom's address?",
+            "furigana": [
+                3,
+                5,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2740698.mp3"
+        },
+        {
+            "kanji": "トムは責任感が強い。",
+            "kana": "トムはせきにんかんがつよい。",
+            "translation": "Tom has a strong sense of responsibility.",
+            "furigana": [
+                3,
+                4,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2944656.mp3"
+        },
+        {
+            "kanji": "カナダ人の友達は何人いますか？",
+            "kana": "カナダじんのともだちはなんにんいますか？",
+            "translation": "How many Canadian friends do you have?",
+            "furigana": [
+                3,
+                2,
+                6,
+                4,
+                11,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "2774304.mp3"
+        },
+        {
+            "kanji": "このケーキ、誰が作ったんですか？",
+            "kana": "このケーキ、だれがつくったんですか？",
+            "translation": "Who made this cake?",
+            "furigana": [
+                6,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "137045.mp3"
+        },
+        {
+            "kanji": "トムは選択した。",
+            "kana": "トムはせんたくした。",
+            "translation": "Tom made a choice.",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2242330.mp3"
+        },
+        {
+            "kanji": "今年の10月で30歳になります。",
+            "kana": "ことしのじゅうがつでさんじゅっさいになります。",
+            "translation": "I'll be 30 this October.",
+            "furigana": [
+                0,
+                3,
+                4,
+                5,
+                10,
+                5,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                2,
+                1
+            ],
+            "sound": "4257396.mp3"
+        },
+        {
+            "kanji": "なんか急に泣きたくなってきた。",
+            "kana": "なんかきゅうになきたくなってきた。",
+            "translation": "All of a sudden, I feel like crying.",
+            "furigana": [
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3367334.mp3"
+        },
+        {
+            "kanji": "手伝おうか？",
+            "kana": "てつだおうか？",
+            "translation": "Can I help?",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3878008.mp3"
+        },
+        {
+            "kanji": "トムは屋根の上にいる。",
+            "kana": "トムはやねのうえにいる。",
+            "translation": "Tom is on the roof.",
+            "furigana": [
+                3,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2500712.mp3"
+        },
+        {
+            "kanji": "このりんご食べてもいい？",
+            "kana": "このりんごたべてもいい？",
+            "translation": "May I eat this apple?",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2988215.mp3"
+        },
+        {
+            "kanji": "力になれてよかったです。",
+            "kana": "ちからになれてよかったです。",
+            "translation": "I'm glad I could help.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3700072.mp3"
+        },
+        {
+            "kanji": "昨日のパーティーなんで来なかったの？",
+            "kana": "きのうのパーティーなんでこなかったの？",
+            "translation": "Why didn't you come to yesterday's party?",
+            "furigana": [
+                0,
+                3,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3255247.mp3"
+        },
+        {
+            "kanji": "帽子を脱いで下さい。",
+            "kana": "ぼうしをぬいでください。",
+            "translation": "Please take off your hat.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "82593.mp3"
+        },
+        {
+            "kanji": "今日は泣かないつもりだったのに。",
+            "kana": "きょうはなかないつもりだったのに。",
+            "translation": "I tried not to cry today.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3718415.mp3"
+        },
+        {
+            "kanji": "その言葉は初耳です。",
+            "kana": "そのことばははつみみです。",
+            "translation": "This is the first time I've heard that word.",
+            "furigana": [
+                2,
+                3,
+                6,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "2492445.mp3"
+        },
+        {
+            "kanji": "お茶をもう少し下さい。",
+            "kana": "おちゃをもうすこしください。",
+            "translation": "Give me some more tea.",
+            "furigana": [
+                1,
+                2,
+                6,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "226855.mp3"
+        },
+        {
+            "kanji": "答えたくなかったら答えなくていいからね。",
+            "kana": "こたえたくなかったらこたえなくていいからね。",
+            "translation": "You don't have to answer if you don't want to.",
+            "furigana": [
+                0,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2619723.mp3"
+        },
+        {
+            "kanji": "独身ですか。",
+            "kana": "どくしんですか。",
+            "translation": "Are you single?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "123421.mp3"
+        },
+        {
+            "kanji": "トムと話したことある？",
+            "kana": "トムとはなしたことある？",
+            "translation": "Have you ever spoken to Tom?",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3561855.mp3"
+        },
+        {
+            "kanji": "暇だったら、手伝ってください。",
+            "kana": "ひまだったら、てつだってください。",
+            "translation": "If you are free, give me a hand.",
+            "furigana": [
+                0,
+                2,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "6018.mp3"
+        },
+        {
+            "kanji": "ごめん、軽い冗談のつもりだったんだけど。",
+            "kana": "ごめん、かるいじょうだんのつもりだったんだけど。",
+            "translation": "Sorry, I only meant it as a joke.",
+            "furigana": [
+                4,
+                2,
+                7,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3718404.mp3"
+        },
+        {
+            "kanji": "今日のトム、なんか変だよ。",
+            "kana": "きょうのトム、なんかへんだよ。",
+            "translation": "There's something strange about Tom today.",
+            "furigana": [
+                0,
+                3,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2760647.mp3"
+        },
+        {
+            "kanji": "学校はどうですか？",
+            "kana": "がっこうはどうですか？",
+            "translation": "How's school?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "4751207.mp3"
+        },
+        {
+            "kanji": "私も同じこと考えてた。",
+            "kana": "わたしもおなじことかんがえてた。",
+            "translation": "I thought so, too.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                9,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2835421.mp3"
+        },
+        {
+            "kanji": "何かアレルギーはありますか？",
+            "kana": "なにかアレルギーはありますか？",
+            "translation": "Do you have any allergies?",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2838403.mp3"
+        },
+        {
+            "kanji": "姉は毎日ジョギングをしています。",
+            "kana": "あねはまいにちジョギングをしています。",
+            "translation": "My older sister goes jogging every day.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3451765.mp3"
+        },
+        {
+            "kanji": "トムはテレビを見てる。",
+            "kana": "トムはテレビをみてる。",
+            "translation": "Tom watches TV.",
+            "furigana": [
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2628415.mp3"
+        },
+        {
+            "kanji": "黒いのが私のです。",
+            "kana": "くろいのがわたしのです。",
+            "translation": "The black one is mine.",
+            "furigana": [
+                0,
+                2,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3555812.mp3"
+        },
+        {
+            "kanji": "このセーターどう思う？",
+            "kana": "このセーターどうおもう？",
+            "translation": "What do you think of this sweater?",
+            "furigana": [
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3715087.mp3"
+        },
+        {
+            "kanji": "これ触ってみて。めっちゃ柔らかいよ。",
+            "kana": "これさわってみて。めっちゃやわらかいよ。",
+            "translation": "Feel this. It's really soft.",
+            "furigana": [
+                2,
+                2,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3718388.mp3"
+        },
+        {
+            "kanji": "わが家は4人家族です。",
+            "kana": "わがやはよにんかぞくです。",
+            "translation": "There are four people in my family.",
+            "furigana": [
+                2,
+                1,
+                4,
+                1,
+                5,
+                2,
+                7,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "3374804.mp3"
+        },
+        {
+            "kanji": "実は元彼とより戻すことになったんだ。",
+            "kana": "じつはもとかれとよりもどすことになったんだ。",
+            "translation": "As a matter of fact, I've gotten back with my old boyfriend.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                5,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "3052914.mp3"
+        },
+        {
+            "kanji": "どうしてそんなに優しくしてくれるの？",
+            "kana": "どうしてそんなにやさしくしてくれるの？",
+            "translation": "Why are you this nice to me?",
+            "furigana": [
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2780276.mp3"
+        },
+        {
+            "kanji": "まだお昼食べてないの？",
+            "kana": "まだおひるたべてないの？",
+            "translation": "Haven't you eaten lunch?",
+            "furigana": [
+                3,
+                2,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3593137.mp3"
+        },
+        {
+            "kanji": "トムって変な笑い方するよね。",
+            "kana": "トムってへんなわらいかたするよね。",
+            "translation": "Tom has a funny way of laughing, doesn't he?",
+            "furigana": [
+                4,
+                2,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2982978.mp3"
+        },
+        {
+            "kanji": "どこ行くの？",
+            "kana": "どこいくの？",
+            "translation": "Where're you going?",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3595435.mp3"
+        },
+        {
+            "kanji": "キリンってなんて鳴くんだろう？",
+            "kana": "キリンってなんてなくんだろう？",
+            "translation": "What noise do giraffes make?",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2852943.mp3"
+        },
+        {
+            "kanji": "何か異議がありますか？",
+            "kana": "なにかいぎがありますか？",
+            "translation": "Do you have any objection?",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "4898205.mp3"
+        },
+        {
+            "kanji": "コート脱いだら？",
+            "kana": "コートぬいだら？",
+            "translation": "Why don't you take off your coat?",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3798942.mp3"
+        },
+        {
+            "kanji": "処方箋をお出しします。",
+            "kana": "しょほうせんをおだしします。",
+            "translation": "I'll give you a prescription.",
+            "furigana": [
+                0,
+                6,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1
+            ],
+            "sound": "2270834.mp3"
+        },
+        {
+            "kanji": "今どこにいるんですか？",
+            "kana": "いまどこにいるんですか？",
+            "translation": "Where are you now?",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4865666.mp3"
+        },
+        {
+            "kanji": "私大きくなったらトムと結婚するんだ。",
+            "kana": "わたしおおきくなったらトムとけっこんするんだ。",
+            "translation": "When I grow up, I'm going to get married to Tom.",
+            "furigana": [
+                0,
+                3,
+                3,
+                2,
+                14,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "3709584.mp3"
+        },
+        {
+            "kanji": "これいくらですか？",
+            "kana": "これいくらですか？",
+            "translation": "How much is this?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2852684.mp3"
+        },
+        {
+            "kanji": "お金ないのにまた本買っちゃった。",
+            "kana": "おかねないのにまたほんかっちゃった。",
+            "translation": "Even though I don't have any money, I bought a book again.",
+            "furigana": [
+                1,
+                2,
+                9,
+                2,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3169741.mp3"
+        },
+        {
+            "kanji": "サンタさんって本当はお父さんなんでしょ？",
+            "kana": "サンタさんってほんとうはおとうさんなんでしょ？",
+            "translation": "Santa Claus is really just dad, right?",
+            "furigana": [
+                7,
+                4,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3689579.mp3"
+        },
+        {
+            "kanji": "電気消してもいい？",
+            "kana": "でんきけしてもいい？",
+            "translation": "May I turn off the light?",
+            "furigana": [
+                0,
+                3,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3589622.mp3"
+        },
+        {
+            "kanji": "トムはとても背が高い。",
+            "kana": "トムはとてもせがたかい。",
+            "translation": "Tom is very tall.",
+            "furigana": [
+                6,
+                1,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2706773.mp3"
+        },
+        {
+            "kanji": "娘は6月に結婚します。",
+            "kana": "むすめはろくがつにけっこんします。",
+            "translation": "My daughter will get married in June.",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                9,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "3050893.mp3"
+        },
+        {
+            "kanji": "今日のことを忘れよう。",
+            "kana": "きょうのことをわすれよう。",
+            "translation": "Let's forget about what happened today.",
+            "furigana": [
+                0,
+                3,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "8897256.mp3"
+        },
+        {
+            "kanji": "私は後から行きます。",
+            "kana": "わたしはあとからいきます。",
+            "translation": "I'll join you later.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "157194.mp3"
+        },
+        {
+            "kanji": "トム、大丈夫？",
+            "kana": "トム、だいじょうぶ？",
+            "translation": "Are you OK, Tom?",
+            "furigana": [
+                3,
+                6
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "2739688.mp3"
+        },
+        {
+            "kanji": "トムが落っこちた。",
+            "kana": "トムがおっこちた。",
+            "translation": "Tom fell down.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2638126.mp3"
+        },
+        {
+            "kanji": "トムは酔っていた。",
+            "kana": "トムはよっていた。",
+            "translation": "Tom was drunk.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2700205.mp3"
+        },
+        {
+            "kanji": "お仕事は何をなさってるんですか？",
+            "kana": "おしごとはなにをなさってるんですか？",
+            "translation": "What's your job?",
+            "furigana": [
+                1,
+                3,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3190694.mp3"
+        },
+        {
+            "kanji": "トムは本を読んでいる。",
+            "kana": "トムはほんをよんでいる。",
+            "translation": "Tom is reading.",
+            "furigana": [
+                3,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2628983.mp3"
+        },
+        {
+            "kanji": "トムとの間に何かあったの？",
+            "kana": "トムとのあいだになにかあったの？",
+            "translation": "Did something happen between you and Tom?",
+            "furigana": [
+                4,
+                3,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2456853.mp3"
+        },
+        {
+            "kanji": "彼女は先生です。",
+            "kana": "かのじょはせんせいです。",
+            "translation": "She is a teacher.",
+            "furigana": [
+                0,
+                4,
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "88248.mp3"
+        },
+        {
+            "kanji": "何も思い出せません。",
+            "kana": "なにもおもいだせません。",
+            "translation": "I don't remember a thing.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2813846.mp3"
+        },
+        {
+            "kanji": "トムくんは7才、メアリーさんは11才です。トムくんがメアリーさんより年上になるのは何年後でしょうか。",
+            "kana": "トムくんはななさい、メアリーさんはじゅういっさいです。トムくんがメアリーさんよりとしうえになるのはなんねんごでしょうか。",
+            "translation": "Tom is seven, Mary is eleven. How many years will it be until Tom becomes older than Mary?",
+            "furigana": [
+                5,
+                4,
+                17,
+                7,
+                40,
+                4,
+                49,
+                2,
+                51,
+                2,
+                53,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "2930039.mp3"
+        },
+        {
+            "kanji": "外は雪だよ。",
+            "kana": "そとはゆきだよ。",
+            "translation": "It's snowing outside.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3029987.mp3"
+        },
+        {
+            "kanji": "好きな歌手とかいる？",
+            "kana": "すきなかしゅとかいる？",
+            "translation": "Do you have a favorite singer?",
+            "furigana": [
+                0,
+                1,
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3589999.mp3"
+        },
+        {
+            "kanji": "旅行はお好きですか？",
+            "kana": "りょこうはおすきですか？",
+            "translation": "Do you like trips?",
+            "furigana": [
+                0,
+                4,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3452042.mp3"
+        },
+        {
+            "kanji": "それはこっちの台詞だよ。",
+            "kana": "それはこっちのせりふだよ。",
+            "translation": "That's MY line!",
+            "furigana": [
+                7,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2503987.mp3"
+        },
+        {
+            "kanji": "トムは目を閉じた。",
+            "kana": "トムはめをとじた。",
+            "translation": "Tom shut his eyes.",
+            "furigana": [
+                3,
+                1,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2733756.mp3"
+        },
+        {
+            "kanji": "トムは男前だ。",
+            "kana": "トムはおとこまえだ。",
+            "translation": "Tom is handsome.",
+            "furigana": [
+                3,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2060614.mp3"
+        },
+        {
+            "kanji": "本当にありがとう。",
+            "kana": "ほんとうにありがとう。",
+            "translation": "Many thanks.",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "81557.mp3"
+        },
+        {
+            "kanji": "いつからフランス語勉強してるの？",
+            "kana": "いつからフランスごべんきょうしてるの？",
+            "translation": "When did you start studying French?",
+            "furigana": [
+                8,
+                1,
+                9,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3498454.mp3"
+        },
+        {
+            "kanji": "まだ雨降ってる？",
+            "kana": "まだあめふってる？",
+            "translation": "Is it still raining?",
+            "furigana": [
+                2,
+                2,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3125445.mp3"
+        },
+        {
+            "kanji": "一晩泊めてもらいたいんだけど。",
+            "kana": "ひとばんとめてもらいたいんだけど。",
+            "translation": "I'd like to stay for one night.",
+            "furigana": [
+                0,
+                4,
+                4,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "5064.mp3"
+        },
+        {
+            "kanji": "住所を教えてください。",
+            "kana": "じゅうしょをおしえてください。",
+            "translation": "What is your address?",
+            "furigana": [
+                0,
+                5,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "1033718.mp3"
+        },
+        {
+            "kanji": "また後で電話するね。",
+            "kana": "またあとででんわするね。",
+            "translation": "I'll call again later.",
+            "furigana": [
+                2,
+                2,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3024537.mp3"
+        },
+        {
+            "kanji": "ありのままの私を愛してほしいの。",
+            "kana": "ありのままのわたしをあいしてほしいの。",
+            "translation": "I want you to love me for who I am.",
+            "furigana": [
+                6,
+                3,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2409473.mp3"
+        },
+        {
+            "kanji": "シンガポールから来ました。",
+            "kana": "シンガポールからきました。",
+            "translation": "I'm from Singapore.",
+            "furigana": [
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3196466.mp3"
+        },
+        {
+            "kanji": "電話番号を教えてください。",
+            "kana": "でんわばんごうをおしえてください。",
+            "translation": "Give me your phone number.",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "124620.mp3"
+        },
+        {
+            "kanji": "トムの声がする。",
+            "kana": "トムのこえがする。",
+            "translation": "I can hear Tom.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2740725.mp3"
+        },
+        {
+            "kanji": "このことはなかったことにしよう。",
+            "kana": "このことはなかったことにしよう。",
+            "translation": "Let's pretend this never happened.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2229275.mp3"
+        },
+        {
+            "kanji": "仕事はどうですか？",
+            "kana": "しごとはどうですか？",
+            "translation": "How is work?",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "4751203.mp3"
+        },
+        {
+            "kanji": "トムは泥沼にはまった。",
+            "kana": "トムはどろぬまにはまった。",
+            "translation": "Tom fell into the mud.",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2638219.mp3"
+        },
+        {
+            "kanji": "トムは明かりをつけた。",
+            "kana": "トムはあかりをつけた。",
+            "translation": "Tom turned on the light.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2110012.mp3"
+        },
+        {
+            "kanji": "さっき話してた人誰？",
+            "kana": "さっきはなしてたひとだれ？",
+            "translation": "Who was that you were just talking to?",
+            "furigana": [
+                3,
+                2,
+                8,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3624960.mp3"
+        },
+        {
+            "kanji": "これ何分チンしたらいい？",
+            "kana": "これなんぷんチンしたらいい？",
+            "translation": "How long should I microwave this?",
+            "furigana": [
+                2,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3162657.mp3"
+        },
+        {
+            "kanji": "この人形、一人で作ったの？",
+            "kana": "このにんぎょう、ひとりでつくったの？",
+            "translation": "Did you make this doll by yourself?",
+            "furigana": [
+                2,
+                5,
+                8,
+                3,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "3228971.mp3"
+        },
+        {
+            "kanji": "今日は暑いですね。",
+            "kana": "きょうはあついですね。",
+            "translation": "It's hot today.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "171591.mp3"
+        },
+        {
+            "kanji": "これ食べられるんですか？",
+            "kana": "これたべられるんですか？",
+            "translation": "Is this edible?",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3610726.mp3"
+        },
+        {
+            "kanji": "行くの？",
+            "kana": "いくの？",
+            "translation": "Are you going?",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "8769317.mp3"
+        },
+        {
+            "kanji": "まさにこれが欲しかったんです。",
+            "kana": "まさにこれがほしかったんです。",
+            "translation": "This is just what I wanted.",
+            "furigana": [
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2416433.mp3"
+        },
+        {
+            "kanji": "すみません、間違えました。",
+            "kana": "すみません、まちがえました。",
+            "translation": "Sorry, I made a mistake.",
+            "furigana": [
+                6,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2312026.mp3"
+        },
+        {
+            "kanji": "男女間の友情って成立すると思いますか？",
+            "kana": "だんじょかんのゆうじょうってせいりつするとおもいますか？",
+            "translation": "Do you think men and women can ever just be friends?",
+            "furigana": [
+                0,
+                4,
+                4,
+                2,
+                7,
+                5,
+                14,
+                4,
+                21,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2,
+                1
+            ],
+            "sound": "2740719.mp3"
+        },
+        {
+            "kanji": "やっぱりトムは何か隠してると思う。",
+            "kana": "やっぱりトムはなにかかくしてるとおもう。",
+            "translation": "I still think Tom is hiding something.",
+            "furigana": [
+                7,
+                2,
+                10,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2617243.mp3"
+        },
+        {
+            "kanji": "すみません、出口はどこですか？",
+            "kana": "すみません、でぐちはどこですか？",
+            "translation": "Excuse me, where's the exit?",
+            "furigana": [
+                6,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3423944.mp3"
+        },
+        {
+            "kanji": "携帯の番号を教えていただけませんか？",
+            "kana": "けいたいのばんごうをおしえていただけませんか？",
+            "translation": "Can I have your cellphone number?",
+            "furigana": [
+                0,
+                4,
+                5,
+                4,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2682207.mp3"
+        },
+        {
+            "kanji": "今日の晩ご飯カレーだといいな。",
+            "kana": "きょうのばんごはんカレーだといいな。",
+            "translation": "It'd be nice if we had curry for dinner tonight.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2744796.mp3"
+        },
+        {
+            "kanji": "夕食後は外出してはいけません。",
+            "kana": "ゆうしょくごはがいしゅつしてはいけません。",
+            "translation": "You must not go out after dinner.",
+            "furigana": [
+                0,
+                5,
+                5,
+                1,
+                7,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "79072.mp3"
+        },
+        {
+            "kanji": "ごめん、名前何だっけ？",
+            "kana": "ごめん、なまえなんだっけ？",
+            "translation": "Sorry, what was your name?",
+            "furigana": [
+                4,
+                3,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3179527.mp3"
+        },
+        {
+            "kanji": "タバコ吸ったことある？",
+            "kana": "タバコすったことある？",
+            "translation": "Have you ever smoked?",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3561854.mp3"
+        },
+        {
+            "kanji": "そんなこと言うなよ。",
+            "kana": "そんなこというなよ。",
+            "translation": "Don't say that.",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3596583.mp3"
+        },
+        {
+            "kanji": "人に聞く前に少しは自分で調べたら？",
+            "kana": "ひとにきくまえにすこしはじぶんでしらべたら？",
+            "translation": "How about doing a bit of research on your own before asking for help?",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                5,
+                2,
+                8,
+                2,
+                12,
+                3,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "3513007.mp3"
+        },
+        {
+            "kanji": "なんで私のこと好きなの？",
+            "kana": "なんでわたしのことすきなの？",
+            "translation": "Why do you love me?",
+            "furigana": [
+                3,
+                3,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2312685.mp3"
+        },
+        {
+            "kanji": "静かに！",
+            "kana": "しずかに！",
+            "translation": "Hush!",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "142537.mp3"
+        },
+        {
+            "kanji": "またいつかお会いしたいものです。",
+            "kana": "またいつかおあいしたいものです。",
+            "translation": "I would like to see you again sometime.",
+            "furigana": [
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "195525.mp3"
+        },
+        {
+            "kanji": "犬と猫どっちが好き？",
+            "kana": "いぬとねこどっちがすき？",
+            "translation": "Which do you prefer, dogs or cats?",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3643242.mp3"
+        },
+        {
+            "kanji": "あのコアラ見て！",
+            "kana": "あのコアラみて！",
+            "translation": "Look at that koala over there.",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2901219.mp3"
+        },
+        {
+            "kanji": "水泳は好きですか？",
+            "kana": "すいえいはすきですか？",
+            "translation": "Do you like swimming?",
+            "furigana": [
+                0,
+                4,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2750301.mp3"
+        },
+        {
+            "kanji": "トムには言わないでね。",
+            "kana": "トムにはいわないでね。",
+            "translation": "Don't tell Tom.",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3596906.mp3"
+        },
+        {
+            "kanji": "私はここにいたい。",
+            "kana": "わたしはここにいたい。",
+            "translation": "I want to stay here.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "161054.mp3"
+        },
+        {
+            "kanji": "嬉しいくせに。素直に喜びなよ。",
+            "kana": "うれしいくせに。すなおによろこびなよ。",
+            "translation": "I know you're happy about it. Why don't you just show it?",
+            "furigana": [
+                0,
+                2,
+                8,
+                3,
+                12,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "183495.mp3"
+        },
+        {
+            "kanji": "トムんち行ったことある？",
+            "kana": "トムんちいったことある？",
+            "translation": "Have you ever been to Tom's home?",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2941380.mp3"
+        },
+        {
+            "kanji": "もう少し考えさせてください。",
+            "kana": "もうすこしかんがえさせてください。",
+            "translation": "Let me think about it some more.",
+            "furigana": [
+                2,
+                2,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3312291.mp3"
+        },
+        {
+            "kanji": "オーストラリアの水道水は飲めるんですか？",
+            "kana": "オーストラリアのすいどうすいはのめるんですか？",
+            "translation": "Is tapwater drinkable in Australia?",
+            "furigana": [
+                8,
+                4,
+                12,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3023048.mp3"
+        },
+        {
+            "kanji": "何が起こったのですか。",
+            "kana": "なにがおこったのですか。",
+            "translation": "What happened?",
+            "furigana": [
+                0,
+                2,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "188026.mp3"
+        },
+        {
+            "kanji": "トムの家に雷が落ちた。",
+            "kana": "トムのいえにかみなりがおちた。",
+            "translation": "Lightning struck Tom's house.",
+            "furigana": [
+                3,
+                2,
+                6,
+                4,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2706785.mp3"
+        },
+        {
+            "kanji": "トム連れてきてもいい？",
+            "kana": "トムつれてきてもいい？",
+            "translation": "Can I bring Tom?",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2739755.mp3"
+        },
+        {
+            "kanji": "元気出しなよ。",
+            "kana": "げんきだしなよ。",
+            "translation": "Cheer up!",
+            "furigana": [
+                0,
+                3,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3859522.mp3"
+        },
+        {
+            "kanji": "どこの席がいいですか？",
+            "kana": "どこのせきがいいですか？",
+            "translation": "What seats do you want?",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "200904.mp3"
+        },
+        {
+            "kanji": "トムはメガネがないと何も読めないんだ。",
+            "kana": "トムはメガネがないとなにもよめないんだ。",
+            "translation": "Tom can't read without his glasses.",
+            "furigana": [
+                10,
+                2,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "4898361.mp3"
+        },
+        {
+            "kanji": "フランス語は全くできません。",
+            "kana": "フランスごはまったくできません。",
+            "translation": "I can't speak French at all.",
+            "furigana": [
+                4,
+                1,
+                6,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2231256.mp3"
+        },
+        {
+            "kanji": "トムと会いたい。",
+            "kana": "トムとあいたい。",
+            "translation": "I want to meet with Tom.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2033145.mp3"
+        },
+        {
+            "kanji": "トムはひとりでうちに帰った。",
+            "kana": "トムはひとりでうちにかえった。",
+            "translation": "Tom went home alone.",
+            "furigana": [
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4898338.mp3"
+        },
+        {
+            "kanji": "トマトに砂糖かけて食べたことある？",
+            "kana": "トマトにさとうかけてたべたことある？",
+            "translation": "Have you ever eaten tomatoes with sugar?",
+            "furigana": [
+                4,
+                3,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3554292.mp3"
+        },
+        {
+            "kanji": "免許証を見せてください。",
+            "kana": "めんきょしょうをみせてください。",
+            "translation": "Could I see your driver's license?",
+            "furigana": [
+                0,
+                4,
+                4,
+                3,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "80220.mp3"
+        },
+        {
+            "kanji": "こんな時間まで何してたの？",
+            "kana": "こんなじかんまでなにしてたの？",
+            "translation": "What have you been doing so late?",
+            "furigana": [
+                3,
+                3,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3484283.mp3"
+        },
+        {
+            "kanji": "自分で言ったこと覚えてないの？",
+            "kana": "じぶんでいったことおぼえてないの？",
+            "translation": "Don't you remember what you said?",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3593120.mp3"
+        },
+        {
+            "kanji": "駅はここから車で10分です。",
+            "kana": "えきはここからくるまでじゅっぷんです。",
+            "translation": "The station is a ten minute drive from here.",
+            "furigana": [
+                0,
+                2,
+                7,
+                3,
+                11,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                3
+            ],
+            "sound": "188900.mp3"
+        },
+        {
+            "kanji": "なんで？",
+            "kana": "なんで？",
+            "translation": "Why?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "778974.mp3"
+        },
+        {
+            "kanji": "新しいお仕事がんばってください。",
+            "kana": "あたらしいおしごとがんばってください。",
+            "translation": "Good luck with the new job.",
+            "furigana": [
+                0,
+                3,
+                6,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "2529537.mp3"
+        },
+        {
+            "kanji": "ボストンは今何時ですか？",
+            "kana": "ボストンはいまなんじですか？",
+            "translation": "What time is it in Boston?",
+            "furigana": [
+                5,
+                2,
+                7,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3050854.mp3"
+        },
+        {
+            "kanji": "海外旅行は初めてですか？",
+            "kana": "かいがいりょこうははじめてですか？",
+            "translation": "Is this your first trip abroad?",
+            "furigana": [
+                0,
+                4,
+                4,
+                4,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2984091.mp3"
+        },
+        {
+            "kanji": "トムは間違いを認めた。",
+            "kana": "トムはまちがいをみとめた。",
+            "translation": "Tom admitted his mistake.",
+            "furigana": [
+                3,
+                3,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2519127.mp3"
+        },
+        {
+            "kanji": "私が直接お伺いします。",
+            "kana": "わたしがちょくせつおうかがいします。",
+            "translation": "I'll personally visit you.",
+            "furigana": [
+                0,
+                3,
+                4,
+                5,
+                10,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "1643740.mp3"
+        },
+        {
+            "kanji": "トムは高校を中退した。",
+            "kana": "トムはこうこうをちゅうたいした。",
+            "translation": "Tom dropped out of high school.",
+            "furigana": [
+                3,
+                4,
+                8,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "2173170.mp3"
+        },
+        {
+            "kanji": "疲れてるならもう寝なよ。",
+            "kana": "つかれてるならもうねなよ。",
+            "translation": "If you're tired, go to bed already.",
+            "furigana": [
+                0,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3573104.mp3"
+        },
+        {
+            "kanji": "トムは元気そうだった。",
+            "kana": "トムはげんきそうだった。",
+            "translation": "Tom looked well.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "4292437.mp3"
+        },
+        {
+            "kanji": "新しい彼氏できたら教えてね。",
+            "kana": "あたらしいかれしできたらおしえてね。",
+            "translation": "Tell me if you find a new boyfriend.",
+            "furigana": [
+                0,
+                3,
+                5,
+                3,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "3179728.mp3"
+        },
+        {
+            "kanji": "トムってバカ？",
+            "kana": "トムってバカ？",
+            "translation": "Is Tom nuts?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "3507421.mp3"
+        },
+        {
+            "kanji": "メアリーってかわいいと思う？",
+            "kana": "メアリーってかわいいとおもう？",
+            "translation": "Do you think Mary is cute?",
+            "furigana": [
+                11,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3504005.mp3"
+        },
+        {
+            "kanji": "トムは寝ていた。",
+            "kana": "トムはねていた。",
+            "translation": "Tom slept.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2315987.mp3"
+        },
+        {
+            "kanji": "どちらへ行かれますか？",
+            "kana": "どちらへいかれますか？",
+            "translation": "Where're you going?",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4164733.mp3"
+        },
+        {
+            "kanji": "トムは多分眠っている。",
+            "kana": "トムはたぶんねむっている。",
+            "translation": "Tom is probably asleep.",
+            "furigana": [
+                3,
+                3,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2626312.mp3"
+        },
+        {
+            "kanji": "あれはトムの？",
+            "kana": "あれはトムの？",
+            "translation": "Is that Tom's?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "3496705.mp3"
+        },
+        {
+            "kanji": "もう大丈夫です。",
+            "kana": "もうだいじょうぶです。",
+            "translation": "I'm fine now.",
+            "furigana": [
+                2,
+                6
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "4897935.mp3"
+        },
+        {
+            "kanji": "ドイツでの生活はどう？",
+            "kana": "ドイツでのせいかつはどう？",
+            "translation": "How's life in Germany?",
+            "furigana": [
+                5,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3244928.mp3"
+        },
+        {
+            "kanji": "宇宙人っていると思う？",
+            "kana": "うちゅうじんっているとおもう？",
+            "translation": "Do you believe in aliens?",
+            "furigana": [
+                0,
+                4,
+                4,
+                2,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3400819.mp3"
+        },
+        {
+            "kanji": "浮気されたことある？",
+            "kana": "うわきされたことある？",
+            "translation": "Have you ever been cheated on?",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3561862.mp3"
+        },
+        {
+            "kanji": "トムは扱いにくい男だ。",
+            "kana": "トムはあつかいにくいおとこだ。",
+            "translation": "Tom is a hard man to deal with.",
+            "furigana": [
+                3,
+                3,
+                10,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2706879.mp3"
+        },
+        {
+            "kanji": "トムは格好いい。",
+            "kana": "トムはかっこういい。",
+            "translation": "Tom is cool.",
+            "furigana": [
+                3,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2622376.mp3"
+        },
+        {
+            "kanji": "トムを見てごらん。",
+            "kana": "トムをみてごらん。",
+            "translation": "Look at Tom.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3507466.mp3"
+        },
+        {
+            "kanji": "トムは腹を立てた。",
+            "kana": "トムははらをたてた。",
+            "translation": "Tom got mad.",
+            "furigana": [
+                3,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2706908.mp3"
+        },
+        {
+            "kanji": "大学生です。",
+            "kana": "だいがくせいです。",
+            "translation": "I'm at university.",
+            "furigana": [
+                0,
+                6
+            ],
+            "kanjiLength": [
+                3
+            ],
+            "sound": "137609.mp3"
+        },
+        {
+            "kanji": "お手伝いしましょうか？",
+            "kana": "おてつだいしましょうか？",
+            "translation": "Do you need a hand?",
+            "furigana": [
+                1,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2125747.mp3"
+        },
+        {
+            "kanji": "もう一度やってください。",
+            "kana": "もういちどやってください。",
+            "translation": "Please do that again.",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "194313.mp3"
+        },
+        {
+            "kanji": "トムは忘れっぽい。",
+            "kana": "トムはわすれっぽい。",
+            "translation": "Tom is forgetful.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2694269.mp3"
+        },
+        {
+            "kanji": "トムって運がいいよね。",
+            "kana": "トムってうんがいいよね。",
+            "translation": "I think Tom is lucky.",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3594831.mp3"
+        },
+        {
+            "kanji": "自由に召し上がって下さい。",
+            "kana": "じゆうにめしあがってください。",
+            "translation": "Please help yourself to anything you like.",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                6,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "149689.mp3"
+        },
+        {
+            "kanji": "今好きな人いる？",
+            "kana": "いますきなひといる？",
+            "translation": "Do you fancy anyone?",
+            "furigana": [
+                0,
+                2,
+                2,
+                1,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3589664.mp3"
+        },
+        {
+            "kanji": "すみません、これ何の列ですか？",
+            "kana": "すみません、これなんのれつですか？",
+            "translation": "Excuse me, what queue is this?",
+            "furigana": [
+                8,
+                2,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3682345.mp3"
+        },
+        {
+            "kanji": "私のことどれくらい好き？",
+            "kana": "わたしのことどれくらいすき？",
+            "translation": "How much do you love me?",
+            "furigana": [
+                0,
+                3,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3530464.mp3"
+        },
+        {
+            "kanji": "お母様の旧姓は何ですか？",
+            "kana": "おかあさまのきゅうせいはなんですか？",
+            "translation": "What's your mother's maiden name?",
+            "furigana": [
+                1,
+                4,
+                6,
+                5,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2868653.mp3"
+        },
+        {
+            "kanji": "トムが踊っている。",
+            "kana": "トムがおどっている。",
+            "translation": "Tom dances.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2622312.mp3"
+        },
+        {
+            "kanji": "なんでこんなに眠いんだろう。",
+            "kana": "なんでこんなにねむいんだろう。",
+            "translation": "Why am I so sleepy?",
+            "furigana": [
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2710526.mp3"
+        },
+        {
+            "kanji": "何言おうとしたか忘れちゃった。",
+            "kana": "なにいおうとしたかわすれちゃった。",
+            "translation": "I forgot what I was going to say.",
+            "furigana": [
+                0,
+                2,
+                2,
+                1,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "2735685.mp3"
+        },
+        {
+            "kanji": "しばらく考えさせていただけませんか？",
+            "kana": "しばらくかんがえさせていただけませんか？",
+            "translation": "Can you let me think about it for a while?",
+            "furigana": [
+                4,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3447236.mp3"
+        },
+        {
+            "kanji": "トムの本名知ってる？",
+            "kana": "トムのほんみょうしってる？",
+            "translation": "Do you know Tom's real name?",
+            "furigana": [
+                3,
+                5,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2721608.mp3"
+        },
+        {
+            "kanji": "右腕が上がりません。",
+            "kana": "みぎうでがあがりません。",
+            "translation": "I can't lift my right arm.",
+            "furigana": [
+                0,
+                4,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2803449.mp3"
+        },
+        {
+            "kanji": "どっか行きたいとこある？",
+            "kana": "どっかいきたいとこある？",
+            "translation": "Do you want to go somewhere?",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "4517157.mp3"
+        },
+        {
+            "kanji": "風邪治ってよかったね。",
+            "kana": "かぜなおってよかったね。",
+            "translation": "I'm glad your cold is better.",
+            "furigana": [
+                0,
+                2,
+                2,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3567548.mp3"
+        },
+        {
+            "kanji": "トムを見つけて。",
+            "kana": "トムをみつけて。",
+            "translation": "Find Tom.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3573587.mp3"
+        },
+        {
+            "kanji": "アイス買ってくれたらチューしてあげる。",
+            "kana": "アイスかってくれたらチューしてあげる。",
+            "translation": "If you buy me an ice cream, I'll kiss you.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2210437.mp3"
+        },
+        {
+            "kanji": "そんな言い訳が通用すると思ってんの？",
+            "kana": "そんないいわけがつうようするとおもってんの？",
+            "translation": "Do you really think you'll get away with an excuse like that?",
+            "furigana": [
+                3,
+                1,
+                5,
+                2,
+                8,
+                4,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "3159672.mp3"
+        },
+        {
+            "kanji": "質問はありますか？",
+            "kana": "しつもんはありますか？",
+            "translation": "Any questions?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2278888.mp3"
+        },
+        {
+            "kanji": "タクシーを呼んでいただけませんか？",
+            "kana": "タクシーをよんでいただけませんか？",
+            "translation": "Can you call a taxi for me?",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3554835.mp3"
+        },
+        {
+            "kanji": "トムにとって幸せって何？",
+            "kana": "トムにとってしあわせってなに？",
+            "translation": "What's happiness for you, Tom?",
+            "furigana": [
+                6,
+                3,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3324259.mp3"
+        },
+        {
+            "kanji": "それ見せて。",
+            "kana": "それみせて。",
+            "translation": "Let me see that.",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3560587.mp3"
+        },
+        {
+            "kanji": "カナダ人に生まれたかった。",
+            "kana": "カナダじんにうまれたかった。",
+            "translation": "I wish I'd been born Canadian.",
+            "furigana": [
+                3,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3122652.mp3"
+        },
+        {
+            "kanji": "なんか変な臭いしない？",
+            "kana": "なんかへんなにおいしない？",
+            "translation": "Do you smell something strange?",
+            "furigana": [
+                3,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2960829.mp3"
+        },
+        {
+            "kanji": "来れない場合は、できるだけ早く連絡してください。",
+            "kana": "これないばあいは、できるだけはやくれんらくしてください。",
+            "translation": "If you can't make it, call us as soon as possible.",
+            "furigana": [
+                0,
+                1,
+                4,
+                3,
+                14,
+                2,
+                17,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2
+            ],
+            "sound": "78697.mp3"
+        },
+        {
+            "kanji": "たまに訳もなくイライラすることってない？",
+            "kana": "たまにわけもなくイライラすることってない？",
+            "translation": "Do you sometimes get pissed off for no reason?",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3559190.mp3"
+        },
+        {
+            "kanji": "これ誰にもらったんですか？",
+            "kana": "これだれにもらったんですか？",
+            "translation": "Who gave you this?",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2419799.mp3"
+        },
+        {
+            "kanji": "人を名前で判断してはいけません。",
+            "kana": "ひとをなまえではんだんしてはいけません。",
+            "translation": "You should not judge people based on their name.",
+            "furigana": [
+                0,
+                2,
+                3,
+                3,
+                7,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "2678150.mp3"
+        },
+        {
+            "kanji": "一度に何冊まで借りられますか？",
+            "kana": "いちどになんさつまでかりられますか？",
+            "translation": "How many books can I take out at one time?",
+            "furigana": [
+                0,
+                2,
+                2,
+                1,
+                4,
+                2,
+                6,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "2869674.mp3"
+        },
+        {
+            "kanji": "耳たぶって何のためにあるんだろう？",
+            "kana": "みみたぶってなんのためにあるんだろう？",
+            "translation": "I wonder why we have ear lobes.",
+            "furigana": [
+                0,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3242143.mp3"
+        },
+        {
+            "kanji": "これ誰のか分かる？",
+            "kana": "これだれのかわかる？",
+            "translation": "Do you know whose it is?",
+            "furigana": [
+                2,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2836250.mp3"
+        },
+        {
+            "kanji": "どちらの方が正しいと思いますか。",
+            "kana": "どちらのほうがただしいとおもいますか。",
+            "translation": "Which one do you think is correct?",
+            "furigana": [
+                4,
+                2,
+                7,
+                2,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "200730.mp3"
+        },
+        {
+            "kanji": "このドレス、太って見えるかな？",
+            "kana": "このドレス、ふとってみえるかな？",
+            "translation": "Does this dress make me look fat?",
+            "furigana": [
+                6,
+                2,
+                10,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3059318.mp3"
+        },
+        {
+            "kanji": "ちょっと手伝ってもらえませんか。",
+            "kana": "ちょっとてつだってもらえませんか。",
+            "translation": "I'd like a little help.",
+            "furigana": [
+                4,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3115532.mp3"
+        },
+        {
+            "kanji": "分かってます。",
+            "kana": "わかってます。",
+            "translation": "I know.",
+            "furigana": [
+                0,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2518677.mp3"
+        },
+        {
+            "kanji": "こんなところに池があるなんて知らなかった。",
+            "kana": "こんなところにいけがあるなんてしらなかった。",
+            "translation": "I didn't know there was a pond here.",
+            "furigana": [
+                7,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3549918.mp3"
+        },
+        {
+            "kanji": "シュークリーム買ってきたけど食べる？",
+            "kana": "シュークリームかってきたけどたべる？",
+            "translation": "I've bought some cream puffs. Do you want one?",
+            "furigana": [
+                7,
+                1,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3846660.mp3"
+        },
+        {
+            "kanji": "トムは働けない。",
+            "kana": "トムははたらけない。",
+            "translation": "Tom can't work.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2617891.mp3"
+        },
+        {
+            "kanji": "トムは97歳まで生きた。",
+            "kana": "トムはきゅうじゅうななさいまでいきた。",
+            "translation": "Tom lived to be 97.",
+            "furigana": [
+                3,
+                8,
+                11,
+                2,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2690805.mp3"
+        },
+        {
+            "kanji": "この靴どこで買ったの？",
+            "kana": "このくつどこでかったの？",
+            "translation": "Where did you buy these shoes?",
+            "furigana": [
+                2,
+                2,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3595186.mp3"
+        },
+        {
+            "kanji": "信号青になったよ。",
+            "kana": "しんごうあおになったよ。",
+            "translation": "The light turned green.",
+            "furigana": [
+                0,
+                4,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3589613.mp3"
+        },
+        {
+            "kanji": "野球って何が面白いの？",
+            "kana": "やきゅうってなにがおもしろいの？",
+            "translation": "What's so interesting about baseball?",
+            "furigana": [
+                0,
+                4,
+                6,
+                2,
+                9,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "3361537.mp3"
+        },
+        {
+            "kanji": "フランス語はいつから勉強してるの？",
+            "kana": "フランスごはいつからべんきょうしてるの？",
+            "translation": "When did you start studying French?",
+            "furigana": [
+                4,
+                1,
+                10,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3229603.mp3"
+        },
+        {
+            "kanji": "宿題って何のためにあるんだろう。",
+            "kana": "しゅくだいってなんのためにあるんだろう。",
+            "translation": "Why do we have homework?",
+            "furigana": [
+                0,
+                5,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3484383.mp3"
+        },
+        {
+            "kanji": "大学ってもっと楽しいところだと思ってた。",
+            "kana": "だいがくってもっとたのしいところだとおもってた。",
+            "translation": "I thought college would be a more interesting place.",
+            "furigana": [
+                0,
+                4,
+                9,
+                2,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "3556198.mp3"
+        },
+        {
+            "kanji": "トムは泣いていた。",
+            "kana": "トムはないていた。",
+            "translation": "Tom cried.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2515512.mp3"
+        },
+        {
+            "kanji": "昨日一緒にいた女の人誰？",
+            "kana": "きのういっしょにいたおんなのひとだれ？",
+            "translation": "Who was the girl you were with the other day?",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                10,
+                3,
+                14,
+                2,
+                16,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "3625005.mp3"
+        },
+        {
+            "kanji": "これ自分で描いたの？",
+            "kana": "これじぶんでかいたの？",
+            "translation": "Did you draw this yourself?",
+            "furigana": [
+                2,
+                3,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3093923.mp3"
+        },
+        {
+            "kanji": "熱計ってみたら？",
+            "kana": "ねつはかってみたら？",
+            "translation": "Why don't you take your temperature?",
+            "furigana": [
+                0,
+                2,
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3023116.mp3"
+        },
+        {
+            "kanji": "出口はどこですか？",
+            "kana": "でぐちはどこですか？",
+            "translation": "Where's the exit?",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "3549611.mp3"
+        },
+        {
+            "kanji": "出身はどちらですか。",
+            "kana": "しゅっしんはどちらですか。",
+            "translation": "Where are you from?",
+            "furigana": [
+                0,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "147746.mp3"
+        },
+        {
+            "kanji": "すみません、わざとじゃないんです。",
+            "kana": "すみません、わざとじゃないんです。",
+            "translation": "I'm sorry. I didn't do it on purpose.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "2522590.mp3"
+        },
+        {
+            "kanji": "そんなこと誰に言われたの？",
+            "kana": "そんなことだれにいわれたの？",
+            "translation": "Who told you that?",
+            "furigana": [
+                5,
+                2,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2691519.mp3"
+        },
+        {
+            "kanji": "ファイルが破損しています。",
+            "kana": "ファイルがはそんしています。",
+            "translation": "The file is corrupt.",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2976561.mp3"
+        },
+        {
+            "kanji": "娘が6月に結婚します。",
+            "kana": "むすめがろくがつにけっこんします。",
+            "translation": "My daughter will get married in June.",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                9,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2
+            ],
+            "sound": "3050892.mp3"
+        },
+        {
+            "kanji": "昨日は何時に寝たんですか？",
+            "kana": "きのうはなんじにねたんですか？",
+            "translation": "What time did you go to bed yesterday?",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "2726763.mp3"
+        },
+        {
+            "kanji": "新聞どこ？",
+            "kana": "しんぶんどこ？",
+            "translation": "Where's the newspaper?",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "145180.mp3"
+        },
+        {
+            "kanji": "トムを叩いた。",
+            "kana": "トムをたたいた。",
+            "translation": "I hit Tom.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2556219.mp3"
+        },
+        {
+            "kanji": "トムは気を失った。",
+            "kana": "トムはきをうしなった。",
+            "translation": "Tom fainted.",
+            "furigana": [
+                3,
+                1,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2370549.mp3"
+        },
+        {
+            "kanji": "私、人に影響されやすいタイプなんです。",
+            "kana": "わたし、ひとにえいきょうされやすいタイプなんです。",
+            "translation": "I'm easily influenced.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "3014668.mp3"
+        },
+        {
+            "kanji": "ここから歩いてわずか10分です。",
+            "kana": "ここからあるいてわずかじゅっぷんです。",
+            "translation": "It's only ten minutes' walk from here.",
+            "furigana": [
+                4,
+                2,
+                11,
+                3,
+                14,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "224725.mp3"
+        },
+        {
+            "kanji": "この近くに薬局はありますか？",
+            "kana": "このちかくにやっきょくはありますか？",
+            "translation": "Is there a pharmacy nearby?",
+            "furigana": [
+                2,
+                2,
+                6,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "3554825.mp3"
+        },
+        {
+            "kanji": "トムに聞いて。",
+            "kana": "トムにきいて。",
+            "translation": "Ask Tom.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2038384.mp3"
+        },
+        {
+            "kanji": "パンのお代わりはいかがですか？",
+            "kana": "パンのおかわりはいかがですか？",
+            "translation": "Would you like some more bread?",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3071321.mp3"
+        },
+        {
+            "kanji": "人前で歌を歌ったことはありますか？",
+            "kana": "ひとまえでうたをうたったことはありますか？",
+            "translation": "Have you ever sung in public?",
+            "furigana": [
+                0,
+                4,
+                5,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "2298473.mp3"
+        },
+        {
+            "kanji": "ちょっと考えさせて下さい。",
+            "kana": "ちょっとかんがえさせてください。",
+            "translation": "Let me think for a minute.",
+            "furigana": [
+                4,
+                3,
+                11,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "202776.mp3"
+        },
+        {
+            "kanji": "助けてください。",
+            "kana": "たすけてください。",
+            "translation": "Help me.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "1039551.mp3"
+        },
+        {
+            "kanji": "トムは片目が見えない。",
+            "kana": "トムはかためがみえない。",
+            "translation": "Tom is blind in one eye.",
+            "furigana": [
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "1097534.mp3"
+        },
+        {
+            "kanji": "バス停で待ってるよ。",
+            "kana": "バスていでまってるよ。",
+            "translation": "I'll wait at the bus stop.",
+            "furigana": [
+                2,
+                2,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "1656230.mp3"
+        },
+        {
+            "kanji": "まだ起きてる？",
+            "kana": "まだおきてる？",
+            "translation": "You're still up?",
+            "furigana": [
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2569601.mp3"
+        },
+        {
+            "kanji": "トムはよく働く。",
+            "kana": "トムはよくはたらく。",
+            "translation": "Tom works hard.",
+            "furigana": [
+                5,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "199994.mp3"
+        },
+        {
+            "kanji": "ちょっと静かにしてください。",
+            "kana": "ちょっとしずかにしてください。",
+            "translation": "Be quiet for a moment.",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "1171907.mp3"
+        },
+        {
+            "kanji": "最近寝ても寝ても寝足りない気がする。",
+            "kana": "さいきんねてもねてもねたりないきがする。",
+            "translation": "Recently, no matter how much I sleep, it never seems to be enough.",
+            "furigana": [
+                0,
+                4,
+                4,
+                1,
+                7,
+                1,
+                10,
+                1,
+                11,
+                1,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "3227739.mp3"
+        },
+        {
+            "kanji": "また明日。",
+            "kana": "またあした。",
+            "translation": "See you tomorrow.",
+            "furigana": [
+                2,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "195390.mp3"
+        },
+        {
+            "kanji": "トムの字ってうまくはないけど読みやすいよね。",
+            "kana": "トムのじってうまくはないけどよみやすいよね。",
+            "translation": "Tom's handwriting isn't very good, but it's easy to read.",
+            "furigana": [
+                3,
+                1,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2944728.mp3"
+        },
+        {
+            "kanji": "このカメラいくらですか？",
+            "kana": "このカメラいくらですか？",
+            "translation": "How much is this camera?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "4817731.mp3"
+        },
+        {
+            "kanji": "トムの彼女って誰？",
+            "kana": "トムのかのじょってだれ？",
+            "translation": "Who's Tom's girlfriend?",
+            "furigana": [
+                3,
+                4,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2767287.mp3"
+        },
+        {
+            "kanji": "変なこと聞いてもいい？",
+            "kana": "へんなこときいてもいい？",
+            "translation": "Can I ask you something strange?",
+            "furigana": [
+                0,
+                2,
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3559173.mp3"
+        },
+        {
+            "kanji": "洗濯機から変な音がしてるよ。",
+            "kana": "せんたくきからへんなおとがしてるよ。",
+            "translation": "The washing machine is making a strange sound.",
+            "furigana": [
+                0,
+                5,
+                7,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                1
+            ],
+            "sound": "2660416.mp3"
+        },
+        {
+            "kanji": "この番号にもう一度かけてみていただけますか。",
+            "kana": "このばんごうにもういちどかけてみていただけますか。",
+            "translation": "Can you try this number again?",
+            "furigana": [
+                2,
+                4,
+                9,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "220155.mp3"
+        },
+        {
+            "kanji": "トルコ料理って食べたことある？",
+            "kana": "トルコりょうりってたべたことある？",
+            "translation": "Have you ever eaten Turkish food?",
+            "furigana": [
+                3,
+                4,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3155508.mp3"
+        },
+        {
+            "kanji": "もっと幸せになりたい。",
+            "kana": "もっとしあわせになりたい。",
+            "translation": "I want to be happier.",
+            "furigana": [
+                3,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2758982.mp3"
+        },
+        {
+            "kanji": "トムと連絡が取れない。",
+            "kana": "トムとれんらくがとれない。",
+            "translation": "I can't contact Tom.",
+            "furigana": [
+                3,
+                4,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "2242027.mp3"
+        },
+        {
+            "kanji": "転ばないようにね。",
+            "kana": "ころばないようにね。",
+            "translation": "Be careful not to fall.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3241561.mp3"
+        },
+        {
+            "kanji": "これはとても重要なポイントです。",
+            "kana": "これはとてもじゅうようなポイントです。",
+            "translation": "This is a very important point.",
+            "furigana": [
+                6,
+                5
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "218563.mp3"
+        },
+        {
+            "kanji": "トムが謝ることじゃないよ。私が勝手にトムのこと好きになっただけなんだから。",
+            "kana": "トムがあやまることじゃないよ。わたしがかってにトムのことすきになっただけなんだから。",
+            "translation": "You don't need to apologize, Tom. I fell in love with you all on my own.",
+            "furigana": [
+                3,
+                3,
+                15,
+                3,
+                19,
+                3,
+                28,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "3227532.mp3"
+        },
+        {
+            "kanji": "食中毒の経験はありますか？",
+            "kana": "しょくちゅうどくのけいけんはありますか？",
+            "translation": "Have you ever had food poisoning?",
+            "furigana": [
+                0,
+                8,
+                9,
+                4
+            ],
+            "kanjiLength": [
+                3,
+                2
+            ],
+            "sound": "2780838.mp3"
+        },
+        {
+            "kanji": "かばん開いてますよ。",
+            "kana": "かばんあいてますよ。",
+            "translation": "Your bag's open.",
+            "furigana": [
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3565442.mp3"
+        },
+        {
+            "kanji": "弟は今オーストラリアにいます。",
+            "kana": "おとうとはいまオーストラリアにいます。",
+            "translation": "My brother's in Australia now.",
+            "furigana": [
+                0,
+                4,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3050889.mp3"
+        },
+        {
+            "kanji": "電話番号教えてもらってもいい？",
+            "kana": "でんわばんごうおしえてもらってもいい？",
+            "translation": "Can I have your phone number?",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "3024520.mp3"
+        },
+        {
+            "kanji": "お急ぎですか？",
+            "kana": "おいそぎですか？",
+            "translation": "Are you in a hurry?",
+            "furigana": [
+                1,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3454115.mp3"
+        },
+        {
+            "kanji": "どうぞおかけになってください。",
+            "kana": "どうぞおかけになってください。",
+            "translation": "Sit down, please.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "201362.mp3"
+        },
+        {
+            "kanji": "あの店でノートは売っていますか？",
+            "kana": "あのみせでノートはうっていますか？",
+            "translation": "Do they sell notebooks at that store?",
+            "furigana": [
+                2,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "230563.mp3"
+        },
+        {
+            "kanji": "やり方教えてくれたらやるよ。",
+            "kana": "やりかたおしえてくれたらやるよ。",
+            "translation": "I'll do it if you show me how.",
+            "furigana": [
+                2,
+                2,
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3579912.mp3"
+        },
+        {
+            "kanji": "トムは作り笑いをした。",
+            "kana": "トムはつくりわらいをした。",
+            "translation": "Tom forced a smile.",
+            "furigana": [
+                3,
+                2,
+                6,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2916988.mp3"
+        },
+        {
+            "kanji": "すぐに帰ってきて下さい。",
+            "kana": "すぐにかえってきてください。",
+            "translation": "Please come back at once.",
+            "furigana": [
+                3,
+                2,
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "214907.mp3"
+        },
+        {
+            "kanji": "こちらの用紙に記入してください。",
+            "kana": "こちらのようしにきにゅうしてください。",
+            "translation": "Please fill out this form.",
+            "furigana": [
+                4,
+                3,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "3559550.mp3"
+        },
+        {
+            "kanji": "トムには関係ないんだ。",
+            "kana": "トムにはかんけいないんだ。",
+            "translation": "This doesn't concern you, Tom.",
+            "furigana": [
+                4,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "2385311.mp3"
+        },
+        {
+            "kanji": "明日は一日家にいます。",
+            "kana": "あすはいちにちいえにいます。",
+            "translation": "I'll be at home all day tomorrow.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                5,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "4804659.mp3"
+        },
+        {
+            "kanji": "何食べたい？",
+            "kana": "なにたべたい？",
+            "translation": "What do you wanna eat?",
+            "furigana": [
+                0,
+                2,
+                2,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3466602.mp3"
+        },
+        {
+            "kanji": "甘いものが食べたい。",
+            "kana": "あまいものがたべたい。",
+            "translation": "I want to eat something sweet.",
+            "furigana": [
+                0,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3635288.mp3"
+        },
+        {
+            "kanji": "この部屋の家賃はいくらですか。",
+            "kana": "このへやのやちんはいくらですか。",
+            "translation": "How much is the rent for this room?",
+            "furigana": [
+                2,
+                2,
+                5,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "220023.mp3"
+        },
+        {
+            "kanji": "明らかにトムの責任だ。",
+            "kana": "あきらかにトムのせきにんだ。",
+            "translation": "It's clearly Tom's responsibility.",
+            "furigana": [
+                0,
+                2,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "2706808.mp3"
+        },
+        {
+            "kanji": "これは何という花ですか？",
+            "kana": "これはなんというはなですか？",
+            "translation": "What's this flower called?",
+            "furigana": [
+                3,
+                2,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3481397.mp3"
+        },
+        {
+            "kanji": "私のせいにしないでよ。",
+            "kana": "わたしのせいにしないでよ。",
+            "translation": "Don't blame me.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2917014.mp3"
+        },
+        {
+            "kanji": "お子さんはおいくつですか？",
+            "kana": "おこさんはおいくつですか？",
+            "translation": "How old is your child?",
+            "furigana": [
+                1,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "3574891.mp3"
+        },
+        {
+            "kanji": "トムに鍵渡した？",
+            "kana": "トムにかぎわたした？",
+            "translation": "Did you give Tom the key?",
+            "furigana": [
+                3,
+                2,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "3927443.mp3"
+        },
+        {
+            "kanji": "クレジットカードは使えますか。",
+            "kana": "クレジットカードはつかえますか。",
+            "translation": "Do you take plastic?",
+            "furigana": [
+                9,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "398975.mp3"
+        },
+        {
+            "kanji": "これなんていうんですか？",
+            "kana": "これなんていうんですか？",
+            "translation": "What's this called?",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "4772853.mp3"
+        },
+        {
+            "kanji": "ゆっくり休んでね。",
+            "kana": "ゆっくりやすんでね。",
+            "translation": "Have a good rest!",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2456854.mp3"
+        },
+        {
+            "kanji": "もうこれ以上待てないよ。",
+            "kana": "もうこれいじょうまてないよ。",
+            "translation": "I can wait no longer.",
+            "furigana": [
+                4,
+                4,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "4260419.mp3"
+        },
+        {
+            "kanji": "お昼はもう食べたよ。",
+            "kana": "おひるはもうたべたよ。",
+            "translation": "I have already eaten lunch.",
+            "furigana": [
+                1,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "2269121.mp3"
+        },
+        {
+            "kanji": "フランス語はさっぱりできません。",
+            "kana": "フランスごはさっぱりできません。",
+            "translation": "I don't speak any French.",
+            "furigana": [
+                4,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2232977.mp3"
+        },
+        {
+            "kanji": "トムは興味津々だ。",
+            "kana": "トムはきょうみしんしんだ。",
+            "translation": "Tom is curious.",
+            "furigana": [
+                3,
+                8
+            ],
+            "kanjiLength": [
+                4
+            ],
+            "sound": "2622374.mp3"
+        },
+        {
+            "kanji": "明日の英語って宿題あったっけ？",
+            "kana": "あしたのえいごってしゅくだいあったっけ？",
+            "translation": "Did we have any English homework due tomorrow?",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                9,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "4593695.mp3"
+        },
+        {
+            "kanji": "電話して。",
+            "kana": "でんわして。",
+            "translation": "Call me.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "13523695.mp3"
+        },
+        {
+            "kanji": "ボストンは素晴らしい街です。",
+            "kana": "ボストンはすばらしいまちです。",
+            "translation": "Boston is a great town.",
+            "furigana": [
+                5,
+                2,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3984850.mp3"
+        },
+        {
+            "kanji": "久しぶりに話せてよかったよ。また話そうね。",
+            "kana": "ひさしぶりにはなせてよかったよ。またはなそうね。",
+            "translation": "It was good chatting like old times. Let's talk again some time.",
+            "furigana": [
+                0,
+                2,
+                6,
+                2,
+                18,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "3740659.mp3"
+        },
+        {
+            "kanji": "ちょっと待って下さい。",
+            "kana": "ちょっとまってください。",
+            "translation": "Just a minute.",
+            "furigana": [
+                4,
+                1,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "202733.mp3"
+        },
+        {
+            "kanji": "コーヒーをください。",
+            "kana": "コーヒーをください。",
+            "translation": "Coffee, please.",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "224884.mp3"
+        },
+        {
+            "kanji": "トムって気分屋だよね。",
+            "kana": "トムってきぶんやだよね。",
+            "translation": "Tom is a moody guy.",
+            "furigana": [
+                4,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "3594833.mp3"
+        },
+        {
+            "kanji": "目が10個あったら5冊の本を同時に読めるのに。",
+            "kana": "めがじゅっこあったらごさつのほんをどうじによめるのに。",
+            "translation": "If I had ten eyes, I could read five books at the same time.",
+            "furigana": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                1,
+                10,
+                1,
+                11,
+                2,
+                14,
+                2,
+                17,
+                3,
+                21,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "3098450.mp3"
+        },
+        {
+            "kanji": "チャンネル変えてもいい？",
+            "kana": "チャンネルかえてもいい？",
+            "translation": "Can I change the channel?",
+            "furigana": [
+                5,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "202954.mp3"
+        },
+        {
+            "kanji": "どう思われますか？",
+            "kana": "どうおもわれますか？",
+            "translation": "What do you think?",
+            "furigana": [
+                2,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "2308949.mp3"
+        }
+    ]
+}

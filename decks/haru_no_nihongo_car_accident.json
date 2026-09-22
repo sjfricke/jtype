@@ -1,0 +1,1931 @@
+{
+    "name": "haru_no_nihongo_car_accident",
+    "version": 1,
+    "cards": [
+        {
+            "kanji": "ということで、今日は車の話です。",
+            "kana": "ということで、きょうはくるまのはなしです。",
+            "translation": "So, today's topic is about a car.",
+            "furigana": [
+                7,
+                3,
+                11,
+                3,
+                15,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "23.mp3"
+        },
+        {
+            "kanji": "はい、まあ結論から申し上げますと、",
+            "kana": "はい、まあけつろんからもうしあげますと、",
+            "translation": "Well, to give you the conclusion first,",
+            "furigana": [
+                5,
+                4,
+                11,
+                2,
+                14,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1
+            ],
+            "sound": "24.mp3"
+        },
+        {
+            "kanji": "まあ彼氏が事故ったよという話で、",
+            "kana": "まあかれしがじこったよというはなしで、",
+            "translation": "well, it's a story about my boyfriend getting in an accident,",
+            "furigana": [
+                2,
+                3,
+                6,
+                2,
+                14,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "28.mp3"
+        },
+        {
+            "kanji": "最近ね、海外から旅行に来て、",
+            "kana": "さいきんね、かいがいからりょこうにきて、",
+            "translation": "Lately, people come traveling from overseas, and",
+            "furigana": [
+                0,
+                4,
+                6,
+                4,
+                12,
+                4,
+                17,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "31.mp3"
+        },
+        {
+            "kanji": "事故が最近ちょっと増えてるらしいんですよ。",
+            "kana": "じこがさいきんちょっとふえてるらしいんですよ。",
+            "translation": "It seems like accidents have been increasing a bit lately.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                11,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "34.mp3"
+        },
+        {
+            "kanji": "レンタカーをする人が増えれば事故も増えるんですね。",
+            "kana": "レンタカーをするひとがふえればじこもふえるんですね。",
+            "translation": "as more people rent cars, accidents increase too.",
+            "furigana": [
+                8,
+                2,
+                11,
+                1,
+                15,
+                2,
+                18,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "36.mp3"
+        },
+        {
+            "kanji": "私の彼氏はフランス人で、フランスの免許を持っているんですけど、",
+            "kana": "わたしのかれしはフランスじんで、フランスのめんきょをもっているんですけど、",
+            "translation": "My boyfriend is French, and he has a French driver's license, but",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                12,
+                2,
+                21,
+                4,
+                26,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "39.mp3"
+        },
+        {
+            "kanji": "何が起こったかというとですね、",
+            "kana": "なにがおこったかというとですね、",
+            "translation": "As for what happened,",
+            "furigana": [
+                0,
+                2,
+                3,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "45.mp3"
+        },
+        {
+            "kanji": "誰かに巻き込まれた事故じゃないです。",
+            "kana": "だれかにまきこまれたじこじゃないです。",
+            "translation": "and it's not an accident he got dragged into by someone else.",
+            "furigana": [
+                0,
+                2,
+                4,
+                1,
+                6,
+                1,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "47.mp3"
+        },
+        {
+            "kanji": "ごめんなさいね。今ちょっと猫のモナちゃんが「窓を開けろ、開けろ」ということで、",
+            "kana": "ごめんなさいね。いまちょっとねこのモナちゃんが「まどをあけろ、あけろ」ということで、",
+            "translation": "Sorry, right now my cat Mona is going 'open the window, open the window,'",
+            "furigana": [
+                8,
+                2,
+                14,
+                2,
+                24,
+                2,
+                27,
+                1,
+                31,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "51.mp3"
+        },
+        {
+            "kanji": "今、窓を開けてるんで、ちょっとうるさいかもしれないんですけど。",
+            "kana": "いま、まどをあけてるんで、ちょっとうるさいかもしれないんですけど。",
+            "translation": "Right now I have the window open, so it might be a bit noisy, but",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "52.mp3"
+        },
+        {
+            "kanji": "すぐに日本に来てるんですよ。",
+            "kana": "すぐににほんにきてるんですよ。",
+            "translation": "He came to Japan right away.",
+            "furigana": [
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "54.mp3"
+        },
+        {
+            "kanji": "免許も日本の免許に変更していなくて、",
+            "kana": "めんきょもにほんのめんきょにへんこうしていなくて、",
+            "translation": "He also hadn't switched his license to a Japanese one, and",
+            "furigana": [
+                0,
+                4,
+                5,
+                3,
+                9,
+                4,
+                14,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "sound": "56.mp3"
+        },
+        {
+            "kanji": "日本で運転できるようになるらしいんですけど、その2つしか持ってないんですよ。",
+            "kana": "にほんでうんてんできるようになるらしいんですけど、そのふたつしかもってないんですよ。",
+            "translation": "Apparently that lets you drive in Japan, but that's the only two things he has.",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                27,
+                2,
+                32,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "58.mp3"
+        },
+        {
+            "kanji": "フランスって左ハンドルでしょ。",
+            "kana": "フランスってひだりハンドルでしょ。",
+            "translation": "France has left-hand drive, right?",
+            "furigana": [
+                6,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "61.mp3"
+        },
+        {
+            "kanji": "日本って右ハンドルなんですよ。",
+            "kana": "にほんってみぎハンドルなんですよ。",
+            "translation": "Japan has right-hand drive.",
+            "furigana": [
+                0,
+                3,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "62.mp3"
+        },
+        {
+            "kanji": "彼氏は、実は運転練習講座に何回か行ったんですよ。",
+            "kana": "かれしは、じつはうんてんれんしゅうこうざになんかいかいったんですよ。",
+            "translation": "Actually, my boyfriend went to a driving practice course a few times.",
+            "furigana": [
+                0,
+                3,
+                5,
+                2,
+                8,
+                4,
+                12,
+                5,
+                17,
+                3,
+                21,
+                4,
+                26,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "65.mp3"
+        },
+        {
+            "kanji": "ペーパードライバーっていうのは、ちょっと日本独特の言葉っぽいんですけど、",
+            "kana": "ペーパードライバーっていうのは、ちょっとにほんどくとくのことばっぽいんですけど、",
+            "translation": "'Paper driver' seems to be a somewhat uniquely Japanese term, but",
+            "furigana": [
+                20,
+                3,
+                23,
+                4,
+                28,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "67.mp3"
+        },
+        {
+            "kanji": "ペーパードライバーが日本にはいっぱいいて、その人がいきなり運転するのは大変だから、",
+            "kana": "ペーパードライバーがにほんにはいっぱいいて、そのひとがいきなりうんてんするのはたいへんだから、",
+            "translation": "There are tons of 'paper drivers' in Japan, and it's hard for them to suddenly start driving, so",
+            "furigana": [
+                10,
+                3,
+                24,
+                2,
+                31,
+                4,
+                39,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "70.mp3"
+        },
+        {
+            "kanji": "それに申し込んで、運転練習を何回かしてたんですよ。",
+            "kana": "それにもうしこんで、うんてんれんしゅうをなんかいかしてたんですよ。",
+            "translation": "He signed up for that and did driving practice a few times.",
+            "furigana": [
+                3,
+                2,
+                6,
+                1,
+                10,
+                4,
+                14,
+                5,
+                20,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            "sound": "73.mp3"
+        },
+        {
+            "kanji": "「問題ないです」って言われて、",
+            "kana": "「もんだいないです」っていわれて、",
+            "translation": "He was told, 'You're fine,' and",
+            "furigana": [
+                1,
+                4,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "74.mp3"
+        },
+        {
+            "kanji": "20分先のショッピングモールで事故ったんですけど。",
+            "kana": "にじゅっぷんさきのショッピングモールでじこったんですけど。",
+            "translation": "He got into an accident at a shopping mall 20 minutes away.",
+            "furigana": [
+                0,
+                6,
+                6,
+                2,
+                19,
+                2
+            ],
+            "kanjiLength": [
+                3,
+                1,
+                2
+            ],
+            "sound": "79.mp3"
+        },
+        {
+            "kanji": "本当に丁寧な運転をしていたんですよ。",
+            "kana": "ほんとうにていねいなうんてんをしていたんですよ。",
+            "translation": "He was really driving carefully.",
+            "furigana": [
+                0,
+                4,
+                5,
+                4,
+                10,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "82.mp3"
+        },
+        {
+            "kanji": "ごめんなさい。ちょっとモナちゃんがすごいうるさいんですけど、これいつも通りなんで、",
+            "kana": "ごめんなさい。ちょっとモナちゃんがすごいうるさいんですけど、これいつもどおりなんで、",
+            "translation": "Sorry, Mona is being really noisy, but this is normal for her, so",
+            "furigana": [
+                35,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "86.mp3"
+        },
+        {
+            "kanji": "無視してくださいね。",
+            "kana": "むししてくださいね。",
+            "translation": "Please just ignore it.",
+            "furigana": [
+                0,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "87.mp3"
+        },
+        {
+            "kanji": "あの、車の道路にね、出る時に左折するんですよ。",
+            "kana": "あの、くるまのどうろにね、でるときにさせつするんですよ。",
+            "translation": "When he pulls out onto the road, he turns left.",
+            "furigana": [
+                3,
+                3,
+                7,
+                3,
+                13,
+                1,
+                15,
+                2,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "92.mp3"
+        },
+        {
+            "kanji": "それ、気をつけなきゃねって言ってたんですけど、やっちゃったんですね。",
+            "kana": "それ、きをつけなきゃねっていってたんですけど、やっちゃったんですね。",
+            "translation": "He'd been saying he needed to be careful about that, but he ended up doing it anyway.",
+            "furigana": [
+                3,
+                1,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "96.mp3"
+        },
+        {
+            "kanji": "すごい音がしたの。なんか「バーン」みたいな。",
+            "kana": "すごいおとがしたの。なんか「バーン」みたいな。",
+            "translation": "There was a huge sound. Like a 'bang' or something.",
+            "furigana": [
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "103.mp3"
+        },
+        {
+            "kanji": "マジで汗かき始めて。",
+            "kana": "マジであせかきはじめて。",
+            "translation": "I seriously started sweating.",
+            "furigana": [
+                3,
+                2,
+                7,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "108.mp3"
+        },
+        {
+            "kanji": "で、しばらく経ったら、",
+            "kana": "で、しばらくたったら、",
+            "translation": "And after a while,",
+            "furigana": [
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "111.mp3"
+        },
+        {
+            "kanji": "そこに停めて、よく見たらタイヤがパンクしておりまして。",
+            "kana": "そこにとめて、よくみたらタイヤがパンクしておりまして。",
+            "translation": "We parked there, and when we looked closely, the tire had a flat.",
+            "furigana": [
+                3,
+                1,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "114.mp3"
+        },
+        {
+            "kanji": "暑い中、でも車の中にいるの危ないから、1回外出ようよって。",
+            "kana": "あついなか、でもくるまのなかにいるのあぶないから、いっかいそとでようよって。",
+            "translation": "It was hot, but staying in the car was dangerous, so I said let's get out for a bit.",
+            "furigana": [
+                0,
+                2,
+                3,
+                2,
+                8,
+                3,
+                12,
+                2,
+                18,
+                2,
+                25,
+                4,
+                29,
+                2,
+                31,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "124.mp3"
+        },
+        {
+            "kanji": "で、私、車で事故ったの初めてだから、",
+            "kana": "で、わたし、くるまでじこったのはじめてだから、",
+            "translation": "And since this was my first time being in a car accident,",
+            "furigana": [
+                2,
+                3,
+                6,
+                3,
+                10,
+                2,
+                15,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "127.mp3"
+        },
+        {
+            "kanji": "「すみません、事故っちゃって、タイヤがパンクしちゃって、動けないんです」みたいな感じで言って。",
+            "kana": "「すみません、じこっちゃって、タイヤがパンクしちゃって、うごけないんです」みたいなかんじでいって。",
+            "translation": "I said something like, 'Sorry, we got into an accident, the tire went flat, and we can't move.'",
+            "furigana": [
+                7,
+                2,
+                28,
+                2,
+                41,
+                2,
+                45,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "134.mp3"
+        },
+        {
+            "kanji": "「あ、お怪我はありませんか？」みたいな。",
+            "kana": "「あ、おけがはありませんか？」みたいな。",
+            "translation": "Something like, 'Oh, are you hurt at all?'",
+            "furigana": [
+                4,
+                2
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "135.mp3"
+        },
+        {
+            "kanji": "その後、警察に届けなきゃいけないんですよ。",
+            "kana": "そのあと、けいさつにとどけなきゃいけないんですよ。",
+            "translation": "After that, you have to report it to the police.",
+            "furigana": [
+                2,
+                2,
+                5,
+                4,
+                10,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "141.mp3"
+        },
+        {
+            "kanji": "「うわ、めんどくせえ」と思って。",
+            "kana": "「うわ、めんどくせえ」とおもって。",
+            "translation": "I thought, 'Ugh, what a pain.'",
+            "furigana": [
+                12,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "146.mp3"
+        },
+        {
+            "kanji": "で、「お怪我ありませんか？」って、心配してくれんのよ。",
+            "kana": "で、「おけがありませんか？」って、しんぱいしてくれんのよ。",
+            "translation": "And they worried about me, asking 'Are you hurt?'",
+            "furigana": [
+                4,
+                2,
+                17,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "149.mp3"
+        },
+        {
+            "kanji": "「大変申し訳ございません」って感じで言ったら、",
+            "kana": "「たいへんもうしわけございません」ってかんじでいったら、",
+            "translation": "When they said something like, 'We are very sorry,'",
+            "furigana": [
+                1,
+                4,
+                5,
+                2,
+                8,
+                2,
+                19,
+                2,
+                23,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "151.mp3"
+        },
+        {
+            "kanji": "車のレッカーをしなきゃいけない。",
+            "kana": "くるまのレッカーをしなきゃいけない。",
+            "translation": "The car has to be towed.",
+            "furigana": [
+                0,
+                3
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "152.mp3"
+        },
+        {
+            "kanji": "でも、レッカー車も週末だったから、結構時間がかかるって言って、たぶん2時間後ぐらい。",
+            "kana": "でも、レッカーしゃもしゅうまつだったから、けっこうじかんがかかるっていって、たぶんにじかんごぐらい。",
+            "translation": "But since it was the weekend, they said the tow truck would take quite a while, probably around two hours.",
+            "furigana": [
+                7,
+                2,
+                10,
+                5,
+                21,
+                4,
+                25,
+                3,
+                34,
+                1,
+                41,
+                5
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                2,
+                2,
+                1,
+                4
+            ],
+            "sound": "155.mp3"
+        },
+        {
+            "kanji": "停まったその駐車場ってショッピングモールが見える場所なの。",
+            "kana": "とまったそのちゅうしゃじょうってショッピングモールがみえるばしょなの。",
+            "translation": "The parking lot where we stopped is a spot where you can see the shopping mall.",
+            "furigana": [
+                0,
+                1,
+                6,
+                8,
+                26,
+                1,
+                29,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                2
+            ],
+            "sound": "160.mp3"
+        },
+        {
+            "kanji": "ショッピングモールを見ながら私、電話して、「はい、はい」みたいな。",
+            "kana": "ショッピングモールをみながらわたし、でんわして、「はい、はい」みたいな。",
+            "translation": "I was on the phone while looking at the shopping mall, saying 'yes, yes' and stuff.",
+            "furigana": [
+                10,
+                1,
+                14,
+                3,
+                18,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "163.mp3"
+        },
+        {
+            "kanji": "「じゃあ、レッカーお願いします」って言って。",
+            "kana": "「じゃあ、レッカーおねがいします」っていって。",
+            "translation": "I said, 'Okay, please send the tow truck.'",
+            "furigana": [
+                10,
+                2,
+                19,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "164.mp3"
+        },
+        {
+            "kanji": "もうなんか20万とか30万とかかかるみたいな。",
+            "kana": "もうなんかにじゅうまんとかさんじゅうまんとかかかるみたいな。",
+            "translation": "It sounded like it might cost like 200,000 or 300,000 yen.",
+            "furigana": [
+                5,
+                6,
+                13,
+                7
+            ],
+            "kanjiLength": [
+                3,
+                3
+            ],
+            "sound": "168.mp3"
+        },
+        {
+            "kanji": "で、なんで警察に連絡しなきゃいけないかっていうと、",
+            "kana": "で、なんでけいさつにれんらくしなきゃいけないかっていうと、",
+            "translation": "As for why you have to contact the police,",
+            "furigana": [
+                5,
+                4,
+                10,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "171.mp3"
+        },
+        {
+            "kanji": "壊れちゃったら、人のものを壊してるのと一緒なんで、",
+            "kana": "こわれちゃったら、ひとのものをこわしてるのといっしょなんで、",
+            "translation": "If it breaks, it's the same as breaking someone else's property, so",
+            "furigana": [
+                0,
+                2,
+                9,
+                2,
+                15,
+                2,
+                22,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                2
+            ],
+            "sound": "179.mp3"
+        },
+        {
+            "kanji": "だから、その警察が現場検証をしなきゃいけない。",
+            "kana": "だから、そのけいさつがげんばけんしょうをしなきゃいけない。",
+            "translation": "So the police have to investigate the scene.",
+            "furigana": [
+                6,
+                4,
+                11,
+                3,
+                14,
+                5
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2
+            ],
+            "sound": "181.mp3"
+        },
+        {
+            "kanji": "なんか物を壊してないか、もしかしたら人を巻き込んでるんじゃないかとか、",
+            "kana": "なんかものをこわしてないか、もしかしたらひとをまきこんでるんじゃないかとか、",
+            "translation": "Like whether something got broken, or whether someone might have gotten involved, and so on,",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                20,
+                2,
+                23,
+                1,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "sound": "183.mp3"
+        },
+        {
+            "kanji": "ドキドキじゃん、警察とか。",
+            "kana": "ドキドキじゃん、けいさつとか。",
+            "translation": "It's nerve-wracking, right, dealing with the police and all.",
+            "furigana": [
+                8,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "187.mp3"
+        },
+        {
+            "kanji": "「え！警察3人、多くね？」みたいな。",
+            "kana": "「え！けいさつさんにん、おおくね？」みたいな。",
+            "translation": "Like, 'Huh! Three police officers, isn't that a lot?'",
+            "furigana": [
+                3,
+                4,
+                7,
+                4,
+                12,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "189.mp3"
+        },
+        {
+            "kanji": "「免許証出して」とか。",
+            "kana": "「めんきょしょうだして」とか。",
+            "translation": "Things like, 'Show me your license.'",
+            "furigana": [
+                1,
+                7,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                3,
+                1
+            ],
+            "sound": "191.mp3"
+        },
+        {
+            "kanji": "その警察3人に囲まれて、私の彼氏。",
+            "kana": "そのけいさつさんにんにかこまれて、わたしのかれし。",
+            "translation": "My boyfriend, surrounded by those three police officers.",
+            "furigana": [
+                2,
+                4,
+                6,
+                4,
+                11,
+                2,
+                17,
+                3,
+                21,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                2
+            ],
+            "sound": "194.mp3"
+        },
+        {
+            "kanji": "彼氏1人で警察に連れられてさ。",
+            "kana": "かれしひとりでけいさつにつれられてさ。",
+            "translation": "My boyfriend was taken away by the police, all alone.",
+            "furigana": [
+                0,
+                3,
+                3,
+                3,
+                7,
+                4,
+                12,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1
+            ],
+            "sound": "199.mp3"
+        },
+        {
+            "kanji": "私でさえ日本のパトカーに乗ったことないもん。",
+            "kana": "わたしでさえにほんのパトカーにのったことないもん。",
+            "translation": "Even I've never ridden in a Japanese police car.",
+            "furigana": [
+                0,
+                3,
+                6,
+                3,
+                15,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "201.mp3"
+        },
+        {
+            "kanji": "そしたら、なんかすごい仲良くなってて、警察と。",
+            "kana": "そしたら、なんかすごいなかよくなってて、けいさつと。",
+            "translation": "And then, somehow, he'd gotten really friendly with the police.",
+            "furigana": [
+                11,
+                3,
+                20,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2
+            ],
+            "sound": "206.mp3"
+        },
+        {
+            "kanji": "まあ、その辺り、たぶんそんなに治安が悪い地域じゃないから、",
+            "kana": "まあ、そのあたり、たぶんそんなにちあんがわるいちいきじゃないから、",
+            "translation": "Well, that area probably isn't such a high-crime area, so",
+            "furigana": [
+                5,
+                2,
+                16,
+                3,
+                20,
+                2,
+                23,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2
+            ],
+            "sound": "210.mp3"
+        },
+        {
+            "kanji": "「いつ日本に来たの？」とか、",
+            "kana": "「いつにほんにきたの？」とか、",
+            "translation": "Things like, 'When did you come to Japan?'",
+            "furigana": [
+                3,
+                3,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "214.mp3"
+        },
+        {
+            "kanji": "「どんな仕事してんの？」とか、「どこの国？」とか。「えー？」みたいな。",
+            "kana": "「どんなしごとしてんの？」とか、「どこのくに？」とか。「えー？」みたいな。",
+            "translation": "Things like, 'What kind of work do you do?', 'What country are you from?', 'Huh, really?'",
+            "furigana": [
+                4,
+                3,
+                20,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "215.mp3"
+        },
+        {
+            "kanji": "「え、2人は彼氏彼女？」とか、なんかすごいいろんな話をしてて、すごい仲良くなって帰ってきて。",
+            "kana": "「え、ふたりはかれしかのじょ？」とか、なんかすごいいろんなはなしをしてて、すごいなかよくなってかえってきて。",
+            "translation": "'Huh, are you two boyfriend and girlfriend?' and stuff - they talked about all kinds of things and came back really friendly with each other.",
+            "furigana": [
+                3,
+                3,
+                7,
+                3,
+                10,
+                4,
+                29,
+                3,
+                40,
+                3,
+                47,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "217.mp3"
+        },
+        {
+            "kanji": "「あのショッピングモール行きたかったんでしょ？」",
+            "kana": "「あのショッピングモールいきたかったんでしょ？」",
+            "translation": "'You wanted to go to that shopping mall, didn't you?'",
+            "furigana": [
+                12,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "224.mp3"
+        },
+        {
+            "kanji": "「そうだよね。フランスは左ハンドルだからね。そっか、難しいよね」とか言って。",
+            "kana": "「そうだよね。フランスはひだりハンドルだからね。そっか、むずかしいよね」とかいって。",
+            "translation": "They said things like, 'Right, France has left-hand drive. I see, that must be tough.'",
+            "furigana": [
+                12,
+                3,
+                28,
+                3,
+                38,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "226.mp3"
+        },
+        {
+            "kanji": "確か、日本に住んでいる外国の方だけなのか分かんないんだけど、",
+            "kana": "たしか、にほんにすんでいるがいこくのかただけなのかわかんないんだけど、",
+            "translation": "I'm not sure if it's only for foreign nationals living in Japan, but",
+            "furigana": [
+                0,
+                2,
+                4,
+                3,
+                8,
+                1,
+                13,
+                4,
+                18,
+                2,
+                25,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1,
+                2,
+                1,
+                1
+            ],
+            "sound": "229.mp3"
+        },
+        {
+            "kanji": "日本に3か月以上住んでる証明が必要なんだって。",
+            "kana": "にほんにさんかげついじょうすんでるしょうめいがひつようなんだって。",
+            "translation": "Apparently you need proof that you've lived in Japan for three months or more.",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                7,
+                2,
+                9,
+                4,
+                13,
+                1,
+                17,
+                5,
+                23,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                2,
+                1,
+                2,
+                2
+            ],
+            "sound": "231.mp3"
+        },
+        {
+            "kanji": "だから、パスポートを見なきゃいけないみたいな話になって。",
+            "kana": "だから、パスポートをみなきゃいけないみたいなはなしになって。",
+            "translation": "So it turned into a whole thing about needing to check his passport.",
+            "furigana": [
+                10,
+                1,
+                22,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "237.mp3"
+        },
+        {
+            "kanji": "「もう事故は何の問題もないですよ」みたいな感じになったんだけど、",
+            "kana": "「もうじこはなんのもんだいもないですよ」みたいなかんじになったんだけど、",
+            "translation": "It became like, 'The accident itself is no problem at all,' but",
+            "furigana": [
+                3,
+                2,
+                6,
+                2,
+                9,
+                4,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "239.mp3"
+        },
+        {
+            "kanji": "「ごめん。パスポートが必要らしい」みたいな。",
+            "kana": "「ごめん。パスポートがひつようらしい」みたいな。",
+            "translation": "Something like, 'Sorry, apparently you need your passport.'",
+            "furigana": [
+                11,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "243.mp3"
+        },
+        {
+            "kanji": "近かったから、20分くらいだから、「家に行ってパスポートだけ確認させてもらってもいいかな？」",
+            "kana": "ちかかったから、にじゅっぷんくらいだから、「いえにいってパスポートだけかくにんさせてもらってもいいかな？」",
+            "translation": "Since it was close, only about 20 minutes, they asked, 'Could we go to your place and just check your passport?'",
+            "furigana": [
+                0,
+                2,
+                8,
+                6,
+                22,
+                2,
+                25,
+                1,
+                35,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                3,
+                1,
+                1,
+                2
+            ],
+            "sound": "247.mp3"
+        },
+        {
+            "kanji": "タクシーかよ、みたいな。",
+            "kana": "タクシーかよ、みたいな。",
+            "translation": "Like, 'Is this a taxi service or what?'",
+            "furigana": [],
+            "kanjiLength": [],
+            "sound": "250.mp3"
+        },
+        {
+            "kanji": "もし日本の免許証を持っていたら、たぶん大丈夫っぽいんだけど、",
+            "kana": "もしにほんのめんきょしょうをもっていたら、たぶんだいじょうぶっぽいんだけど、",
+            "translation": "If you have a Japanese driver's license, it's probably fine, but",
+            "furigana": [
+                2,
+                3,
+                6,
+                7,
+                14,
+                1,
+                24,
+                6
+            ],
+            "kanjiLength": [
+                2,
+                3,
+                1,
+                3
+            ],
+            "sound": "253.mp3"
+        },
+        {
+            "kanji": "その違反切符、チケットみたいな人も結構多いらしいから、",
+            "kana": "そのいはんきっぷ、チケットみたいなひともけっこうおおいらしいから、",
+            "translation": "There are apparently quite a lot of people who get those violation tickets, so",
+            "furigana": [
+                2,
+                3,
+                5,
+                3,
+                17,
+                2,
+                20,
+                4,
+                24,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            "sound": "262.mp3"
+        },
+        {
+            "kanji": "気づいたら5時とか。",
+            "kana": "きづいたらごじとか。",
+            "translation": "Before we knew it, it was like 5 o'clock.",
+            "furigana": [
+                0,
+                1,
+                5,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "267.mp3"
+        },
+        {
+            "kanji": "レッカーの人も来て、レッカーされまして。",
+            "kana": "レッカーのひともきて、レッカーされまして。",
+            "translation": "The tow truck people came, and the car got towed.",
+            "furigana": [
+                5,
+                2,
+                8,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "268.mp3"
+        },
+        {
+            "kanji": "プラス1500円くらいだったんだけど。",
+            "kana": "プラスせんごひゃくえんくらいだったんだけど。",
+            "translation": "It was an extra 1,500 yen or so.",
+            "furigana": [
+                3,
+                8
+            ],
+            "kanjiLength": [
+                5
+            ],
+            "sound": "272.mp3"
+        },
+        {
+            "kanji": "0円です。",
+            "kana": "ぜろえんです。",
+            "translation": "It's zero yen.",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "275.mp3"
+        },
+        {
+            "kanji": "事故った時は終わったかと思ったんだけど。",
+            "kana": "じこったときはおわったかとおもったんだけど。",
+            "translation": "When we got into the accident, I thought it was all over, but",
+            "furigana": [
+                0,
+                2,
+                4,
+                2,
+                7,
+                1,
+                13,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "279.mp3"
+        },
+        {
+            "kanji": "必ず保険に入ってくださいね。",
+            "kana": "かならずほけんにはいってくださいね。",
+            "translation": "Please be sure to get insurance.",
+            "furigana": [
+                0,
+                3,
+                4,
+                3,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "283.mp3"
+        },
+        {
+            "kanji": "何が起こるか分かんないからね。",
+            "kana": "なにがおこるかわかんないからね。",
+            "translation": "You never know what's going to happen.",
+            "furigana": [
+                0,
+                2,
+                3,
+                1,
+                7,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1
+            ],
+            "sound": "285.mp3"
+        },
+        {
+            "kanji": "わざわざパトカーでショッピングモールまで送ってくれたの。",
+            "kana": "わざわざパトカーでショッピングモールまでおくってくれたの。",
+            "translation": "They went out of their way to drive us to the shopping mall in the police car.",
+            "furigana": [
+                20,
+                2
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "290.mp3"
+        },
+        {
+            "kanji": "あんまり落ち込んでないみたいな。",
+            "kana": "あんまりおちこんでないみたいな。",
+            "translation": "He didn't seem too down about it.",
+            "furigana": [
+                4,
+                1,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "295.mp3"
+        },
+        {
+            "kanji": "「反省しろ！」",
+            "kana": "「はんせいしろ！」",
+            "translation": "'Reflect on what you did!'",
+            "furigana": [
+                1,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "300.mp3"
+        },
+        {
+            "kanji": "「休日終わったぞ！もう6時だから」みたいな。",
+            "kana": "「きゅうじつおわったぞ！もうろくじだから」みたいな。",
+            "translation": "Like, 'The day off is over! It's already 6 o'clock.'",
+            "furigana": [
+                1,
+                5,
+                6,
+                1,
+                14,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                2
+            ],
+            "sound": "302.mp3"
+        },
+        {
+            "kanji": "「いろんなところに電話して大変だったんだからな」って言って。",
+            "kana": "「いろんなところにでんわしてたいへんだったんだからな」っていって。",
+            "translation": "I said, 'It was rough having to call all those different places, you know.'",
+            "furigana": [
+                9,
+                3,
+                14,
+                4,
+                29,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "304.mp3"
+        },
+        {
+            "kanji": "無事に電車で帰りました。",
+            "kana": "ぶじにでんしゃでかえりました。",
+            "translation": "We made it home safely by train.",
+            "furigana": [
+                0,
+                2,
+                3,
+                4,
+                8,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1
+            ],
+            "sound": "307.mp3"
+        },
+        {
+            "kanji": "マジ、ビビった。でも、その後ね、諦めずに、また運転して、",
+            "kana": "マジ、ビビった。でも、そのあとね、あきらめずに、またうんてんして、",
+            "translation": "I was seriously shocked. But after that, without giving up, he kept driving, and",
+            "furigana": [
+                13,
+                2,
+                17,
+                3,
+                26,
+                4
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                2
+            ],
+            "sound": "312.mp3"
+        },
+        {
+            "kanji": "左に曲がる時は、ちゃんとこの幅を取って運転することに気をつけながら、",
+            "kana": "ひだりにまがるときは、ちゃんとこのはばをとってうんてんすることにきをつけながら、",
+            "translation": "while being careful to leave proper clearance when turning left,",
+            "furigana": [
+                0,
+                3,
+                4,
+                1,
+                7,
+                2,
+                17,
+                2,
+                20,
+                1,
+                23,
+                4,
+                32,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ],
+            "sound": "315.mp3"
+        },
+        {
+            "kanji": "無事故無違反で運転しております。",
+            "kana": "むじこむいはんでうんてんしております。",
+            "translation": "He's been driving with no accidents and no violations.",
+            "furigana": [
+                0,
+                3,
+                3,
+                4,
+                8,
+                4
+            ],
+            "kanjiLength": [
+                3,
+                3,
+                2
+            ],
+            "sound": "318.mp3"
+        },
+        {
+            "kanji": "日本で事故したりとか、違反切符取られた人いる？",
+            "kana": "にほんでじこしたりとか、いはんきっぷとられたひといる？",
+            "translation": "Has anyone here gotten into an accident in Japan, or gotten a violation ticket?",
+            "furigana": [
+                0,
+                3,
+                4,
+                2,
+                12,
+                3,
+                15,
+                3,
+                18,
+                1,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                2,
+                1,
+                1
+            ],
+            "sound": "320.mp3"
+        },
+        {
+            "kanji": "とくに事故が起きやすい交差点とか、人が多いところとか、",
+            "kana": "とくにじこがおきやすいこうさてんとか、ひとがおおいところとか、",
+            "translation": "Especially intersections where accidents easily happen, or places with lots of people,",
+            "furigana": [
+                3,
+                2,
+                6,
+                1,
+                11,
+                5,
+                19,
+                2,
+                22,
+                2
+            ],
+            "kanjiLength": [
+                2,
+                1,
+                3,
+                1,
+                1
+            ],
+            "sound": "326.mp3"
+        },
+        {
+            "kanji": "とくに今回は、縁石に車を乗り上げただけで、",
+            "kana": "とくにこんかいは、えんせきにくるまをのりあげただけで、",
+            "translation": "Especially this time, he just drove up onto the curb,",
+            "furigana": [
+                3,
+                4,
+                9,
+                4,
+                14,
+                3,
+                18,
+                1,
+                20,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "sound": "331.mp3"
+        },
+        {
+            "kanji": "とくに何も問題はなく終わりました。",
+            "kana": "とくになにももんだいはなくおわりました。",
+            "translation": "and it ended without any particular problem.",
+            "furigana": [
+                3,
+                2,
+                6,
+                4,
+                13,
+                1
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                1
+            ],
+            "sound": "334.mp3"
+        },
+        {
+            "kanji": "結構ね、警察の優しさに感動した。",
+            "kana": "けっこうね、けいさつのやさしさにかんどうした。",
+            "translation": "I was genuinely touched by how kind the police were.",
+            "furigana": [
+                0,
+                4,
+                6,
+                4,
+                11,
+                2,
+                16,
+                4
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                1,
+                2
+            ],
+            "sound": "337.mp3"
+        },
+        {
+            "kanji": "警察としゃべったことないから、ほぼ。",
+            "kana": "けいさつとしゃべったことないから、ほぼ。",
+            "translation": "I've basically never talked with the police before.",
+            "furigana": [
+                0,
+                4
+            ],
+            "kanjiLength": [
+                2
+            ],
+            "sound": "342.mp3"
+        },
+        {
+            "kanji": "日本の警察も、やっぱり事故が多すぎる場所、",
+            "kana": "にほんのけいさつも、やっぱりじこがおおすぎるばしょ、",
+            "translation": "Japanese police too, in places where there are just too many accidents,",
+            "furigana": [
+                0,
+                3,
+                4,
+                4,
+                14,
+                2,
+                17,
+                2,
+                22,
+                3
+            ],
+            "kanjiLength": [
+                2,
+                2,
+                2,
+                1,
+                2
+            ],
+            "sound": "344.mp3"
+        },
+        {
+            "kanji": "例えばね、新宿とか、新宿歌舞伎町とかね。",
+            "kana": "たとえばね、しんじゅくとか、しんじゅくかぶきちょうとかね。",
+            "translation": "Like, for example, Shinjuku, or Shinjuku's Kabukicho.",
+            "furigana": [
+                0,
+                2,
+                6,
+                5,
+                14,
+                11
+            ],
+            "kanjiLength": [
+                1,
+                2,
+                6
+            ],
+            "sound": "347.mp3"
+        },
+        {
+            "kanji": "当たり前だけど。",
+            "kana": "あたりまえだけど。",
+            "translation": "Well, that's only natural.",
+            "furigana": [
+                0,
+                1,
+                3,
+                2
+            ],
+            "kanjiLength": [
+                1,
+                1
+            ],
+            "sound": "349.mp3"
+        },
+        {
+            "kanji": "はい、ということで、あっという間に9月。",
+            "kana": "はい、ということで、あっというまにくがつ。",
+            "translation": "So, and just like that, it's already September.",
+            "furigana": [
+                15,
+                1,
+                17,
+                3
+            ],
+            "kanjiLength": [
+                1,
+                2
+            ],
+            "sound": "374.mp3"
+        },
+        {
+            "kanji": "お手伝いに行かなきゃ、とか。",
+            "kana": "おてつだいにいかなきゃ、とか。",
+            "translation": "Things like needing to go help out.",
+            "furigana": [
+                1,
+                3,
+                6,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "378.mp3"
+        },
+        {
+            "kanji": "みなさんはいかがお過ごしですかね？",
+            "kana": "みなさんはいかがおすごしですかね？",
+            "translation": "I wonder how everyone's been doing?",
+            "furigana": [
+                9,
+                1
+            ],
+            "kanjiLength": [
+                1
+            ],
+            "sound": "380.mp3"
+        },
+        {
+            "kanji": "風邪ひかないように気をつけてね。",
+            "kana": "かぜひかないようにきをつけてね。",
+            "translation": "Take care not to catch a cold, okay?",
+            "furigana": [
+                0,
+                2,
+                9,
+                1
+            ],
+            "kanjiLength": [
+                2,
+                1
+            ],
+            "sound": "382.mp3"
+        }
+    ]
+}

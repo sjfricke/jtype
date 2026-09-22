@@ -49,8 +49,12 @@ function audioFor(card) {
 
 function playAudio() {
     if (!session.audio) return;
+    // pause() first: if a previous play() call (e.g. the autoplay on card
+    // change) hasn't resolved yet, restarting currentTime/play() under it
+    // can race and silently fail to actually resume playback.
+    session.audio.pause();
     session.audio.currentTime = 0;
-    session.audio.play().catch(() => {});
+    session.audio.play().catch((e) => console.warn('playAudio failed:', e));
 }
 
 function show(screen) {
@@ -174,10 +178,12 @@ function update() {
 }
 
 // Dictation's hint: unmask just the next thing you have to type — one kana, or
-// a whole kanji block, since a block's reading only resolves as a unit.
+// a whole kanji block, since a block's reading only resolves as a unit. A
+// kanji block is useless without its reading, so peek that too.
 function peekNextUnit(show) {
     const { chars, thresholds } = session.view;
     for (const char of chars) char.classList.remove('hint');
+    for (const block of session.view.blocks) block.rt.classList.remove('peek');
     if (!show) return;
 
     const correct = commonPrefixLength(session.input.text, session.card.kana);
@@ -186,6 +192,8 @@ function peekNextUnit(show) {
     for (let i = start; i < chars.length && thresholds[i] === thresholds[start]; i++) {
         chars[i].classList.add('hint');
     }
+    const ruby = chars[start].parentElement;
+    if (ruby.tagName === 'RUBY') ruby.querySelector('rt').classList.add('peek');
 }
 
 function peekFurigana(show) {

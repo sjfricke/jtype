@@ -305,7 +305,7 @@
         },
         {
             "kanji": "あとは話している時に日本にいた時よりも顔をよく見て",
-            "kana": "あとははなしているときににっぽんにいたときよりもかおをよくみて",
+            "kana": "あとははなしているときににほんにいたときよりもかおをよくみて",
             "translation": "Also, I was looking at the other person’s face more than when I was in Japan, and",
             "furigana": [
                 3,
@@ -313,12 +313,12 @@
                 9,
                 2,
                 12,
-                4,
-                19,
+                3,
+                18,
                 2,
-                24,
+                23,
                 2,
-                29,
+                28,
                 1
             ],
             "kanjiLength": [
@@ -812,12 +812,12 @@
         },
         {
             "kanji": "やっぱり日本って治安がいいじゃないですか",
-            "kana": "やっぱりにっぽんってちあんがいいじゃないですか",
+            "kana": "やっぱりにほんってちあんがいいじゃないですか",
             "translation": "As we all know, Japan is safe, right?",
             "furigana": [
                 4,
-                4,
-                10,
+                3,
+                9,
                 3
             ],
             "kanjiLength": [
@@ -847,16 +847,16 @@
         },
         {
             "kanji": "日本とくらべて治安が悪いと思うんですね",
-            "kana": "にっぽんとくらべてちあんがわるいとおもうんですね",
+            "kana": "にほんとくらべてちあんがわるいとおもうんですね",
             "translation": "I think it’s not safe compared to Japan.",
             "furigana": [
                 0,
-                4,
-                9,
                 3,
-                13,
+                8,
+                3,
+                12,
                 2,
-                17,
+                16,
                 2
             ],
             "kanjiLength": [
@@ -922,12 +922,12 @@
         },
         {
             "kanji": "たとえば日本にいてもゆうかいちょっとむずかしい言葉だけど",
-            "kana": "たとえばにっぽんにいてもゆうかいちょっとむずかしいことばだけど",
+            "kana": "たとえばにほんにいてもゆうかいちょっとむずかしいことばだけど",
             "translation": "For example, even if you are in Japan, kidnapping (It’ s a little bit difficult word, but)",
             "furigana": [
                 4,
-                4,
-                25,
+                3,
+                24,
                 3
             ],
             "kanjiLength": [
@@ -938,7 +938,7 @@
         },
         {
             "kanji": "だれかにつれて行かれてしまって殺されてしまうとか物をぬすまれるとかっていうのは日本でもあるじゃん",
-            "kana": "だれかにつれていかれてしまってころされてしまうとかものをぬすまれるとかっていうのはにっぽんでもあるじゃん",
+            "kana": "だれかにつれていかれてしまってころされてしまうとかものをぬすまれるとかっていうのはにほんでもあるじゃん",
             "translation": "Sometimes, someone takes you somewhere and kills you or someone steals something from you in Japan.",
             "furigana": [
                 7,
@@ -948,7 +948,7 @@
                 25,
                 2,
                 41,
-                4
+                3
             ],
             "kanjiLength": [
                 1,
@@ -960,12 +960,12 @@
         },
         {
             "kanji": "ひったくりって日本で言うけどね",
-            "kana": "ひったくりってにっぽんでいうけどね",
+            "kana": "ひったくりってにほんでいうけどね",
             "translation": "We call it “Hittakuri” (stealing)",
             "furigana": [
                 7,
-                4,
-                12,
+                3,
+                11,
                 1
             ],
             "kanjiLength": [
@@ -1014,16 +1014,16 @@
         },
         {
             "kanji": "日本より聞くけどパーセンテージの問題かなと思う",
-            "kana": "にっぽんよりきくけどパーセンテージのもんだいかなとおもう",
+            "kana": "にほんよりきくけどパーセンテージのもんだいかなとおもう",
             "translation": "I hear about it more than when I was in japan, but it’s a matter of percentage, I think.",
             "furigana": [
                 0,
-                4,
-                6,
+                3,
+                5,
                 1,
-                18,
+                17,
                 4,
-                25,
+                24,
                 2
             ],
             "kanjiLength": [
@@ -1049,16 +1049,16 @@
         },
         {
             "kanji": "日本で生まれて育ってるからあまりまわりに気をつけるっていうことになれてないじゃないですか",
-            "kana": "にっぽんでうまれてそだってるからあまりまわりにきをつけるっていうことになれてないじゃないですか",
+            "kana": "にほんでうまれてそだってるからあまりまわりにきをつけるっていうことになれてないじゃないですか",
             "translation": "We were born and we grew up in Japan, so we are not used to being careful around us.",
             "furigana": [
                 0,
+                3,
                 4,
-                5,
                 1,
-                9,
+                8,
                 2,
-                23,
+                22,
                 1
             ],
             "kanjiLength": [
@@ -1084,7 +1084,7 @@
         },
         {
             "kanji": "自分を守るとか自分のものを守るっていう習慣がないんですよね日本であまり",
-            "kana": "じぶんをまもるとかじぶんのものをまもるっていうしゅうかんがないんですよねにっぽんであまり",
+            "kana": "じぶんをまもるとかじぶんのものをまもるっていうしゅうかんがないんですよねにほんであまり",
             "translation": "We don’t have a habit of protecting ourselves or our property in Japan, right?",
             "furigana": [
                 0,
@@ -1098,7 +1098,7 @@
                 23,
                 5,
                 36,
-                4
+                3
             ],
             "kanjiLength": [
                 2,
@@ -1134,18 +1134,18 @@
         },
         {
             "kanji": "日本でも私だけなんですよねリュックを前に持ってる人",
-            "kana": "にっぽんでもわたしだけなんですよねリュックをまえにもってるひと",
+            "kana": "にほんでもわたしだけなんですよねリュックをまえにもってるひと",
             "translation": "I’m the only one who has their backpack on their front.",
             "furigana": [
                 0,
-                4,
-                6,
                 3,
-                22,
+                5,
+                3,
+                21,
                 2,
-                25,
+                24,
                 1,
-                29,
+                28,
                 2
             ],
             "kanjiLength": [
